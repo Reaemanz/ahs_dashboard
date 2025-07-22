@@ -1,0 +1,120 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+IMPACT REPORT DATA SETUP
+
+
+```{r}
+library(readxl)
+library(tidyverse)
+library(stringr)
+
+```
+
+
+```{r message=FALSE, warning=FALSE}
+
+# Load the dataset
+df_raw <- read_excel("F:/Reaemanz/Raising the village/Impact Report Dashboard/RTV Graduated Clusters.xlsx", 
+                     sheet = "RTV Graduated Clusters", col_names = FALSE)
+
+
+# Set the first row as column names
+colnames(df_raw) <- as.character(df_raw[1, ])
+df_raw <- df_raw[-1, ]  # Remove the row that became column names
+
+# Extract the Income Streams row. To be used as the Period column
+income_streams <- df_raw[1, ]  # 2nd row is Income Streams
+df_data <- df_raw[-1, ]        # Remove Income Streams row from data
+
+periods <- unlist(income_streams)[-1]  # exclude the first column
+
+df_long <- df_data %>%
+  pivot_longer(cols = -1, names_to = "Cohort_District", values_to = "Amount") %>%
+  mutate(Year = rep(periods, each = nrow(df_data))) %>%  # 'Year' from income_streams
+  rename(`Income Stream` = 1)  # First column is the income stream category
+
+# Extract cohort year and clean district names
+
+Graduated_clusters_RTV <- df_long %>%
+  mutate(
+    Cohort = str_extract(Cohort_District, "\\b20\\d{2}\\b"),
+    District = Cohort_District %>%
+      str_remove_all("\\d+") %>%           # Remove digits
+      str_remove_all("Cohort") %>%         # Remove the word 'Cohort'
+      str_replace_all("-", "") %>%         # Remove hyphens
+      str_remove("RTV") %>%                # Remove 'RTV' if still present
+      str_squish()                         # Trim and clean up whitespace
+  ) %>%
+  select(District, `Income Stream`, Cohort, Year, Amount)
+
+Graduated_clusters_RTV <- Graduated_clusters_RTV %>%
+  mutate(Status = "RTV")
+
+
+```
+
+CONTROL DATASET
+
+```{r}
+
+# Load the dataset
+df_raw_control <- read_excel("F:/Reaemanz/Raising the village/Impact Report Dashboard/Table 8.xlsx", 
+                     sheet = "Control", col_names = FALSE)
+
+
+# Set the first row as column names
+colnames(df_raw_control) <- as.character(df_raw_control[1, ])
+df_raw_control_v1 <- df_raw_control[-1, ]  # Remove the row that became column names
+
+# Extract the Income Streams row. To be used as the Period column
+income_streams <- df_raw_control_v1[1, ]  # 2nd row is Income Streams
+df_raw_control_v2 <- df_raw_control_v1[-1, ]        # Remove Income Streams row from data
+
+periods <- unlist(income_streams)[-1]  # exclude the first column
+
+df_raw_control_v3 <- df_raw_control_v2 %>%
+  pivot_longer(cols = -1, names_to = "Cohort_District", values_to = "Amount") %>%
+  mutate(Year = rep(periods, each = nrow(df_raw_control_v2))) %>%  # 'Year' from income_streams
+  rename(`Income Stream` = 1)  # First column is the income stream category
+
+# Extract cohort year and clean district names
+
+Graduated_clusters_control <- df_raw_control_v3 %>%
+  mutate(
+    Cohort = str_extract(Cohort_District, "\\b20\\d{2}\\b"),
+    District = Cohort_District %>%
+      str_remove_all("\\d+") %>%           # Remove digits
+      str_remove_all("Cohort") %>%         # Remove the word 'Cohort'
+      str_replace_all("-", "") %>%         # Remove hyphens
+      str_remove("RTV") %>%                # Remove 'RTV' if still present
+      str_squish()                         # Trim and clean up whitespace
+  ) %>%
+  select(District, `Income Stream`, Cohort, Year, Amount)
+
+Graduated_clusters_control <- Graduated_clusters_control %>%
+  mutate(Status = "Control")
+
+```
+
+COMBINED_CONTROL_RTV
+
+```{r}
+combined_RTV_Control <- bind_rows(Graduated_clusters_RTV, Graduated_clusters_control)  %>% view()
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
