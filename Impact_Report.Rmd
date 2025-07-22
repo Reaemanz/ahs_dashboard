@@ -107,10 +107,89 @@ combined_RTV_Control <- bind_rows(Graduated_clusters_RTV, Graduated_clusters_con
 ```
 
 
+RTV OVERALL
+
+```{r}
+# Load the dataset
+df_raw_rtv_overall <- read_excel("F:/Reaemanz/Raising the village/Impact Report Dashboard/Table 14_RTV.xlsx", 
+                     sheet = "overall", col_names = FALSE)
+View(df_raw_rtv_overall)
+```
 
 
+```{r}
+
+# Set first row as column names
+colnames(df_raw_rtv_overall) <- as.character(df_raw_rtv_overall[1, ])
+
+# Remove the first row (it’s now column headers)
+df_raw_rtv_overall <- df_raw_rtv_overall[-1, ]
+
+# Check column names to confirm
+colnames(df_raw_rtv_overall)
+
+# Remove columns with missing or blank names
+df_raw_rtv_overall_v1 <- df_raw_rtv_overall[, colnames(df_raw_rtv_overall) != "" & !is.na(colnames(df_raw_rtv_overall))]
+
+# Replace #DIV/0! with NA and convert numeric columns
+df_raw_rtv_overall_v2 <- df_raw_rtv_overall %>%
+  mutate(across(
+    .cols = -`Income Streams`,  # exclude the text column
+    .fns = ~ na_if(., "#DIV/0!") %>% as.numeric()
+  ))
 
 
+# Convert to long format
+df_raw_rtv_overall_v3 <- df_raw_rtv_overall_v2 %>%
+  pivot_longer(
+    cols = -`Income Streams`,     # All columns except "Income Streams"
+    names_to = "Period",          # Name for new "period" column
+    values_to = "Value"           # Name for new value column
+  )
+
+view(df_raw_rtv_overall_v3)
+```
+
+
+CONTROL OVERALL
+
+```{r}
+
+# Load the dataset
+df_raw_Control_overall <- read_excel("F:/Reaemanz/Raising the village/Impact Report Dashboard/Table 15_Control.xlsx", 
+                     sheet = "Overall", col_names = FALSE)
+
+
+# Set first row as column names
+colnames(df_raw_Control_overall) <- as.character(df_raw_Control_overall[1, ])
+
+# Remove the first row (it’s now column headers)
+df_raw_Control_overall <- df_raw_Control_overall[-1, ]
+
+# Check column names to confirm
+colnames(df_raw_Control_overall)
+
+# Remove columns with missing or blank names
+df_raw_Control_overall_v1 <- df_raw_Control_overall[, colnames(df_raw_Control_overall) != "" & !is.na(colnames(df_raw_Control_overall))]
+
+# Replace #DIV/0! with NA and convert numeric columns
+df_raw_Control_overall_v2 <- df_raw_Control_overall_v1 %>%
+  mutate(across(
+    .cols = -`Income Streams`,  # exclude the text column
+    .fns = ~ na_if(., "#DIV/0!") %>% as.numeric()
+  ))
+
+
+# Convert to long format
+df_raw_Control_overall_v3 <- df_raw_Control_overall_v2 %>%
+  pivot_longer(
+    cols = -`Income Streams`,     # All columns except "Income Streams"
+    names_to = "Period",          # Name for new "period" column
+    values_to = "Value"           # Name for new value column
+  )
+
+view(df_raw_Control_overall_v3)
+```
 
 
 
