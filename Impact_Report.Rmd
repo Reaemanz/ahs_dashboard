@@ -6,7 +6,7 @@ output: html_notebook
 IMPACT REPORT DATA SETUP
 
 
-```{r}
+```{r Librarries, message=FALSE, warning=FALSE, paged.print=FALSE}
 library(readxl)
 library(tidyverse)
 library(stringr)
@@ -14,10 +14,10 @@ library(stringr)
 ```
 
 
-```{r message=FALSE, warning=FALSE}
+```{r RTV Graduated Clusters, message=FALSE, warning=FALSE}
 
 # Load the dataset
-df_raw <- read_excel("F:/Reaemanz/Raising the village/Impact Report Dashboard/RTV Graduated Clusters.xlsx", 
+df_raw <- read_excel("G:/Shared drives/PEAL Master/03.PEAL Analytics Unit Folder/Impact Report Dashboard/RTV Graduated Clusters.xlsx", 
                      sheet = "RTV Graduated Clusters", col_names = FALSE)
 
 
@@ -58,10 +58,10 @@ Graduated_clusters_RTV <- Graduated_clusters_RTV %>%
 
 CONTROL DATASET
 
-```{r}
+```{r Control Graduated Clusters, message=FALSE, warning=FALSE, paged.print=FALSE}
 
 # Load the dataset
-df_raw_control <- read_excel("F:/Reaemanz/Raising the village/Impact Report Dashboard/Table 8.xlsx", 
+df_raw_control <- read_excel("G:/Shared drives/PEAL Master/03.PEAL Analytics Unit Folder/Impact Report Dashboard/Control Graduated Clusters.xlsx", 
                      sheet = "Control", col_names = FALSE)
 
 
@@ -99,9 +99,9 @@ Graduated_clusters_control <- Graduated_clusters_control %>%
 
 ```
 
-COMBINED_CONTROL_RTV
+GRADUATED_CLUSTERS_CONTROL_RTV
 
-```{r}
+```{r Graduated Clusters Control and RTV, message=FALSE, warning=FALSE, paged.print=FALSE}
 combined_RTV_Control <- bind_rows(Graduated_clusters_RTV, Graduated_clusters_control)  %>% view()
 
 ```
@@ -110,26 +110,26 @@ combined_RTV_Control <- bind_rows(Graduated_clusters_RTV, Graduated_clusters_con
 RTV OVERALL
 
 
-```{r}
+```{r RTV Overall, message=FALSE, warning=FALSE, paged.print=FALSE}
 
 # Load the dataset
-df_raw_rtv_overall <- read_excel("F:/Reaemanz/Raising the village/Impact Report Dashboard/Table 14_RTV.xlsx", 
+raw_rtv_overall <- read_excel("G:/Shared drives/PEAL Master/03.PEAL Analytics Unit Folder/Impact Report Dashboard/RTV Overall.xlsx", 
                      sheet = "overall", col_names = FALSE)
 
 # Set first row as column names
-colnames(df_raw_rtv_overall) <- as.character(df_raw_rtv_overall[1, ])
+colnames(raw_rtv_overall) <- as.character(raw_rtv_overall[1, ])
 
 # Remove the first row (it’s now column headers)
-df_raw_rtv_overall <- df_raw_rtv_overall[-1, ]
+raw_rtv_overall <- raw_rtv_overall[-1, ]
 
 # Check column names to confirm
-colnames(df_raw_rtv_overall)
+# colnames(raw_rtv_overall)
 
 # Remove columns with missing or blank names
-df_raw_rtv_overall_v1 <- df_raw_rtv_overall[, colnames(df_raw_rtv_overall) != "" & !is.na(colnames(df_raw_rtv_overall))]
+raw_rtv_overall_v1 <- raw_rtv_overall[, colnames(raw_rtv_overall) != "" & !is.na(colnames(raw_rtv_overall))]
 
 # Replace #DIV/0! with NA and convert numeric columns
-df_raw_rtv_overall_v2 <- df_raw_rtv_overall %>%
+raw_rtv_overall_v2 <- raw_rtv_overall_v1 %>%
   mutate(across(
     .cols = -`Income Streams`,  # exclude the text column
     .fns = ~ na_if(., "#DIV/0!") %>% as.numeric()
@@ -137,14 +137,14 @@ df_raw_rtv_overall_v2 <- df_raw_rtv_overall %>%
 
 
 # Convert to long format
-df_raw_rtv_overall_v3 <- df_raw_rtv_overall_v2 %>%
+raw_rtv_overall_v3 <- raw_rtv_overall_v2 %>%
   pivot_longer(
     cols = -`Income Streams`,     # All columns except "Income Streams"
     names_to = "Period",          # Name for new "period" column
-    values_to = "Value"           # Name for new value column
+    values_to = "Amount"           # Name for new value column
   )
 
-RTV_Overall <- df_raw_rtv_overall_v3 %>%
+RTV_Overall <- raw_rtv_overall_v3 %>%
   mutate(Status = "RTV")
 
 view(RTV_Overall)
@@ -153,10 +153,10 @@ view(RTV_Overall)
 
 CONTROL OVERALL
 
-```{r}
+```{r Control Overall, message=FALSE, warning=FALSE, paged.print=FALSE}
 
 # Load the dataset
-df_raw_Control_overall <- read_excel("F:/Reaemanz/Raising the village/Impact Report Dashboard/Table 15_Control.xlsx", 
+df_raw_Control_overall <- read_excel("G:/Shared drives/PEAL Master/03.PEAL Analytics Unit Folder/Impact Report Dashboard/Control Overall_Table 15.xlsx", 
                      sheet = "Overall", col_names = FALSE)
 
 
@@ -167,7 +167,7 @@ colnames(df_raw_Control_overall) <- as.character(df_raw_Control_overall[1, ])
 df_raw_Control_overall <- df_raw_Control_overall[-1, ]
 
 # Check column names to confirm
-colnames(df_raw_Control_overall)
+# colnames(df_raw_Control_overall)
 
 # Remove columns with missing or blank names
 df_raw_Control_overall_v1 <- df_raw_Control_overall[, colnames(df_raw_Control_overall) != "" & !is.na(colnames(df_raw_Control_overall))]
@@ -199,7 +199,7 @@ view(Control_Overall)
 COMBINED_CONTROL_RTV_OVERALL
 
 ```{r}
-combined_RTV_Control <- bind_rows(RTV_Overall, Control_Overall)  %>% view()
+Overall_RTV_Control_Overall <- bind_rows(RTV_Overall, Control_Overall)  %>% view()
 
 ```
 
@@ -208,10 +208,10 @@ GRADUATED COHORTS
 
 RTV GRADUATED COHORTS
 
-```{r}
+```{r RTV Graduated Cohorts, message=FALSE, warning=FALSE, paged.print=FALSE}
 
 # Load the dataset
-raw_rtv_graduated_cohorts <- read_excel("F:/Reaemanz/Raising the village/Impact Report Dashboard/Table_16_RTV_Graduated_Cohorts.xlsx", 
+raw_rtv_graduated_cohorts <- read_excel("G:/Shared drives/PEAL Master/03.PEAL Analytics Unit Folder/Impact Report Dashboard/Table_16_RTV_Graduated_Cohorts.xlsx", 
                      sheet = "RTV Graduated Cohorts", col_names = FALSE)
 
 # Set first row as column names
@@ -239,7 +239,7 @@ raw_rtv_graduated_cohorts_v3 <- raw_rtv_graduated_cohorts_v2 %>%
   pivot_longer(
     cols = -`Income Streams`,     # All columns except "Income Streams"
     names_to = "Period",          # Name for new "period" column
-    values_to = "Value"           # Name for new value column
+    values_to = "Amount"           # Name for new value column
   )
 
 RTV_Graduated_Cohorts <- raw_rtv_graduated_cohorts_v3 %>%
@@ -252,10 +252,10 @@ view(RTV_Graduated_Cohorts)
 
 CONTROL GRADUATED COHORTS
 
-```{r}
+```{r Control Graduated Cohorts, message=FALSE, warning=FALSE, paged.print=FALSE}
 
 # Load the dataset
-raw_control_graduated_cohorts <- read_excel("F:/Reaemanz/Raising the village/Impact Report Dashboard/Table_16_Control_Graduated_Cohorts.xlsx", 
+raw_control_graduated_cohorts <- read_excel("G:/Shared drives/PEAL Master/03.PEAL Analytics Unit Folder/Impact Report Dashboard/Table_16_Control_Graduated_Cohorts.xlsx", 
                      sheet = "Control Graduated Cohorts", col_names = FALSE)
 
 # Set first row as column names
@@ -283,7 +283,7 @@ raw_control_graduated_cohorts_v3 <- raw_control_graduated_cohorts_v2 %>%
   pivot_longer(
     cols = -`Income Streams`,     # All columns except "Income Streams"
     names_to = "Period",          # Name for new "period" column
-    values_to = "Value"           # Name for new value column
+    values_to = "Amount"           # Name for new value column
   )
 
 Control_Graduated_Cohorts <- raw_control_graduated_cohorts_v3 %>%
@@ -294,7 +294,7 @@ view(Control_Graduated_Cohorts)
 ```
 
 
-COMBINED_CONTROL_GRADUATED
+COMBINED_CONTROL__RTV_GRADUATED_COHORTS
 
 ```{r}
 
@@ -308,7 +308,7 @@ WEIGHTS
 ```{r}
 
 # Load the dataset
-raw_weights <- read_excel("F:/Reaemanz/Raising the village/Impact Report Dashboard/Weights.xlsx", 
+raw_weights <- read_excel("G:/Shared drives/PEAL Master/03.PEAL Analytics Unit Folder/Impact Report Dashboard/Weights.xlsx", 
                      sheet = "Weights", col_names = TRUE)
 
 raw_weights_v1 <- raw_weights %>%
@@ -340,14 +340,49 @@ raw_weights_v3 <- raw_weights_v2 %>%
     values_to = "Weight"           # Name for new value column
   )
 
-#REmove the word 'Weight-'
+#Remove the word 'Weight-'
 
 raw_weights_v4 <- raw_weights_v3 %>%
   mutate(Year = str_remove(Year, "^Weight-"))
-
 
 view(raw_weights_v4)
 
 ```
 
+TOPLINE ALL COHORTS
+
+RTV
+
+```{r}
+
+# Load the dataset
+Topline_All_Cohorts_RTV <- read_excel("G:/Shared drives/PEAL Master/03.PEAL Analytics Unit Folder/Impact Report Dashboard/Topline_All_Cohorts_RTV.xlsx", 
+                     sheet = "Topline", col_names = TRUE)
+
+
+Topline_All_Cohorts_RTV_v1 <- Topline_All_Cohorts_RTV %>%
+  pivot_longer(
+    cols = -c(`Topline`),     # All columns except "Income Streams"
+    names_to = "Year",          # Name for new "period" column
+    values_to = "Amount"           # Name for new value column
+  ) %>% view()
+  
+```
+
+CONTROL
+
+```{r}
+
+# Load the dataset
+Topline_All_Cohorts_Control <- read_excel("G:/Shared drives/PEAL Master/03.PEAL Analytics Unit Folder/Impact Report Dashboard/Topline_All_Cohorts_Control.xlsx", 
+                     sheet = "Control", col_names = TRUE)
+
+
+Topline_All_Cohorts_Control_v1 <- Topline_All_Cohorts_Control %>%
+  pivot_longer(
+    cols = -c(`Topline`),     # All columns except "Income Streams"
+    names_to = "Year",          # Name for new "period" column
+    values_to = "Amount"           # Name for new value column
+  ) %>% view()
+```
 
