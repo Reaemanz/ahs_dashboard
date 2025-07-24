@@ -17,8 +17,7 @@ library(stringr)
 
 ```{r}
 
-
-# Step 1: Load dataset
+# Load dataset
 raw_graduated_RTV <- read_excel(
   "G:/Shared drives/PEAL Master/03.PEAL Analytics Unit Folder/Impact Report Dashboard/RTV Graduated Clusters.xlsx", 
   sheet = "RTV Graduated Clusters",
@@ -84,7 +83,17 @@ Graduated_clusters_RTV <- df_long2 %>%
   ) %>%
   select(District, `Income Streams`, Cohort, Year, Amount)
 
+# write.csv(Graduated_clusters_RTV, "Graduated_clusters_RTV.csv")
+
+# Clean District
 Graduated_clusters_RTV_v1 <- Graduated_clusters_RTV %>%
+  mutate(
+    Status = "RTV",
+    # District = str_remove(District, "^RTV\\s*"),         # Remove 'Control' at the start
+    District = str_remove(District, "\\.*$")                 # Remove trailing dots
+  )
+
+Graduated_clusters_RTV_final <- Graduated_clusters_RTV_v1 %>%
   mutate(District = recode(District,
                            "Kanu" = "Kanungu",
                            "Ruk" = "Rukungiri",
@@ -93,90 +102,159 @@ Graduated_clusters_RTV_v1 <- Graduated_clusters_RTV %>%
 
 ```
 
+CONTROL GRADUATED CLUSTERS
 
-
-CONTROL DATASET
-
-```{r Control Graduated Clusters, message=FALSE, warning=FALSE, paged.print=FALSE}
+```{r}
 
 # Load the dataset
-df_raw_control <- read_excel("G:/Shared drives/PEAL Master/03.PEAL Analytics Unit Folder/Impact Report Dashboard/Control Graduated Clusters.xlsx", 
-                     sheet = "Control", col_names = FALSE)
+raw_control <- read_excel("G:/Shared drives/PEAL Master/03.PEAL Analytics Unit Folder/Impact Report Dashboard/Control Graduated Clusters.xlsx", 
+                     sheet = "Control", col_names = TRUE)
 
+# Save and remove the first row (year row)
+year_row_ctrl <- raw_control[1, ]
+df_no_year_ctrl <- raw_control[-1, ]
 
-# Set the first row as column names
-colnames(df_raw_control) <- as.character(df_raw_control[1, ])
-df_raw_control_v1 <- df_raw_control[-1, ]  # Remove the row that became column names
+# Pivot longer to get tidy format (Cohort, Amount)
+df_long1_ctrl <- df_no_year_ctrl %>%
+  pivot_longer(
+    cols = -`Income Streams`,
+    names_to = "Cohort",
+    values_to = "Amount"
+  )
 
-# Extract the Income Streams row. To be used as the Period column
-income_streams <- df_raw_control_v1[1, ]  # 2nd row is Income Streams
-df_raw_control_v2 <- df_raw_control_v1[-1, ]        # Remove Income Streams row from data
+# Pivot wide to make each 'Income Stream' a column, keeping one row per Cohort
+df_wide_ctrl <- df_long1_ctrl %>%
+  pivot_wider(
+    names_from = `Income Streams`,
+    values_from = Amount
+  )
 
-periods <- unlist(income_streams)[-1]  # exclude the first column
+# Build Year mapping from the first row
+year_vals_ctrl <- as.character(year_row_ctrl)[-1]  # Exclude 'Income Streams'
+cohort_names_ctrl <- names(year_row_ctrl)[-1]
 
-df_raw_control_v3 <- df_raw_control_v2 %>%
-  pivot_longer(cols = -1, names_to = "Cohort_District", values_to = "Amount") %>%
-  mutate(Year = rep(periods, each = nrow(df_raw_control_v2))) %>%  # 'Year' from income_streams
-  rename(`Income Stream` = 1)  # First column is the income stream category
+year_df_ctrl <- tibble(
+  Cohort = cohort_names_ctrl,
+  Year = year_vals_ctrl
+)
+
+# Join Year info into wide data
+df_wide_ctrl_v1 <- df_wide_ctrl %>%
+  left_join(year_df_ctrl, by = "Cohort") %>%
+  relocate(Year, .after = Cohort)  # Optional: put Year next to Cohort
+
+# Pivot longer to get tidy format (Cohort, Amount)
+df_long2_ctrl <- df_wide_ctrl_v1 %>%
+  pivot_longer(
+    cols = -c("Cohort","Year" ),
+    names_to = "Income Streams",
+    values_to = "Amount"
+  )
+
 
 # Extract cohort year and clean district names
 
-Graduated_clusters_control <- df_raw_control_v3 %>%
+Graduated_clusters_Control <- df_long2_ctrl %>%
   mutate(
-    Cohort = str_extract(Cohort_District, "\\b20\\d{2}\\b"),
-    District = Cohort_District %>%
+    # First extract District from the original Cohort string
+    District = Cohort %>%
       str_remove_all("\\d+") %>%           # Remove digits
-      str_remove_all("Cohort") %>%         # Remove the word 'Cohort'
-      str_remove_all("Control") %>%         # Remove the word 'Control'
+      str_remove_all("Cohort") %>%         # Remove 'Cohort'
       str_replace_all("-", "") %>%         # Remove hyphens
-      str_remove("RTV") %>%                # Remove 'RTV' if still present
-      str_squish()                         # Trim and clean up whitespace
+      str_remove("RTV") %>%                # Remove 'RTV'
+      str_squish(),                        # Clean whitespace
+
+    # Then extract only the year as Cohort
+    Cohort = str_extract(Cohort, "\\b20\\d{2}\\b")
   ) %>%
-  select(District, `Income Stream`, Cohort, Year, Amount)
+  select(District, `Income Streams`, Cohort, Year, Amount)
 
-Graduated_clusters_control_v1 <- Graduated_clusters_control %>%
-  mutate(Status = "Control") %>% view()
+# write.csv(Graduated_clusters_Control, "Graduated_clusters_Control.csv")
 
+# Clean District
+Graduated_clusters_Control_final <- Graduated_clusters_Control %>%
+  mutate(
+    Status = "Control",
+    District = str_remove(District, "^Control\\s*"),         # Remove 'Control' at the start
+    District = str_remove(District, "\\.*$")                 # Remove trailing dots
+  ) %>% view()
+
+# Graduated_clusters_RTV_v1 <- Graduated_clusters_Control %>%
+#   mutate(District = recode(District,
+#                            "Kanu" = "Kanungu",
+#                            "Ruk" = "Rukungiri",
+#                            "Mit" = "Mitooma",
+#                            "Kag" = "Kagadi")) %>% view()
 ```
 
-GRADUATED_CLUSTERS_CONTROL_RTV
+
+COMBINED GRADUATED_CLUSTERS_CONTROL_RTV
+
 
 ```{r Graduated Clusters Control and RTV, message=FALSE, warning=FALSE, paged.print=FALSE}
-combined_RTV_Control_Graduated_Clusters <- bind_rows(Graduated_clusters_RTV_v2, Graduated_clusters_control_v1)  %>% view()
+combined_RTV_Control_Graduated_Clusters <- bind_rows(Graduated_clusters_RTV_final, Graduated_clusters_Control_final)  %>% view()
 
-```
-
-DIFF GRADUATED CLUSTERS
-
-```{r}
-combined_RTV_Control_Graduated_Clusters %>% filter(District == "Kagadi", Cohort == "2020") %>% view()
-```
-
-
-```{r}
-diff_values_Graduated <- combined_RTV_Control_Graduated_Clusters %>% 
-  group_by(District, Cohort, Year, Status) %>% arrange(District) %>% utils::View()
-  pivot_wider(names_from = Status, values_from = Amount) %>% view()
-  mutate(Amount = as.numeric(Amount)) %>%
-  group_by(District, `Income Stream`, Cohort, ) %>%
-  summarise(Amount = sum(Amount, na.rm = TRUE), .groups = "drop") %>%
+# Pivot wider
+combined_RTV_Control_Graduated_Clusters_pivoted <- combined_RTV_Control_Graduated_Clusters %>%
+  mutate(Amount = as.numeric(Amount),
+         `Income Streams` = str_squish(`Income Streams`)) %>%              # Ensure Amount is numeric
+  pivot_wider(
+    names_from = Status,
+    values_from = Amount
+  ) %>% view()
   
-  
-mutate(Diff = RTV - Control) %>%
-  select(District, `Income Stream`, Cohort, Year, Diff) %>% view()
-
-combined_RTV_Control_Graduated_Clusters_Diff <- combined_RTV_Control_Graduated_Clusters %>%
-  left_join(diff_values_Graduated, by = c(`District`, "Income Streams", "Cohort", "Year")) %>% view()
 ```
+
+2018 CONTROL
+
+
 ```{r}
 
-# Assuming your dataframe is called df
-df_with_diff <- combined_RTV_Control_Graduated_Clusters %>% mutate(Amount = as.numeric(Amount)) %>%
-  pivot_wider(names_from = Status, values_from = Amount) %>%  # Separate RTV and Control
-  mutate(Diff = RTV - Control) %>%                             # Compute difference
-  pivot_longer(cols = c(RTV, Control), names_to = "Status", values_to = "Amount") %>% view() # Return to long format if needed
+# Extract the Control values from Kanungu
+kanungu_controls_Base <- combined_RTV_Control_Graduated_Clusters_pivoted %>%
+  filter(District == "Kanungu", Cohort == 2018, Year == "Base") %>%
+  select(`Income Streams`, Control) %>%
+  rename(Control_Kanungu = Control) %>% view()
+
+# Update only the NA Control values in Kisoro
+Mapping_2018_RTV_Control_Graduated_Clusters_final <- combined_RTV_Control_Graduated_Clusters_pivoted %>%
+  left_join(kanungu_controls_Base, by = "Income Streams") %>%
+  mutate(Control = ifelse(
+    is.na(Control) & District == "Kisoro" & Cohort == 2018 & Year == "Base",
+    Control_Kanungu,
+    Control
+  )) %>%
+  select(-Control_Kanungu) %>% view()
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 RTV OVERALL
 
