@@ -901,6 +901,33 @@ Mapping_Rubanda_2022_Year1_Control_to_Rubanda_Yr1 <- Mapping_Mitooma_2021_Year1_
 ```
 
 
+2022 COHORT CONTROL- YEAR ONE [KANUNGU]
+# KANUNGU
+
+```{r}
+
+
+Kanungu_Controls_2021_Year1 <- Mapping_Rubanda_2022_Year1_Control_to_Rubanda_Yr1 %>%
+  filter(District == "Kanungu", Cohort == "2018", Year == "Year 5", !is.na(Control)) %>%
+  select(`Income Streams`, Control) %>%
+  rename(Control_Kanungu_2021 = Control) %>% view()
+
+# Fill NAs in Control for Kisoro & Rukunjiri, Cohort 2019, Year "Base"
+Mapping_Kanungu_2022_Year1_Controls_to_kanungu_Yr4 <- Mapping_Rubanda_2022_Year1_Control_to_Rubanda_Yr1 %>%
+  left_join(Kanungu_Controls_2021_Year1, by = "Income Streams") %>%
+  mutate(
+    Control = ifelse(
+      is.na(Control) &
+      Cohort == 2022 &
+      Year == "Year 1" &
+      District %in% c("Kanungu"),
+      Control_Kanungu_2021,
+      Control
+    )
+  ) %>%
+  select(-Control_Kanungu_2021) %>% view()
+
+```
 
 
 
