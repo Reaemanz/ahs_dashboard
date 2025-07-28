@@ -627,6 +627,91 @@ Base_all_cohorts <- Mapping_Kagadi_NonGac_2022_Base_Control_to_Kibaale_Base %>%
 ```
 
 
+## YEAR ONE
+
+2018 COHORT - CONTROL YEAR ONE
+
+
+```{r}
+
+# Extract the Control values from Kanungu
+kanungu_controls_Year1 <- Base_all_cohorts %>%
+  filter(District == "Kanungu", Cohort == 2018, Year == "Year 1", !is.na(Control)) %>%
+  select(`Income Streams`, Control) %>%
+  rename(Control_Kanungu_2018 = Control) %>% view()
+
+# Update only the NA Control values in Kanungu
+Mapping_2018_Controls_to_Kan_Year1 <- Base_all_cohorts %>%
+  left_join(kanungu_controls_Year1, by = "Income Streams") %>%
+  mutate(
+    Control = ifelse(
+    is.na(Control) & District == "Kanungu" & Cohort == 2018 & Year == "Year 1",
+    Control_Kanungu_2018,
+    Control
+  )) %>%
+  select(-Control_Kanungu_2018) %>% view()
+
+```
+
+
+2019 COHORT - CONTROL Year 1
+# Kanungu
+
+
+```{r}
+
+kanungu_Controls_2019_Year1 <- Mapping_2018_Controls_to_Kan_Year1 %>%
+  filter(District == "Kanungu", Cohort == "2018", Year == "Year 2", !is.na(Control)) %>%
+  select(`Income Streams`, Control) %>%
+  rename(Control_Kanungu_2019 = Control) %>% view()
+
+# Fill NAs in Control for Kanungu, Cohort 2019, Year "Base"
+Mapping_2019_Controls_to_Kan_Yr2 <- Mapping_2018_Controls_to_Kan_Year1 %>%
+  left_join(kanungu_Controls_2019_Year1, by = "Income Streams") %>%
+  mutate(
+    Control = ifelse(
+      is.na(Control) &
+      Cohort == 2019 &
+      Year == "Year 1" &
+      District %in% c("Kanungu"),
+      Control_Kanungu_2019,
+      Control
+    )
+  ) %>%
+  select(-Control_Kanungu_2019) %>% view()
+
+```
+
+2019 COHORT - CONTROL Year  1
+# Rukungiri
+
+
+```{r}
+
+kanungu_Controls_2019_Year1 <- Mapping_2019_Controls_to_Kan_Yr2 %>%
+  filter(District == "Kanungu", Cohort == "2018", Year == "Year 2", !is.na(Control)) %>%
+  select(`Income Streams`, Control) %>%
+  rename(Control_Kanungu_2019 = Control) %>% view()
+
+# Fill NAs in Control for Kanungu, Cohort 2019, Year "Base"
+Mapping_2019_Controls_to_Rukungiri_Yr2 <- Mapping_2019_Controls_to_Kan_Yr2 %>%
+  left_join(kanungu_Controls_2019_Year1, by = "Income Streams") %>%
+  mutate(
+    Control = ifelse(
+      is.na(Control) &
+      Cohort == 2019 &
+      Year == "Year 1" &
+      District %in% c("Rukungiri"),
+      Control_Kanungu_2019,
+      Control
+    )
+  ) %>%
+  select(-Control_Kanungu_2019) %>% view()
+
+```
+
+
+
 
 
 
