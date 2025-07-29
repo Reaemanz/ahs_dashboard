@@ -1146,8 +1146,89 @@ Mapping_Kagadi_NonGac_2022_Year1_to_Kibaale_Control <- Mapping_Kagadi_Gac_2022_Y
   select(-Control_Kibaale_2022) %>% view()
 ```
 
+# YEAR TWO
+
+2018 COHORT - CONTROL YEAR TWO
 
 
+```{r}
+
+# Extract the Control values from Kanungu
+kanungu_controls_Year2 <- Mapping_Kagadi_NonGac_2022_Year1_to_Kibaale_Control %>%
+  filter(District == "Kanungu", Cohort == 2018, Year == "Year 2", !is.na(Control)) %>%
+  select(`Income Streams`, Control) %>%
+  rename(Control_Kanungu_2018 = Control) %>% view()
+
+# Update only the NA Control values in Kanungu
+Mapping_KaNUNGU_2022_Year2_to_Kanungu_Control <- Mapping_Kagadi_NonGac_2022_Year1_to_Kibaale_Control %>%
+  left_join(kanungu_controls_Year2, by = "Income Streams") %>%
+  mutate(
+    Control = ifelse(
+    is.na(Control) & District == "Kanungu" & Cohort == 2018 & Year == "Year 2",
+    Control_Kanungu_2018,
+    Control
+  )) %>%
+  select(-Control_Kanungu_2018) %>% view()
+
+```
+
+
+2019 COHORT - CONTROL Year 2
+# Kanungu
+
+
+```{r}
+
+kanungu_Controls_2019_Year2 <- Mapping_KaNUNGU_2022_Year2_to_Kanungu_Control %>%
+  filter(District == "Kanungu", Cohort == "2018", Year == "Year 3", !is.na(Control)) %>%
+  select(`Income Streams`, Control) %>%
+  rename(Control_Kanungu_2019 = Control) %>% view()
+
+# Fill NAs in Control for Kanungu, Cohort 2019, Year "Base"
+Mapping_Kanungu_2019_to_Kan_Yr2_Controls <- Mapping_KaNUNGU_2022_Year2_to_Kanungu_Control %>%
+  left_join(kanungu_Controls_2019_Year2, by = "Income Streams") %>%
+  mutate(
+    Control = ifelse(
+      is.na(Control) &
+      Cohort == 2019 &
+      Year == "Year 2" &
+      District %in% c("Kanungu"),
+      Control_Kanungu_2019,
+      Control
+    )
+  ) %>%
+  select(-Control_Kanungu_2019) %>% view()
+
+```
+
+
+2019 COHORT - CONTROL TWO
+# Rukungiri
+
+
+```{r}
+
+kanungu_Controls_2019_Year2 <- Mapping_Kanungu_2019_to_Kan_Yr2_Controls %>%
+  filter(District == "Kanungu", Cohort == "2018", Year == "Year 3", !is.na(Control)) %>%
+  select(`Income Streams`, Control) %>%
+  rename(Control_Kanungu_2019 = Control) %>% view()
+
+# Fill NAs in Control for Kanungu, Cohort 2019, Year "Base"
+Mapping_2019_to_Rukungiri_Yr2_Controls <- Mapping_Kanungu_2019_to_Kan_Yr2_Controls %>%
+  left_join(kanungu_Controls_2019_Year2, by = "Income Streams") %>%
+  mutate(
+    Control = ifelse(
+      is.na(Control) &
+      Cohort == 2019 &
+      Year == "Year 2" &
+      District %in% c("Rukungiri"),
+      Control_Kanungu_2019,
+      Control
+    )
+  ) %>%
+  select(-Control_Kanungu_2019) %>% view()
+
+```
 
 
 
