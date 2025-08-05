@@ -1678,7 +1678,7 @@ Kaliro_filtered_Year2 <- Mapping_Kaliro_2022_Year2_to_Kaliro_Year1_Control %>%
 
 ```
 
-# FILTER YEAR 1
+# FILTER YEAR 1 AND YEAR 2
 
 
 ```{r}
