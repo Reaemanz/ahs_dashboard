@@ -1,0 +1,2461 @@
+"District","Income Streams","Cohort","Year","Status","Values"
+"Kanungu","Salaried Employment","2018","Base","RTV",9.66
+"Kanungu","Salaried Employment","2018","Base","Control",11.2072072072072
+"Kanungu","Self-Income / Business","2018","Base","RTV",155.18
+"Kanungu","Self-Income / Business","2018","Base","Control",32.5693693693694
+"Kanungu","Casual Labour Income","2018","Base","RTV",0
+"Kanungu","Casual Labour Income","2018","Base","Control",97.6374774774775
+"Kanungu","Remit and Gifts Income","2018","Base","RTV",0
+"Kanungu","Remit and Gifts Income","2018","Base","Control",5.06666666666667
+"Kanungu","Rent Income","2018","Base","RTV",1.15
+"Kanungu","Rent Income","2018","Base","Control",1.44144144144144
+"Kanungu","Perennial Crop Income","2018","Base","RTV",0
+"Kanungu","Perennial Crop Income","2018","Base","Control",0
+"Kanungu","Seasonal Crop Income","2018","Base","RTV",88.33
+"Kanungu","Seasonal Crop Income","2018","Base","Control",108.204408072072
+"Kanungu","Season1 Value","2018","Base","RTV",85.6
+"Kanungu","Season1 Value","2018","Base","Control",71.4825866666667
+"Kanungu","Season2 Value","2018","Base","RTV",86.55
+"Kanungu","Season2 Value","2018","Base","Control",58.2983063063063
+"Kanungu","Perennial Value","2018","Base","RTV",55.78
+"Kanungu","Perennial Value","2018","Base","Control",117.36400836036
+"Kanungu","Annual Agric Value","2018","Base","RTV",227.93
+"Kanungu","Annual Agric Value","2018","Base","Control",247.144901333333
+"Kanungu","Livestock Income","2018","Base","RTV",31.17
+"Kanungu","Livestock Income","2018","Base","Control",20.3661261261261
+"Kanungu","Livestock Income/ Production","2018","Base","RTV",36.8
+"Kanungu","Livestock Income/ Production","2018","Base","Control",23.5517117117117
+"Kanungu","Livestock Value","2018","Base","RTV",88.61
+"Kanungu","Livestock Value","2018","Base","Control",99.5113513513514
+"Kanungu","PPI","2018","Base","RTV",27.31
+"Kanungu","PPI","2018","Base","Control",30.02
+"Kanungu","Salaried Employment","2019","Base","RTV",18.53
+"Kanungu","Salaried Employment","2019","Base","Control",10.2043872126975
+"Kanungu","Self-Income / Business","2019","Base","RTV",36.32
+"Kanungu","Self-Income / Business","2019","Base","Control",41.4647001572209
+"Kanungu","Casual Labour Income","2019","Base","RTV",60.72
+"Kanungu","Casual Labour Income","2019","Base","Control",130.451448678595
+"Kanungu","Remit and Gifts Income","2019","Base","RTV",6.14
+"Kanungu","Remit and Gifts Income","2019","Base","Control",4.97566818896459
+"Kanungu","Rent Income","2019","Base","RTV",1.81
+"Kanungu","Rent Income","2019","Base","Control",1.50108557310773
+"Kanungu","Perennial Crop Income","2019","Base","RTV",80.17
+"Kanungu","Perennial Crop Income","2019","Base","Control",44.7405405405405
+"Kanungu","Seasonal Crop Income","2019","Base","RTV",52.16
+"Kanungu","Seasonal Crop Income","2019","Base","Control",94.3118589503631
+"Kanungu","Season1 Value","2019","Base","RTV",77.38
+"Kanungu","Season1 Value","2019","Base","Control",82.8000524069776
+"Kanungu","Season2 Value","2019","Base","RTV",71.96
+"Kanungu","Season2 Value","2019","Base","Control",78.2335479523845
+"Kanungu","Perennial Value","2019","Base","RTV",95.46
+"Kanungu","Perennial Value","2019","Base","Control",162.786883282174
+"Kanungu","Annual Agric Value","2019","Base","RTV",244.8
+"Kanungu","Annual Agric Value","2019","Base","Control",323.820483641536
+"Kanungu","Livestock Income","2019","Base","RTV",22
+"Kanungu","Livestock Income","2019","Base","Control",36.2057370667066
+"Kanungu","Livestock Income/ Production","2019","Base","RTV",26.16
+"Kanungu","Livestock Income/ Production","2019","Base","Control",41.8627027027027
+"Kanungu","Livestock Value","2019","Base","RTV",86.26
+"Kanungu","Livestock Value","2019","Base","Control",169.101227820618
+"Kanungu","PPI","2019","Base","RTV",31.23
+"Kanungu","PPI","2019","Base","Control",27.09
+"Rukungiri","Salaried Employment","2019","Base","RTV",20.42
+"Rukungiri","Salaried Employment","2019","Base","Control",10.2043872126975
+"Rukungiri","Self-Income / Business","2019","Base","RTV",47.18
+"Rukungiri","Self-Income / Business","2019","Base","Control",41.4647001572209
+"Rukungiri","Casual Labour Income","2019","Base","RTV",47.22
+"Rukungiri","Casual Labour Income","2019","Base","Control",130.451448678595
+"Rukungiri","Remit and Gifts Income","2019","Base","RTV",5.47
+"Rukungiri","Remit and Gifts Income","2019","Base","Control",4.97566818896459
+"Rukungiri","Rent Income","2019","Base","RTV",0.86
+"Rukungiri","Rent Income","2019","Base","Control",1.50108557310773
+"Rukungiri","Perennial Crop Income","2019","Base","RTV",85.92
+"Rukungiri","Perennial Crop Income","2019","Base","Control",44.7405405405405
+"Rukungiri","Seasonal Crop Income","2019","Base","RTV",37.75
+"Rukungiri","Seasonal Crop Income","2019","Base","Control",94.3118589503631
+"Rukungiri","Season1 Value","2019","Base","RTV",67.3
+"Rukungiri","Season1 Value","2019","Base","Control",82.8000524069776
+"Rukungiri","Season2 Value","2019","Base","RTV",51.66
+"Rukungiri","Season2 Value","2019","Base","Control",78.2335479523845
+"Rukungiri","Perennial Value","2019","Base","RTV",168.23
+"Rukungiri","Perennial Value","2019","Base","Control",162.786883282174
+"Rukungiri","Annual Agric Value","2019","Base","RTV",287.19
+"Rukungiri","Annual Agric Value","2019","Base","Control",323.820483641536
+"Rukungiri","Livestock Income","2019","Base","RTV",19.42
+"Rukungiri","Livestock Income","2019","Base","Control",36.2057370667066
+"Rukungiri","Livestock Income/ Production","2019","Base","RTV",21.82
+"Rukungiri","Livestock Income/ Production","2019","Base","Control",41.8627027027027
+"Rukungiri","Livestock Value","2019","Base","RTV",95.81
+"Rukungiri","Livestock Value","2019","Base","Control",169.101227820618
+"Rukungiri","PPI","2019","Base","RTV",30.09
+"Rukungiri","PPI","2019","Base","Control",27.09
+"Kanungu","Salaried Employment","2020","Base","RTV",22.35
+"Kanungu","Salaried Employment","2020","Base","Control",18.5201595037661
+"Kanungu","Self-Income / Business","2020","Base","RTV",57.71
+"Kanungu","Self-Income / Business","2020","Base","Control",23.1564761482794
+"Kanungu","Casual Labour Income","2020","Base","RTV",81.5
+"Kanungu","Casual Labour Income","2020","Base","Control",109.947939743022
+"Kanungu","Remit and Gifts Income","2020","Base","RTV",18.58
+"Kanungu","Remit and Gifts Income","2020","Base","Control",14.6411165263624
+"Kanungu","Rent Income","2020","Base","RTV",5.71
+"Kanungu","Rent Income","2020","Base","Control",8.05937084625609
+"Kanungu","Perennial Crop Income","2020","Base","RTV",40.13
+"Kanungu","Perennial Crop Income","2020","Base","Control",61.2816422980357
+"Kanungu","Seasonal Crop Income","2020","Base","RTV",47.38
+"Kanungu","Seasonal Crop Income","2020","Base","Control",58.0029537734456
+"Kanungu","Season1 Value","2020","Base","RTV",50.21
+"Kanungu","Season1 Value","2020","Base","Control",61.6609274848619
+"Kanungu","Season2 Value","2020","Base","RTV",79.04
+"Kanungu","Season2 Value","2020","Base","Control",80.6434057007828
+"Kanungu","Perennial Value","2020","Base","RTV",79.41
+"Kanungu","Perennial Value","2020","Base","Control",166.58733089647
+"Kanungu","Annual Agric Value","2020","Base","RTV",208.66
+"Kanungu","Annual Agric Value","2020","Base","Control",308.891664082115
+"Kanungu","Livestock Income","2020","Base","RTV",15.31
+"Kanungu","Livestock Income","2020","Base","Control",28.8015064244572
+"Kanungu","Livestock Income/ Production","2020","Base","RTV",18.62
+"Kanungu","Livestock Income/ Production","2020","Base","Control",31.0308669325063
+"Kanungu","Livestock Value","2020","Base","RTV",82.02
+"Kanungu","Livestock Value","2020","Base","Control",127.555752473785
+"Kanungu","PPI","2020","Base","RTV",29.01
+"Kanungu","PPI","2020","Base","Control",29.64
+"Rukungiri","Salaried Employment","2020","Base","RTV",9.57
+"Rukungiri","Salaried Employment","2020","Base","Control",18.5201595037661
+"Rukungiri","Self-Income / Business","2020","Base","RTV",42.42
+"Rukungiri","Self-Income / Business","2020","Base","Control",23.1564761482794
+"Rukungiri","Casual Labour Income","2020","Base","RTV",71.55
+"Rukungiri","Casual Labour Income","2020","Base","Control",109.947939743022
+"Rukungiri","Remit and Gifts Income","2020","Base","RTV",8.93
+"Rukungiri","Remit and Gifts Income","2020","Base","Control",14.6411165263624
+"Rukungiri","Rent Income","2020","Base","RTV",2.35
+"Rukungiri","Rent Income","2020","Base","Control",8.05937084625609
+"Rukungiri","Perennial Crop Income","2020","Base","RTV",37.93
+"Rukungiri","Perennial Crop Income","2020","Base","Control",61.2816422980357
+"Rukungiri","Seasonal Crop Income","2020","Base","RTV",17.18
+"Rukungiri","Seasonal Crop Income","2020","Base","Control",58.0029537734456
+"Rukungiri","Season1 Value","2020","Base","RTV",44.92
+"Rukungiri","Season1 Value","2020","Base","Control",61.6609274848619
+"Rukungiri","Season2 Value","2020","Base","RTV",71.51
+"Rukungiri","Season2 Value","2020","Base","Control",80.6434057007828
+"Rukungiri","Perennial Value","2020","Base","RTV",94.7
+"Rukungiri","Perennial Value","2020","Base","Control",166.58733089647
+"Rukungiri","Annual Agric Value","2020","Base","RTV",211.14
+"Rukungiri","Annual Agric Value","2020","Base","Control",308.891664082115
+"Rukungiri","Livestock Income","2020","Base","RTV",12.65
+"Rukungiri","Livestock Income","2020","Base","Control",28.8015064244572
+"Rukungiri","Livestock Income/ Production","2020","Base","RTV",14.58
+"Rukungiri","Livestock Income/ Production","2020","Base","Control",31.0308669325063
+"Rukungiri","Livestock Value","2020","Base","RTV",74
+"Rukungiri","Livestock Value","2020","Base","Control",127.555752473785
+"Rukungiri","PPI","2020","Base","RTV",31.67
+"Rukungiri","PPI","2020","Base","Control",29.64
+"Mitooma","Salaried Employment","2020","Base","RTV",23.53
+"Mitooma","Salaried Employment","2020","Base","Control",14.3511216599035
+"Mitooma","Self-Income / Business","2020","Base","RTV",37.87
+"Mitooma","Self-Income / Business","2020","Base","Control",42.9798637164076
+"Mitooma","Casual Labour Income","2020","Base","RTV",34.87
+"Mitooma","Casual Labour Income","2020","Base","Control",37.5527141872751
+"Mitooma","Remit and Gifts Income","2020","Base","RTV",9.03
+"Mitooma","Remit and Gifts Income","2020","Base","Control",5.43603093178164
+"Mitooma","Rent Income","2020","Base","RTV",2.53
+"Mitooma","Rent Income","2020","Base","Control",0.976341780874359
+"Mitooma","Perennial Crop Income","2020","Base","RTV",67.85
+"Mitooma","Perennial Crop Income","2020","Base","Control",53.1724217134982
+"Mitooma","Seasonal Crop Income","2020","Base","RTV",17.26
+"Mitooma","Seasonal Crop Income","2020","Base","Control",14.0872827501723
+"Mitooma","Season1 Value","2020","Base","RTV",44.15
+"Mitooma","Season1 Value","2020","Base","Control",42.7828650179925
+"Mitooma","Season2 Value","2020","Base","RTV",35.73
+"Mitooma","Season2 Value","2020","Base","Control",35.0254957507082
+"Mitooma","Perennial Value","2020","Base","RTV",147.85
+"Mitooma","Perennial Value","2020","Base","Control",122.244851083378
+"Mitooma","Annual Agric Value","2020","Base","RTV",227.73
+"Mitooma","Annual Agric Value","2020","Base","Control",200.053211852079
+"Mitooma","Livestock Income","2020","Base","RTV",21.67
+"Mitooma","Livestock Income","2020","Base","Control",14.2018222188194
+"Mitooma","Livestock Income/ Production","2020","Base","RTV",24.2
+"Mitooma","Livestock Income/ Production","2020","Base","Control",15.2584028787995
+"Mitooma","Livestock Value","2020","Base","RTV",124.73
+"Mitooma","Livestock Value","2020","Base","Control",110.32156802695
+"Mitooma","PPI","2020","Base","RTV",31.61
+"Mitooma","PPI","2020","Base","Control",32.7
+"Kagadi","Salaried Employment","2020","Base","RTV",0
+"Kagadi","Salaried Employment","2020","Base","Control",14.3511216599035
+"Kagadi","Self-Income / Business","2020","Base","RTV",9.83
+"Kagadi","Self-Income / Business","2020","Base","Control",42.9798637164076
+"Kagadi","Casual Labour Income","2020","Base","RTV",68.27
+"Kagadi","Casual Labour Income","2020","Base","Control",37.5527141872751
+"Kagadi","Remit and Gifts Income","2020","Base","RTV",0.99
+"Kagadi","Remit and Gifts Income","2020","Base","Control",5.43603093178164
+"Kagadi","Rent Income","2020","Base","RTV",4.93
+"Kagadi","Rent Income","2020","Base","Control",0.976341780874359
+"Kagadi","Perennial Crop Income","2020","Base","RTV",35.38
+"Kagadi","Perennial Crop Income","2020","Base","Control",53.1724217134982
+"Kagadi","Seasonal Crop Income","2020","Base","RTV",129.66
+"Kagadi","Seasonal Crop Income","2020","Base","Control",14.0872827501723
+"Kagadi","Season1 Value","2020","Base","RTV",131.47
+"Kagadi","Season1 Value","2020","Base","Control",42.7828650179925
+"Kagadi","Season2 Value","2020","Base","RTV",104.92
+"Kagadi","Season2 Value","2020","Base","Control",35.0254957507082
+"Kagadi","Perennial Value","2020","Base","RTV",61.8
+"Kagadi","Perennial Value","2020","Base","Control",122.244851083378
+"Kagadi","Annual Agric Value","2020","Base","RTV",298.19
+"Kagadi","Annual Agric Value","2020","Base","Control",200.053211852079
+"Kagadi","Livestock Income","2020","Base","RTV",7.44
+"Kagadi","Livestock Income","2020","Base","Control",14.2018222188194
+"Kagadi","Livestock Income/ Production","2020","Base","RTV",10.69
+"Kagadi","Livestock Income/ Production","2020","Base","Control",15.2584028787995
+"Kagadi","Livestock Value","2020","Base","RTV",53.51
+"Kagadi","Livestock Value","2020","Base","Control",110.32156802695
+"Kagadi","PPI","2020","Base","RTV",30.82
+"Kagadi","PPI","2020","Base","Control",32.7
+"Kanungu","Salaried Employment","2021","Base","RTV",8.07
+"Kanungu","Salaried Employment","2021","Base","Control",9.62399316473001
+"Kanungu","Self-Income / Business","2021","Base","RTV",27.81
+"Kanungu","Self-Income / Business","2021","Base","Control",23.365003417635
+"Kanungu","Casual Labour Income","2021","Base","RTV",47.41
+"Kanungu","Casual Labour Income","2021","Base","Control",122.262200956938
+"Kanungu","Remit and Gifts Income","2021","Base","RTV",2.1
+"Kanungu","Remit and Gifts Income","2021","Base","Control",17.8755980861244
+"Kanungu","Rent Income","2021","Base","RTV",1.75
+"Kanungu","Rent Income","2021","Base","Control",2.12918660287081
+"Kanungu","Perennial Crop Income","2021","Base","RTV",41.86
+"Kanungu","Perennial Crop Income","2021","Base","Control",86.7786397812714
+"Kanungu","Seasonal Crop Income","2021","Base","RTV",13.64
+"Kanungu","Seasonal Crop Income","2021","Base","Control",76.2917532467532
+"Kanungu","Season1 Value","2021","Base","RTV",76.88
+"Kanungu","Season1 Value","2021","Base","Control",103.765345181135
+"Kanungu","Season2 Value","2021","Base","RTV",28.09
+"Kanungu","Season2 Value","2021","Base","Control",68.5982467532468
+"Kanungu","Perennial Value","2021","Base","RTV",62.1
+"Kanungu","Perennial Value","2021","Base","Control",182.726384142174
+"Kanungu","Annual Agric Value","2021","Base","RTV",167.07
+"Kanungu","Annual Agric Value","2021","Base","Control",355.089976076555
+"Kanungu","Livestock Income","2021","Base","RTV",9.76
+"Kanungu","Livestock Income","2021","Base","Control",32.2891326042379
+"Kanungu","Livestock Income/ Production","2021","Base","RTV",15.13
+"Kanungu","Livestock Income/ Production","2021","Base","Control",37.3335618591934
+"Kanungu","Livestock Value","2021","Base","RTV",71.56
+"Kanungu","Livestock Value","2021","Base","Control",190.199908407382
+"Kanungu","PPI","2021","Base","RTV",29.05
+"Kanungu","PPI","2021","Base","Control",29.96
+"Rukungiri","Salaried Employment","2021","Base","RTV",21.92
+"Rukungiri","Salaried Employment","2021","Base","Control",9.62399316473001
+"Rukungiri","Self-Income / Business","2021","Base","RTV",47.53
+"Rukungiri","Self-Income / Business","2021","Base","Control",23.365003417635
+"Rukungiri","Casual Labour Income","2021","Base","RTV",24.59
+"Rukungiri","Casual Labour Income","2021","Base","Control",122.262200956938
+"Rukungiri","Remit and Gifts Income","2021","Base","RTV",14.03
+"Rukungiri","Remit and Gifts Income","2021","Base","Control",17.8755980861244
+"Rukungiri","Rent Income","2021","Base","RTV",3.6
+"Rukungiri","Rent Income","2021","Base","Control",2.12918660287081
+"Rukungiri","Perennial Crop Income","2021","Base","RTV",55.17
+"Rukungiri","Perennial Crop Income","2021","Base","Control",86.7786397812714
+"Rukungiri","Seasonal Crop Income","2021","Base","RTV",42.67
+"Rukungiri","Seasonal Crop Income","2021","Base","Control",76.2917532467532
+"Rukungiri","Season1 Value","2021","Base","RTV",82.89
+"Rukungiri","Season1 Value","2021","Base","Control",103.765345181135
+"Rukungiri","Season2 Value","2021","Base","RTV",71.47
+"Rukungiri","Season2 Value","2021","Base","Control",68.5982467532468
+"Rukungiri","Perennial Value","2021","Base","RTV",152.99
+"Rukungiri","Perennial Value","2021","Base","Control",182.726384142174
+"Rukungiri","Annual Agric Value","2021","Base","RTV",307.35
+"Rukungiri","Annual Agric Value","2021","Base","Control",355.089976076555
+"Rukungiri","Livestock Income","2021","Base","RTV",17.75
+"Rukungiri","Livestock Income","2021","Base","Control",32.2891326042379
+"Rukungiri","Livestock Income/ Production","2021","Base","RTV",21.43
+"Rukungiri","Livestock Income/ Production","2021","Base","Control",37.3335618591934
+"Rukungiri","Livestock Value","2021","Base","RTV",147.08
+"Rukungiri","Livestock Value","2021","Base","Control",190.199908407382
+"Rukungiri","PPI","2021","Base","RTV",32.48
+"Rukungiri","PPI","2021","Base","Control",29.96
+"Mitooma","Salaried Employment","2021","Base","RTV",9.8
+"Mitooma","Salaried Employment","2021","Base","Control",28.408262454435
+"Mitooma","Self-Income / Business","2021","Base","RTV",45.05
+"Mitooma","Self-Income / Business","2021","Base","Control",40.3797965630967
+"Mitooma","Casual Labour Income","2021","Base","RTV",41.6
+"Mitooma","Casual Labour Income","2021","Base","Control",128.959455650061
+"Mitooma","Remit and Gifts Income","2021","Base","RTV",5.38
+"Mitooma","Remit and Gifts Income","2021","Base","Control",7.46300989411561
+"Mitooma","Rent Income","2021","Base","RTV",4.82
+"Mitooma","Rent Income","2021","Base","Control",4.65474743968061
+"Mitooma","Perennial Crop Income","2021","Base","RTV",33.49
+"Mitooma","Perennial Crop Income","2021","Base","Control",94.1654053115779
+"Mitooma","Seasonal Crop Income","2021","Base","RTV",35.13
+"Mitooma","Seasonal Crop Income","2021","Base","Control",18.702135045999
+"Mitooma","Season1 Value","2021","Base","RTV",70.57
+"Mitooma","Season1 Value","2021","Base","Control",63.2962735636174
+"Mitooma","Season2 Value","2021","Base","RTV",51.48
+"Mitooma","Season2 Value","2021","Base","Control",39.9880298559278
+"Mitooma","Perennial Value","2021","Base","RTV",72.43
+"Mitooma","Perennial Value","2021","Base","Control",302.173607359833
+"Mitooma","Annual Agric Value","2021","Base","RTV",194.48
+"Mitooma","Annual Agric Value","2021","Base","Control",405.457910779379
+"Mitooma","Livestock Income","2021","Base","RTV",14.95
+"Mitooma","Livestock Income","2021","Base","Control",12.8949487936122
+"Mitooma","Livestock Income/ Production","2021","Base","RTV",16.64
+"Mitooma","Livestock Income/ Production","2021","Base","Control",14.2669331713244
+"Mitooma","Livestock Value","2021","Base","RTV",71.92
+"Mitooma","Livestock Value","2021","Base","Control",117.436382919632
+"Mitooma","PPI","2021","Base","RTV",29.46
+"Mitooma","PPI","2021","Base","Control",27.63
+"Rubanda","Salaried Employment","2021","Base","RTV",7.25
+"Rubanda","Salaried Employment","2021","Base","Control",5.637827
+"Rubanda","Self-Income / Business","2021","Base","RTV",14.93
+"Rubanda","Self-Income / Business","2021","Base","Control",29.480282
+"Rubanda","Casual Labour Income","2021","Base","RTV",55.89
+"Rubanda","Casual Labour Income","2021","Base","Control",85.656338
+"Rubanda","Remit and Gifts Income","2021","Base","RTV",12.63
+"Rubanda","Remit and Gifts Income","2021","Base","Control",11.358551
+"Rubanda","Rent Income","2021","Base","RTV",0.3
+"Rubanda","Rent Income","2021","Base","Control",10.054728
+"Rubanda","Perennial Crop Income","2021","Base","RTV",3.42
+"Rubanda","Perennial Crop Income","2021","Base","Control",5.849688
+"Rubanda","Seasonal Crop Income","2021","Base","RTV",77.32
+"Rubanda","Seasonal Crop Income","2021","Base","Control",50.843078
+"Rubanda","Season1 Value","2021","Base","RTV",120.25
+"Rubanda","Season1 Value","2021","Base","Control",63.104829
+"Rubanda","Season2 Value","2021","Base","RTV",98.67
+"Rubanda","Season2 Value","2021","Base","Control",63.30334
+"Rubanda","Perennial Value","2021","Base","RTV",15.17
+"Rubanda","Perennial Value","2021","Base","Control",27.377284
+"Rubanda","Annual Agric Value","2021","Base","RTV",234.08
+"Rubanda","Annual Agric Value","2021","Base","Control",153.785453
+"Rubanda","Livestock Income","2021","Base","RTV",9.95
+"Rubanda","Livestock Income","2021","Base","Control",7.44974
+"Rubanda","Livestock Income/ Production","2021","Base","RTV",11.64
+"Rubanda","Livestock Income/ Production","2021","Base","Control",8.64652
+"Rubanda","Livestock Value","2021","Base","RTV",63.3
+"Rubanda","Livestock Value","2021","Base","Control",48.271242
+"Rubanda","PPI","2021","Base","RTV",30.67
+"Rubanda","PPI","2021","Base","Control",26.525634
+"Kanungu","Salaried Employment","2022","Base","RTV",14.63
+"Kanungu","Salaried Employment","2022","Base","Control",36.27
+"Kanungu","Self-Income / Business","2022","Base","RTV",23.34
+"Kanungu","Self-Income / Business","2022","Base","Control",47.06
+"Kanungu","Casual Labour Income","2022","Base","RTV",80.39
+"Kanungu","Casual Labour Income","2022","Base","Control",114.78
+"Kanungu","Remit and Gifts Income","2022","Base","RTV",18.32
+"Kanungu","Remit and Gifts Income","2022","Base","Control",17.38
+"Kanungu","Rent Income","2022","Base","RTV",7.99
+"Kanungu","Rent Income","2022","Base","Control",3.93
+"Kanungu","Perennial Crop Income","2022","Base","RTV",71.14
+"Kanungu","Perennial Crop Income","2022","Base","Control",58.24
+"Kanungu","Seasonal Crop Income","2022","Base","RTV",33.03
+"Kanungu","Seasonal Crop Income","2022","Base","Control",79.21
+"Kanungu","Season1 Value","2022","Base","RTV",67.58
+"Kanungu","Season1 Value","2022","Base","Control",123.3
+"Kanungu","Season2 Value","2022","Base","RTV",57.49
+"Kanungu","Season2 Value","2022","Base","Control",68.03
+"Kanungu","Perennial Value","2022","Base","RTV",120.7
+"Kanungu","Perennial Value","2022","Base","Control",149.52
+"Kanungu","Annual Agric Value","2022","Base","RTV",245.77
+"Kanungu","Annual Agric Value","2022","Base","Control",340.85
+"Kanungu","Livestock Income","2022","Base","RTV",18.63
+"Kanungu","Livestock Income","2022","Base","Control",27.55
+"Kanungu","Livestock Income/ Production","2022","Base","RTV",23.24
+"Kanungu","Livestock Income/ Production","2022","Base","Control",30.89
+"Kanungu","Livestock Value","2022","Base","RTV",95.75
+"Kanungu","Livestock Value","2022","Base","Control",212.66
+"Kanungu","PPI","2022","Base","RTV",31
+"Kanungu","PPI","2022","Base","Control",29.73
+"Rukungiri","Salaried Employment","2022","Base","RTV",9.85
+"Rukungiri","Salaried Employment","2022","Base","Control",36.27
+"Rukungiri","Self-Income / Business","2022","Base","RTV",8.37
+"Rukungiri","Self-Income / Business","2022","Base","Control",47.06
+"Rukungiri","Casual Labour Income","2022","Base","RTV",52.02
+"Rukungiri","Casual Labour Income","2022","Base","Control",114.78
+"Rukungiri","Remit and Gifts Income","2022","Base","RTV",3.59
+"Rukungiri","Remit and Gifts Income","2022","Base","Control",17.38
+"Rukungiri","Rent Income","2022","Base","RTV",1.55
+"Rukungiri","Rent Income","2022","Base","Control",3.93
+"Rukungiri","Perennial Crop Income","2022","Base","RTV",37.41
+"Rukungiri","Perennial Crop Income","2022","Base","Control",58.24
+"Rukungiri","Seasonal Crop Income","2022","Base","RTV",25.54
+"Rukungiri","Seasonal Crop Income","2022","Base","Control",79.21
+"Rukungiri","Season1 Value","2022","Base","RTV",49.24
+"Rukungiri","Season1 Value","2022","Base","Control",123.3
+"Rukungiri","Season2 Value","2022","Base","RTV",40.89
+"Rukungiri","Season2 Value","2022","Base","Control",68.03
+"Rukungiri","Perennial Value","2022","Base","RTV",99.38
+"Rukungiri","Perennial Value","2022","Base","Control",149.52
+"Rukungiri","Annual Agric Value","2022","Base","RTV",189.5
+"Rukungiri","Annual Agric Value","2022","Base","Control",340.85
+"Rukungiri","Livestock Income","2022","Base","RTV",9.68
+"Rukungiri","Livestock Income","2022","Base","Control",27.55
+"Rukungiri","Livestock Income/ Production","2022","Base","RTV",10.78
+"Rukungiri","Livestock Income/ Production","2022","Base","Control",30.89
+"Rukungiri","Livestock Value","2022","Base","RTV",135.61
+"Rukungiri","Livestock Value","2022","Base","Control",212.66
+"Rukungiri","PPI","2022","Base","RTV",32.81
+"Rukungiri","PPI","2022","Base","Control",29.73
+"Mitooma","Salaried Employment","2022","Base","RTV",4.32
+"Mitooma","Salaried Employment","2022","Base","Control",46.58
+"Mitooma","Self-Income / Business","2022","Base","RTV",26.44
+"Mitooma","Self-Income / Business","2022","Base","Control",73.93
+"Mitooma","Casual Labour Income","2022","Base","RTV",50.56
+"Mitooma","Casual Labour Income","2022","Base","Control",104.25
+"Mitooma","Remit and Gifts Income","2022","Base","RTV",3.92
+"Mitooma","Remit and Gifts Income","2022","Base","Control",34.84
+"Mitooma","Rent Income","2022","Base","RTV",3.2
+"Mitooma","Rent Income","2022","Base","Control",3.18
+"Mitooma","Perennial Crop Income","2022","Base","RTV",55.64
+"Mitooma","Perennial Crop Income","2022","Base","Control",74.68
+"Mitooma","Seasonal Crop Income","2022","Base","RTV",15.46
+"Mitooma","Seasonal Crop Income","2022","Base","Control",28.11
+"Mitooma","Season1 Value","2022","Base","RTV",46.18
+"Mitooma","Season1 Value","2022","Base","Control",60.3
+"Mitooma","Season2 Value","2022","Base","RTV",39.27
+"Mitooma","Season2 Value","2022","Base","Control",46.26
+"Mitooma","Perennial Value","2022","Base","RTV",139.94
+"Mitooma","Perennial Value","2022","Base","Control",226.06
+"Mitooma","Annual Agric Value","2022","Base","RTV",225.4
+"Mitooma","Annual Agric Value","2022","Base","Control",332.61
+"Mitooma","Livestock Income","2022","Base","RTV",11.88
+"Mitooma","Livestock Income","2022","Base","Control",14.32
+"Mitooma","Livestock Income/ Production","2022","Base","RTV",14.54
+"Mitooma","Livestock Income/ Production","2022","Base","Control",15.68
+"Mitooma","Livestock Value","2022","Base","RTV",97.9
+"Mitooma","Livestock Value","2022","Base","Control",108.41
+"Mitooma","PPI","2022","Base","RTV",30.68
+"Mitooma","PPI","2022","Base","Control",26.14
+"Rubanda","Salaried Employment","2022","Base","RTV",28.06
+"Rubanda","Salaried Employment","2022","Base","Control",23.156283
+"Rubanda","Self-Income / Business","2022","Base","RTV",21.84
+"Rubanda","Self-Income / Business","2022","Base","Control",16.987185
+"Rubanda","Casual Labour Income","2022","Base","RTV",76.01
+"Rubanda","Casual Labour Income","2022","Base","Control",87.977754
+"Rubanda","Remit and Gifts Income","2022","Base","RTV",11.31
+"Rubanda","Remit and Gifts Income","2022","Base","Control",15.257919
+"Rubanda","Rent Income","2022","Base","RTV",2.41
+"Rubanda","Rent Income","2022","Base","Control",6.778432
+"Rubanda","Perennial Crop Income","2022","Base","RTV",12.31
+"Rubanda","Perennial Crop Income","2022","Base","Control",8.011606
+"Rubanda","Seasonal Crop Income","2022","Base","RTV",92.11
+"Rubanda","Seasonal Crop Income","2022","Base","Control",63.29161
+"Rubanda","Season1 Value","2022","Base","RTV",120.5
+"Rubanda","Season1 Value","2022","Base","Control",129.452617
+"Rubanda","Season2 Value","2022","Base","RTV",111.64
+"Rubanda","Season2 Value","2022","Base","Control",119.184855
+"Rubanda","Perennial Value","2022","Base","RTV",39.79
+"Rubanda","Perennial Value","2022","Base","Control",9.786008
+"Rubanda","Annual Agric Value","2022","Base","RTV",271.93
+"Rubanda","Annual Agric Value","2022","Base","Control",258.423481
+"Rubanda","Livestock Income","2022","Base","RTV",11.68
+"Rubanda","Livestock Income","2022","Base","Control",1.8145
+"Rubanda","Livestock Income/ Production","2022","Base","RTV",12.07
+"Rubanda","Livestock Income/ Production","2022","Base","Control",2.080078
+"Rubanda","Livestock Value","2022","Base","RTV",111.75
+"Rubanda","Livestock Value","2022","Base","Control",58.658822
+"Rubanda","PPI","2022","Base","RTV",28.47
+"Rubanda","PPI","2022","Base","Control",26.010413
+"Rubirizi","Salaried Employment","2022","Base","RTV",8.26
+"Rubirizi","Salaried Employment","2022","Base","Control",46.58
+"Rubirizi","Self-Income / Business","2022","Base","RTV",24.63
+"Rubirizi","Self-Income / Business","2022","Base","Control",73.93
+"Rubirizi","Casual Labour Income","2022","Base","RTV",67.61
+"Rubirizi","Casual Labour Income","2022","Base","Control",104.25
+"Rubirizi","Remit and Gifts Income","2022","Base","RTV",5.91
+"Rubirizi","Remit and Gifts Income","2022","Base","Control",34.84
+"Rubirizi","Rent Income","2022","Base","RTV",2.9
+"Rubirizi","Rent Income","2022","Base","Control",3.18
+"Rubirizi","Perennial Crop Income","2022","Base","RTV",61.73
+"Rubirizi","Perennial Crop Income","2022","Base","Control",74.68
+"Rubirizi","Seasonal Crop Income","2022","Base","RTV",56.97
+"Rubirizi","Seasonal Crop Income","2022","Base","Control",28.11
+"Rubirizi","Season1 Value","2022","Base","RTV",64.19
+"Rubirizi","Season1 Value","2022","Base","Control",60.3
+"Rubirizi","Season2 Value","2022","Base","RTV",63.44
+"Rubirizi","Season2 Value","2022","Base","Control",46.26
+"Rubirizi","Perennial Value","2022","Base","RTV",158.16
+"Rubirizi","Perennial Value","2022","Base","Control",226.06
+"Rubirizi","Annual Agric Value","2022","Base","RTV",285.79
+"Rubirizi","Annual Agric Value","2022","Base","Control",332.61
+"Rubirizi","Livestock Income","2022","Base","RTV",6.71
+"Rubirizi","Livestock Income","2022","Base","Control",14.32
+"Rubirizi","Livestock Income/ Production","2022","Base","RTV",7.42
+"Rubirizi","Livestock Income/ Production","2022","Base","Control",15.68
+"Rubirizi","Livestock Value","2022","Base","RTV",76.28
+"Rubirizi","Livestock Value","2022","Base","Control",108.41
+"Rubirizi","PPI","2022","Base","RTV",26.69
+"Rubirizi","PPI","2022","Base","Control",26.14
+"Kyenjojo","Salaried Employment","2022","Base","RTV",7.22
+"Kyenjojo","Salaried Employment","2022","Base","Control",6.0520643
+"Kyenjojo","Self-Income / Business","2022","Base","RTV",17.63
+"Kyenjojo","Self-Income / Business","2022","Base","Control",18.1036865
+"Kyenjojo","Casual Labour Income","2022","Base","RTV",66.91
+"Kyenjojo","Casual Labour Income","2022","Base","Control",56.9568341
+"Kyenjojo","Remit and Gifts Income","2022","Base","RTV",6.03
+"Kyenjojo","Remit and Gifts Income","2022","Base","Control",6.4102139
+"Kyenjojo","Rent Income","2022","Base","RTV",4.35
+"Kyenjojo","Rent Income","2022","Base","Control",10.0259769
+"Kyenjojo","Perennial Crop Income","2022","Base","RTV",21.57
+"Kyenjojo","Perennial Crop Income","2022","Base","Control",23.5729288
+"Kyenjojo","Seasonal Crop Income","2022","Base","RTV",97.1
+"Kyenjojo","Seasonal Crop Income","2022","Base","Control",89.0923882
+"Kyenjojo","Season1 Value","2022","Base","RTV",121.3
+"Kyenjojo","Season1 Value","2022","Base","Control",77.2808849
+"Kyenjojo","Season2 Value","2022","Base","RTV",79.23
+"Kyenjojo","Season2 Value","2022","Base","Control",66.6583624
+"Kyenjojo","Perennial Value","2022","Base","RTV",40.08
+"Kyenjojo","Perennial Value","2022","Base","Control",56.9354446
+"Kyenjojo","Annual Agric Value","2022","Base","RTV",240.62
+"Kyenjojo","Annual Agric Value","2022","Base","Control",200.8746919
+"Kyenjojo","Livestock Income","2022","Base","RTV",12.05
+"Kyenjojo","Livestock Income","2022","Base","Control",14.98259
+"Kyenjojo","Livestock Income/ Production","2022","Base","RTV",13.91
+"Kyenjojo","Livestock Income/ Production","2022","Base","Control",20.576466
+"Kyenjojo","Livestock Value","2022","Base","RTV",99.26
+"Kyenjojo","Livestock Value","2022","Base","Control",69.7750511
+"Kyenjojo","PPI","2022","Base","RTV",29.16
+"Kyenjojo","PPI","2022","Base","Control",29.2678937
+"Kagadi GAC","Salaried Employment","2022","Base","RTV",2.64
+"Kagadi GAC","Salaried Employment","2022","Base","Control",6.0520643
+"Kagadi GAC","Self-Income / Business","2022","Base","RTV",20.6
+"Kagadi GAC","Self-Income / Business","2022","Base","Control",18.1036865
+"Kagadi GAC","Casual Labour Income","2022","Base","RTV",44.54
+"Kagadi GAC","Casual Labour Income","2022","Base","Control",56.9568341
+"Kagadi GAC","Remit and Gifts Income","2022","Base","RTV",6.34
+"Kagadi GAC","Remit and Gifts Income","2022","Base","Control",6.4102139
+"Kagadi GAC","Rent Income","2022","Base","RTV",4.86
+"Kagadi GAC","Rent Income","2022","Base","Control",10.0259769
+"Kagadi GAC","Perennial Crop Income","2022","Base","RTV",19.73
+"Kagadi GAC","Perennial Crop Income","2022","Base","Control",23.5729288
+"Kagadi GAC","Seasonal Crop Income","2022","Base","RTV",132.51
+"Kagadi GAC","Seasonal Crop Income","2022","Base","Control",89.0923882
+"Kagadi GAC","Season1 Value","2022","Base","RTV",125.94
+"Kagadi GAC","Season1 Value","2022","Base","Control",77.2808849
+"Kagadi GAC","Season2 Value","2022","Base","RTV",85.99
+"Kagadi GAC","Season2 Value","2022","Base","Control",66.6583624
+"Kagadi GAC","Perennial Value","2022","Base","RTV",37.29
+"Kagadi GAC","Perennial Value","2022","Base","Control",56.9354446
+"Kagadi GAC","Annual Agric Value","2022","Base","RTV",249.22
+"Kagadi GAC","Annual Agric Value","2022","Base","Control",200.8746919
+"Kagadi GAC","Livestock Income","2022","Base","RTV",15.67
+"Kagadi GAC","Livestock Income","2022","Base","Control",14.98259
+"Kagadi GAC","Livestock Income/ Production","2022","Base","RTV",17.99
+"Kagadi GAC","Livestock Income/ Production","2022","Base","Control",20.576466
+"Kagadi GAC","Livestock Value","2022","Base","RTV",97.48
+"Kagadi GAC","Livestock Value","2022","Base","Control",69.7750511
+"Kagadi GAC","PPI","2022","Base","RTV",30.43
+"Kagadi GAC","PPI","2022","Base","Control",29.2678937
+"Kagadi NonGAC","Salaried Employment","2022","Base","RTV",4.25
+"Kagadi NonGAC","Salaried Employment","2022","Base","Control",6.0520643
+"Kagadi NonGAC","Self-Income / Business","2022","Base","RTV",9.51
+"Kagadi NonGAC","Self-Income / Business","2022","Base","Control",18.1036865
+"Kagadi NonGAC","Casual Labour Income","2022","Base","RTV",71.48
+"Kagadi NonGAC","Casual Labour Income","2022","Base","Control",56.9568341
+"Kagadi NonGAC","Remit and Gifts Income","2022","Base","RTV",4.87
+"Kagadi NonGAC","Remit and Gifts Income","2022","Base","Control",6.4102139
+"Kagadi NonGAC","Rent Income","2022","Base","RTV",4.74
+"Kagadi NonGAC","Rent Income","2022","Base","Control",10.0259769
+"Kagadi NonGAC","Perennial Crop Income","2022","Base","RTV",25.12
+"Kagadi NonGAC","Perennial Crop Income","2022","Base","Control",23.5729288
+"Kagadi NonGAC","Seasonal Crop Income","2022","Base","RTV",79.8
+"Kagadi NonGAC","Seasonal Crop Income","2022","Base","Control",89.0923882
+"Kagadi NonGAC","Season1 Value","2022","Base","RTV",78.94
+"Kagadi NonGAC","Season1 Value","2022","Base","Control",77.2808849
+"Kagadi NonGAC","Season2 Value","2022","Base","RTV",67.33
+"Kagadi NonGAC","Season2 Value","2022","Base","Control",66.6583624
+"Kagadi NonGAC","Perennial Value","2022","Base","RTV",53.23
+"Kagadi NonGAC","Perennial Value","2022","Base","Control",56.9354446
+"Kagadi NonGAC","Annual Agric Value","2022","Base","RTV",199.5
+"Kagadi NonGAC","Annual Agric Value","2022","Base","Control",200.8746919
+"Kagadi NonGAC","Livestock Income","2022","Base","RTV",9.96
+"Kagadi NonGAC","Livestock Income","2022","Base","Control",14.98259
+"Kagadi NonGAC","Livestock Income/ Production","2022","Base","RTV",11.73
+"Kagadi NonGAC","Livestock Income/ Production","2022","Base","Control",20.576466
+"Kagadi NonGAC","Livestock Value","2022","Base","RTV",68.59
+"Kagadi NonGAC","Livestock Value","2022","Base","Control",69.7750511
+"Kagadi NonGAC","PPI","2022","Base","RTV",29.55
+"Kagadi NonGAC","PPI","2022","Base","Control",29.2678937
+"Kaliro","Salaried Employment","2022","Base","RTV",8.01
+"Kaliro","Salaried Employment","2022","Base","Control",6.99791232
+"Kaliro","Self-Income / Business","2022","Base","RTV",25.74
+"Kaliro","Self-Income / Business","2022","Base","Control",18.93615634
+"Kaliro","Casual Labour Income","2022","Base","RTV",84.9
+"Kaliro","Casual Labour Income","2022","Base","Control",45.37351
+"Kaliro","Remit and Gifts Income","2022","Base","RTV",8.1
+"Kaliro","Remit and Gifts Income","2022","Base","Control",2.20729462
+"Kaliro","Rent Income","2022","Base","RTV",3.66
+"Kaliro","Rent Income","2022","Base","Control",2.58291
+"Kaliro","Perennial Crop Income","2022","Base","RTV",3.49
+"Kaliro","Perennial Crop Income","2022","Base","Control",1.894053
+"Kaliro","Seasonal Crop Income","2022","Base","RTV",51.75
+"Kaliro","Seasonal Crop Income","2022","Base","Control",49.91061714
+"Kaliro","Season1 Value","2022","Base","RTV",107
+"Kaliro","Season1 Value","2022","Base","Control",98.80513499
+"Kaliro","Season2 Value","2022","Base","RTV",40.32
+"Kaliro","Season2 Value","2022","Base","Control",37.25976113
+"Kaliro","Perennial Value","2022","Base","RTV",15.78
+"Kaliro","Perennial Value","2022","Base","Control",10.67837683
+"Kaliro","Annual Agric Value","2022","Base","RTV",163.1
+"Kaliro","Annual Agric Value","2022","Base","Control",146.74327294
+"Kaliro","Livestock Income","2022","Base","RTV",4.84
+"Kaliro","Livestock Income","2022","Base","Control",6.55959808
+"Kaliro","Livestock Income/ Production","2022","Base","RTV",5.64
+"Kaliro","Livestock Income/ Production","2022","Base","Control",7.88968739
+"Kaliro","Livestock Value","2022","Base","RTV",129.48
+"Kaliro","Livestock Value","2022","Base","Control",167.02643847
+"Kaliro","PPI","2022","Base","RTV",33.33
+"Kaliro","PPI","2022","Base","Control",33.41471816
+"Kanungu","Salaried Employment","2018","Year 1","RTV",23.2
+"Kanungu","Salaried Employment","2018","Year 1","Control",10.2043872126975
+"Kanungu","Self-Income / Business","2018","Year 1","RTV",49.05
+"Kanungu","Self-Income / Business","2018","Year 1","Control",41.4647001572209
+"Kanungu","Casual Labour Income","2018","Year 1","RTV",157.83
+"Kanungu","Casual Labour Income","2018","Year 1","Control",130.451448678595
+"Kanungu","Remit and Gifts Income","2018","Year 1","RTV",20.58
+"Kanungu","Remit and Gifts Income","2018","Year 1","Control",4.97566818896459
+"Kanungu","Rent Income","2018","Year 1","RTV",10.43
+"Kanungu","Rent Income","2018","Year 1","Control",1.50108557310773
+"Kanungu","Perennial Crop Income","2018","Year 1","RTV",70.78
+"Kanungu","Perennial Crop Income","2018","Year 1","Control",44.7405405405405
+"Kanungu","Seasonal Crop Income","2018","Year 1","RTV",89.8
+"Kanungu","Seasonal Crop Income","2018","Year 1","Control",94.3118589503631
+"Kanungu","Season1 Value","2018","Year 1","RTV",102.89
+"Kanungu","Season1 Value","2018","Year 1","Control",82.8000524069776
+"Kanungu","Season2 Value","2018","Year 1","RTV",113.89
+"Kanungu","Season2 Value","2018","Year 1","Control",78.2335479523845
+"Kanungu","Perennial Value","2018","Year 1","RTV",155.54
+"Kanungu","Perennial Value","2018","Year 1","Control",162.786883282174
+"Kanungu","Annual Agric Value","2018","Year 1","RTV",372.32
+"Kanungu","Annual Agric Value","2018","Year 1","Control",323.820483641536
+"Kanungu","Livestock Income","2018","Year 1","RTV",61.92
+"Kanungu","Livestock Income","2018","Year 1","Control",36.2057370667066
+"Kanungu","Livestock Income/ Production","2018","Year 1","RTV",69.76
+"Kanungu","Livestock Income/ Production","2018","Year 1","Control",41.8627027027027
+"Kanungu","Livestock Value","2018","Year 1","RTV",185.34
+"Kanungu","Livestock Value","2018","Year 1","Control",169.101227820618
+"Kanungu","PPI","2018","Year 1","RTV",26.08
+"Kanungu","PPI","2018","Year 1","Control",27.09
+"Kanungu","Salaried Employment","2019","Year 1","RTV",39.37
+"Kanungu","Salaried Employment","2019","Year 1","Control",18.5201595037661
+"Kanungu","Self-Income / Business","2019","Year 1","RTV",38.47
+"Kanungu","Self-Income / Business","2019","Year 1","Control",23.1564761482794
+"Kanungu","Casual Labour Income","2019","Year 1","RTV",113.13
+"Kanungu","Casual Labour Income","2019","Year 1","Control",109.947939743022
+"Kanungu","Remit and Gifts Income","2019","Year 1","RTV",20.85
+"Kanungu","Remit and Gifts Income","2019","Year 1","Control",14.6411165263624
+"Kanungu","Rent Income","2019","Year 1","RTV",4.19
+"Kanungu","Rent Income","2019","Year 1","Control",8.05937084625609
+"Kanungu","Perennial Crop Income","2019","Year 1","RTV",129.43
+"Kanungu","Perennial Crop Income","2019","Year 1","Control",61.2816422980357
+"Kanungu","Seasonal Crop Income","2019","Year 1","RTV",84.54
+"Kanungu","Seasonal Crop Income","2019","Year 1","Control",58.0029537734456
+"Kanungu","Season1 Value","2019","Year 1","RTV",125.64
+"Kanungu","Season1 Value","2019","Year 1","Control",61.6609274848619
+"Kanungu","Season2 Value","2019","Year 1","RTV",124.18
+"Kanungu","Season2 Value","2019","Year 1","Control",80.6434057007828
+"Kanungu","Perennial Value","2019","Year 1","RTV",211.9
+"Kanungu","Perennial Value","2019","Year 1","Control",166.58733089647
+"Kanungu","Annual Agric Value","2019","Year 1","RTV",461.71
+"Kanungu","Annual Agric Value","2019","Year 1","Control",308.891664082115
+"Kanungu","Livestock Income","2019","Year 1","RTV",28.97
+"Kanungu","Livestock Income","2019","Year 1","Control",28.8015064244572
+"Kanungu","Livestock Income/ Production","2019","Year 1","RTV",35.31
+"Kanungu","Livestock Income/ Production","2019","Year 1","Control",31.0308669325063
+"Kanungu","Livestock Value","2019","Year 1","RTV",203.32
+"Kanungu","Livestock Value","2019","Year 1","Control",127.555752473785
+"Kanungu","PPI","2019","Year 1","RTV",20.01
+"Kanungu","PPI","2019","Year 1","Control",29.64
+"Rukungiri","Salaried Employment","2019","Year 1","RTV",11.09
+"Rukungiri","Salaried Employment","2019","Year 1","Control",18.5201595037661
+"Rukungiri","Self-Income / Business","2019","Year 1","RTV",28.84
+"Rukungiri","Self-Income / Business","2019","Year 1","Control",23.1564761482794
+"Rukungiri","Casual Labour Income","2019","Year 1","RTV",104.23
+"Rukungiri","Casual Labour Income","2019","Year 1","Control",109.947939743022
+"Rukungiri","Remit and Gifts Income","2019","Year 1","RTV",11.51
+"Rukungiri","Remit and Gifts Income","2019","Year 1","Control",14.6411165263624
+"Rukungiri","Rent Income","2019","Year 1","RTV",3.71
+"Rukungiri","Rent Income","2019","Year 1","Control",8.05937084625609
+"Rukungiri","Perennial Crop Income","2019","Year 1","RTV",83.45
+"Rukungiri","Perennial Crop Income","2019","Year 1","Control",61.2816422980357
+"Rukungiri","Seasonal Crop Income","2019","Year 1","RTV",131.34
+"Rukungiri","Seasonal Crop Income","2019","Year 1","Control",58.0029537734456
+"Rukungiri","Season1 Value","2019","Year 1","RTV",153.21
+"Rukungiri","Season1 Value","2019","Year 1","Control",61.6609274848619
+"Rukungiri","Season2 Value","2019","Year 1","RTV",134.33
+"Rukungiri","Season2 Value","2019","Year 1","Control",80.6434057007828
+"Rukungiri","Perennial Value","2019","Year 1","RTV",163.4
+"Rukungiri","Perennial Value","2019","Year 1","Control",166.58733089647
+"Rukungiri","Annual Agric Value","2019","Year 1","RTV",450.94
+"Rukungiri","Annual Agric Value","2019","Year 1","Control",308.891664082115
+"Rukungiri","Livestock Income","2019","Year 1","RTV",32.71
+"Rukungiri","Livestock Income","2019","Year 1","Control",28.8015064244572
+"Rukungiri","Livestock Income/ Production","2019","Year 1","RTV",35.11
+"Rukungiri","Livestock Income/ Production","2019","Year 1","Control",31.0308669325063
+"Rukungiri","Livestock Value","2019","Year 1","RTV",223.25
+"Rukungiri","Livestock Value","2019","Year 1","Control",127.555752473785
+"Rukungiri","PPI","2019","Year 1","RTV",20.71
+"Rukungiri","PPI","2019","Year 1","Control",29.64
+"Kanungu","Salaried Employment","2020","Year 1","RTV",34.92
+"Kanungu","Salaried Employment","2020","Year 1","Control",9.62399316473001
+"Kanungu","Self-Income / Business","2020","Year 1","RTV",46.6
+"Kanungu","Self-Income / Business","2020","Year 1","Control",23.365003417635
+"Kanungu","Casual Labour Income","2020","Year 1","RTV",131.48
+"Kanungu","Casual Labour Income","2020","Year 1","Control",122.262200956938
+"Kanungu","Remit and Gifts Income","2020","Year 1","RTV",11.79
+"Kanungu","Remit and Gifts Income","2020","Year 1","Control",17.8755980861244
+"Kanungu","Rent Income","2020","Year 1","RTV",8.34
+"Kanungu","Rent Income","2020","Year 1","Control",2.12918660287081
+"Kanungu","Perennial Crop Income","2020","Year 1","RTV",98.15
+"Kanungu","Perennial Crop Income","2020","Year 1","Control",86.7786397812714
+"Kanungu","Seasonal Crop Income","2020","Year 1","RTV",145.12
+"Kanungu","Seasonal Crop Income","2020","Year 1","Control",76.2917532467532
+"Kanungu","Season1 Value","2020","Year 1","RTV",181.84
+"Kanungu","Season1 Value","2020","Year 1","Control",103.765345181135
+"Kanungu","Season2 Value","2020","Year 1","RTV",189.34
+"Kanungu","Season2 Value","2020","Year 1","Control",68.5982467532468
+"Kanungu","Perennial Value","2020","Year 1","RTV",186.32
+"Kanungu","Perennial Value","2020","Year 1","Control",182.726384142174
+"Kanungu","Annual Agric Value","2020","Year 1","RTV",557.5
+"Kanungu","Annual Agric Value","2020","Year 1","Control",355.089976076555
+"Kanungu","Livestock Income","2020","Year 1","RTV",20.78
+"Kanungu","Livestock Income","2020","Year 1","Control",32.2891326042379
+"Kanungu","Livestock Income/ Production","2020","Year 1","RTV",24.42
+"Kanungu","Livestock Income/ Production","2020","Year 1","Control",37.3335618591934
+"Kanungu","Livestock Value","2020","Year 1","RTV",227.29
+"Kanungu","Livestock Value","2020","Year 1","Control",190.199908407382
+"Kanungu","PPI","2020","Year 1","RTV",23.85
+"Kanungu","PPI","2020","Year 1","Control",29.96
+"Rukungiri","Salaried Employment","2020","Year 1","RTV",26.41
+"Rukungiri","Salaried Employment","2020","Year 1","Control",9.62399316473001
+"Rukungiri","Self-Income / Business","2020","Year 1","RTV",48.08
+"Rukungiri","Self-Income / Business","2020","Year 1","Control",23.365003417635
+"Rukungiri","Casual Labour Income","2020","Year 1","RTV",173.04
+"Rukungiri","Casual Labour Income","2020","Year 1","Control",122.262200956938
+"Rukungiri","Remit and Gifts Income","2020","Year 1","RTV",14.58
+"Rukungiri","Remit and Gifts Income","2020","Year 1","Control",17.8755980861244
+"Rukungiri","Rent Income","2020","Year 1","RTV",3.62
+"Rukungiri","Rent Income","2020","Year 1","Control",2.12918660287081
+"Rukungiri","Perennial Crop Income","2020","Year 1","RTV",64.34
+"Rukungiri","Perennial Crop Income","2020","Year 1","Control",86.7786397812714
+"Rukungiri","Seasonal Crop Income","2020","Year 1","RTV",101.22
+"Rukungiri","Seasonal Crop Income","2020","Year 1","Control",76.2917532467532
+"Rukungiri","Season1 Value","2020","Year 1","RTV",173.06
+"Rukungiri","Season1 Value","2020","Year 1","Control",103.765345181135
+"Rukungiri","Season2 Value","2020","Year 1","RTV",155.55
+"Rukungiri","Season2 Value","2020","Year 1","Control",68.5982467532468
+"Rukungiri","Perennial Value","2020","Year 1","RTV",157.49
+"Rukungiri","Perennial Value","2020","Year 1","Control",182.726384142174
+"Rukungiri","Annual Agric Value","2020","Year 1","RTV",486.1
+"Rukungiri","Annual Agric Value","2020","Year 1","Control",355.089976076555
+"Rukungiri","Livestock Income","2020","Year 1","RTV",16.2
+"Rukungiri","Livestock Income","2020","Year 1","Control",32.2891326042379
+"Rukungiri","Livestock Income/ Production","2020","Year 1","RTV",17.23
+"Rukungiri","Livestock Income/ Production","2020","Year 1","Control",37.3335618591934
+"Rukungiri","Livestock Value","2020","Year 1","RTV",210.27
+"Rukungiri","Livestock Value","2020","Year 1","Control",190.199908407382
+"Rukungiri","PPI","2020","Year 1","RTV",24.32
+"Rukungiri","PPI","2020","Year 1","Control",29.96
+"Mitooma","Salaried Employment","2020","Year 1","RTV",39.35
+"Mitooma","Salaried Employment","2020","Year 1","Control",28.408262454435
+"Mitooma","Self-Income / Business","2020","Year 1","RTV",56.82
+"Mitooma","Self-Income / Business","2020","Year 1","Control",40.3797965630967
+"Mitooma","Casual Labour Income","2020","Year 1","RTV",122.59
+"Mitooma","Casual Labour Income","2020","Year 1","Control",128.959455650061
+"Mitooma","Remit and Gifts Income","2020","Year 1","RTV",11.56
+"Mitooma","Remit and Gifts Income","2020","Year 1","Control",7.46300989411561
+"Mitooma","Rent Income","2020","Year 1","RTV",11.34
+"Mitooma","Rent Income","2020","Year 1","Control",4.65474743968061
+"Mitooma","Perennial Crop Income","2020","Year 1","RTV",146.48
+"Mitooma","Perennial Crop Income","2020","Year 1","Control",94.1654053115779
+"Mitooma","Seasonal Crop Income","2020","Year 1","RTV",30.78
+"Mitooma","Seasonal Crop Income","2020","Year 1","Control",18.702135045999
+"Mitooma","Season1 Value","2020","Year 1","RTV",99.99
+"Mitooma","Season1 Value","2020","Year 1","Control",63.2962735636174
+"Mitooma","Season2 Value","2020","Year 1","RTV",60.57
+"Mitooma","Season2 Value","2020","Year 1","Control",39.9880298559278
+"Mitooma","Perennial Value","2020","Year 1","RTV",356.56
+"Mitooma","Perennial Value","2020","Year 1","Control",302.173607359833
+"Mitooma","Annual Agric Value","2020","Year 1","RTV",517.12
+"Mitooma","Annual Agric Value","2020","Year 1","Control",405.457910779379
+"Mitooma","Livestock Income","2020","Year 1","RTV",20.26
+"Mitooma","Livestock Income","2020","Year 1","Control",12.8949487936122
+"Mitooma","Livestock Income/ Production","2020","Year 1","RTV",22.73
+"Mitooma","Livestock Income/ Production","2020","Year 1","Control",14.2669331713244
+"Mitooma","Livestock Value","2020","Year 1","RTV",222.42
+"Mitooma","Livestock Value","2020","Year 1","Control",117.436382919632
+"Mitooma","PPI","2020","Year 1","RTV",26.04
+"Mitooma","PPI","2020","Year 1","Control",27.63
+"Kagadi","Salaried Employment","2020","Year 1","RTV",14.42
+"Kagadi","Salaried Employment","2020","Year 1","Control",28.408262454435
+"Kagadi","Self-Income / Business","2020","Year 1","RTV",99.98
+"Kagadi","Self-Income / Business","2020","Year 1","Control",40.3797965630967
+"Kagadi","Casual Labour Income","2020","Year 1","RTV",64.61
+"Kagadi","Casual Labour Income","2020","Year 1","Control",128.959455650061
+"Kagadi","Remit and Gifts Income","2020","Year 1","RTV",1.77
+"Kagadi","Remit and Gifts Income","2020","Year 1","Control",7.46300989411561
+"Kagadi","Rent Income","2020","Year 1","RTV",5.24
+"Kagadi","Rent Income","2020","Year 1","Control",4.65474743968061
+"Kagadi","Perennial Crop Income","2020","Year 1","RTV",67.09
+"Kagadi","Perennial Crop Income","2020","Year 1","Control",94.1654053115779
+"Kagadi","Seasonal Crop Income","2020","Year 1","RTV",224.07
+"Kagadi","Seasonal Crop Income","2020","Year 1","Control",18.702135045999
+"Kagadi","Season1 Value","2020","Year 1","RTV",216.48
+"Kagadi","Season1 Value","2020","Year 1","Control",63.2962735636174
+"Kagadi","Season2 Value","2020","Year 1","RTV",186.2
+"Kagadi","Season2 Value","2020","Year 1","Control",39.9880298559278
+"Kagadi","Perennial Value","2020","Year 1","RTV",122.73
+"Kagadi","Perennial Value","2020","Year 1","Control",302.173607359833
+"Kagadi","Annual Agric Value","2020","Year 1","RTV",525.41
+"Kagadi","Annual Agric Value","2020","Year 1","Control",405.457910779379
+"Kagadi","Livestock Income","2020","Year 1","RTV",19.97
+"Kagadi","Livestock Income","2020","Year 1","Control",12.8949487936122
+"Kagadi","Livestock Income/ Production","2020","Year 1","RTV",25.5
+"Kagadi","Livestock Income/ Production","2020","Year 1","Control",14.2669331713244
+"Kagadi","Livestock Value","2020","Year 1","RTV",167.89
+"Kagadi","Livestock Value","2020","Year 1","Control",117.436382919632
+"Kagadi","PPI","2020","Year 1","RTV",26.45
+"Kagadi","PPI","2020","Year 1","Control",27.63
+"Kanungu","Salaried Employment","2021","Year 1","RTV",53.27
+"Kanungu","Salaried Employment","2021","Year 1","Control",36.27
+"Kanungu","Self-Income / Business","2021","Year 1","RTV",53.34
+"Kanungu","Self-Income / Business","2021","Year 1","Control",47.06
+"Kanungu","Casual Labour Income","2021","Year 1","RTV",71.85
+"Kanungu","Casual Labour Income","2021","Year 1","Control",114.78
+"Kanungu","Remit and Gifts Income","2021","Year 1","RTV",29.66
+"Kanungu","Remit and Gifts Income","2021","Year 1","Control",17.38
+"Kanungu","Rent Income","2021","Year 1","RTV",8.58
+"Kanungu","Rent Income","2021","Year 1","Control",3.93
+"Kanungu","Perennial Crop Income","2021","Year 1","RTV",154.17
+"Kanungu","Perennial Crop Income","2021","Year 1","Control",58.24
+"Kanungu","Seasonal Crop Income","2021","Year 1","RTV",98.72
+"Kanungu","Seasonal Crop Income","2021","Year 1","Control",79.21
+"Kanungu","Season1 Value","2021","Year 1","RTV",150.96
+"Kanungu","Season1 Value","2021","Year 1","Control",123.3
+"Kanungu","Season2 Value","2021","Year 1","RTV",117.04
+"Kanungu","Season2 Value","2021","Year 1","Control",68.03
+"Kanungu","Perennial Value","2021","Year 1","RTV",266.56
+"Kanungu","Perennial Value","2021","Year 1","Control",149.52
+"Kanungu","Annual Agric Value","2021","Year 1","RTV",534.56
+"Kanungu","Annual Agric Value","2021","Year 1","Control",340.85
+"Kanungu","Livestock Income","2021","Year 1","RTV",24.68
+"Kanungu","Livestock Income","2021","Year 1","Control",27.55
+"Kanungu","Livestock Income/ Production","2021","Year 1","RTV",30.89
+"Kanungu","Livestock Income/ Production","2021","Year 1","Control",30.89
+"Kanungu","Livestock Value","2021","Year 1","RTV",198.24
+"Kanungu","Livestock Value","2021","Year 1","Control",212.66
+"Kanungu","PPI","2021","Year 1","RTV",23.19
+"Kanungu","PPI","2021","Year 1","Control",29.73
+"Rukungiri","Salaried Employment","2021","Year 1","RTV",28.5
+"Rukungiri","Salaried Employment","2021","Year 1","Control",36.27
+"Rukungiri","Self-Income / Business","2021","Year 1","RTV",70.42
+"Rukungiri","Self-Income / Business","2021","Year 1","Control",47.06
+"Rukungiri","Casual Labour Income","2021","Year 1","RTV",96.4
+"Rukungiri","Casual Labour Income","2021","Year 1","Control",114.78
+"Rukungiri","Remit and Gifts Income","2021","Year 1","RTV",36.3
+"Rukungiri","Remit and Gifts Income","2021","Year 1","Control",17.38
+"Rukungiri","Rent Income","2021","Year 1","RTV",6.33
+"Rukungiri","Rent Income","2021","Year 1","Control",3.93
+"Rukungiri","Perennial Crop Income","2021","Year 1","RTV",143.1
+"Rukungiri","Perennial Crop Income","2021","Year 1","Control",58.24
+"Rukungiri","Seasonal Crop Income","2021","Year 1","RTV",74.25
+"Rukungiri","Seasonal Crop Income","2021","Year 1","Control",79.21
+"Rukungiri","Season1 Value","2021","Year 1","RTV",104.45
+"Rukungiri","Season1 Value","2021","Year 1","Control",123.3
+"Rukungiri","Season2 Value","2021","Year 1","RTV",115.57
+"Rukungiri","Season2 Value","2021","Year 1","Control",68.03
+"Rukungiri","Perennial Value","2021","Year 1","RTV",340.35
+"Rukungiri","Perennial Value","2021","Year 1","Control",149.52
+"Rukungiri","Annual Agric Value","2021","Year 1","RTV",560.37
+"Rukungiri","Annual Agric Value","2021","Year 1","Control",340.85
+"Rukungiri","Livestock Income","2021","Year 1","RTV",12.23
+"Rukungiri","Livestock Income","2021","Year 1","Control",27.55
+"Rukungiri","Livestock Income/ Production","2021","Year 1","RTV",14.63
+"Rukungiri","Livestock Income/ Production","2021","Year 1","Control",30.89
+"Rukungiri","Livestock Value","2021","Year 1","RTV",191.51
+"Rukungiri","Livestock Value","2021","Year 1","Control",212.66
+"Rukungiri","PPI","2021","Year 1","RTV",22.16
+"Rukungiri","PPI","2021","Year 1","Control",29.73
+"Mitooma","Salaried Employment","2021","Year 1","RTV",28.5
+"Mitooma","Salaried Employment","2021","Year 1","Control",50.32835
+"Mitooma","Self-Income / Business","2021","Year 1","RTV",94.65
+"Mitooma","Self-Income / Business","2021","Year 1","Control",63.864964
+"Mitooma","Casual Labour Income","2021","Year 1","RTV",74.86
+"Mitooma","Casual Labour Income","2021","Year 1","Control",101.994654
+"Mitooma","Remit and Gifts Income","2021","Year 1","RTV",39.39
+"Mitooma","Remit and Gifts Income","2021","Year 1","Control",29.736825
+"Mitooma","Rent Income","2021","Year 1","RTV",4.11
+"Mitooma","Rent Income","2021","Year 1","Control",4.348084
+"Mitooma","Perennial Crop Income","2021","Year 1","RTV",126.15
+"Mitooma","Perennial Crop Income","2021","Year 1","Control",78.579464
+"Mitooma","Seasonal Crop Income","2021","Year 1","RTV",43.01
+"Mitooma","Seasonal Crop Income","2021","Year 1","Control",30.053312
+"Mitooma","Season1 Value","2021","Year 1","RTV",79.1
+"Mitooma","Season1 Value","2021","Year 1","Control",90.824291
+"Mitooma","Season2 Value","2021","Year 1","RTV",84.38
+"Mitooma","Season2 Value","2021","Year 1","Control",57.668003
+"Mitooma","Perennial Value","2021","Year 1","RTV",270.07
+"Mitooma","Perennial Value","2021","Year 1","Control",208.959195
+"Mitooma","Annual Agric Value","2021","Year 1","RTV",433.55
+"Mitooma","Annual Agric Value","2021","Year 1","Control",357.45149
+"Mitooma","Livestock Income","2021","Year 1","RTV",16.24
+"Mitooma","Livestock Income","2021","Year 1","Control",10.592714
+"Mitooma","Livestock Income/ Production","2021","Year 1","RTV",14.63
+"Mitooma","Livestock Income/ Production","2021","Year 1","Control",11.841105
+"Mitooma","Livestock Value","2021","Year 1","RTV",148.99
+"Mitooma","Livestock Value","2021","Year 1","Control",93.930304
+"Mitooma","PPI","2021","Year 1","RTV",24.89
+"Mitooma","PPI","2021","Year 1","Control",25.099267
+"Rubanda","Salaried Employment","2021","Year 1","RTV",26.51
+"Rubanda","Salaried Employment","2021","Year 1","Control",23.156283
+"Rubanda","Self-Income / Business","2021","Year 1","RTV",41.11
+"Rubanda","Self-Income / Business","2021","Year 1","Control",16.987185
+"Rubanda","Casual Labour Income","2021","Year 1","RTV",59.73
+"Rubanda","Casual Labour Income","2021","Year 1","Control",87.977754
+"Rubanda","Remit and Gifts Income","2021","Year 1","RTV",27.22
+"Rubanda","Remit and Gifts Income","2021","Year 1","Control",15.257919
+"Rubanda","Rent Income","2021","Year 1","RTV",2.57
+"Rubanda","Rent Income","2021","Year 1","Control",6.778432
+"Rubanda","Perennial Crop Income","2021","Year 1","RTV",14.56
+"Rubanda","Perennial Crop Income","2021","Year 1","Control",8.011606
+"Rubanda","Seasonal Crop Income","2021","Year 1","RTV",132.45
+"Rubanda","Seasonal Crop Income","2021","Year 1","Control",63.29161
+"Rubanda","Season1 Value","2021","Year 1","RTV",147.57
+"Rubanda","Season1 Value","2021","Year 1","Control",129.452617
+"Rubanda","Season2 Value","2021","Year 1","RTV",104.77
+"Rubanda","Season2 Value","2021","Year 1","Control",119.184855
+"Rubanda","Perennial Value","2021","Year 1","RTV",31.68
+"Rubanda","Perennial Value","2021","Year 1","Control",9.786008
+"Rubanda","Annual Agric Value","2021","Year 1","RTV",284.02
+"Rubanda","Annual Agric Value","2021","Year 1","Control",258.423481
+"Rubanda","Livestock Income","2021","Year 1","RTV",18.97
+"Rubanda","Livestock Income","2021","Year 1","Control",1.8145
+"Rubanda","Livestock Income/ Production","2021","Year 1","RTV",21.3
+"Rubanda","Livestock Income/ Production","2021","Year 1","Control",2.080078
+"Rubanda","Livestock Value","2021","Year 1","RTV",209.96
+"Rubanda","Livestock Value","2021","Year 1","Control",58.658822
+"Rubanda","PPI","2021","Year 1","RTV",25.86
+"Rubanda","PPI","2021","Year 1","Control",26.010413
+"Kanungu","Salaried Employment","2022","Year 1","RTV",40.16
+"Kanungu","Salaried Employment","2022","Year 1","Control",36.27
+"Kanungu","Self-Income / Business","2022","Year 1","RTV",57.52
+"Kanungu","Self-Income / Business","2022","Year 1","Control",47.06
+"Kanungu","Casual Labour Income","2022","Year 1","RTV",61.94
+"Kanungu","Casual Labour Income","2022","Year 1","Control",114.78
+"Kanungu","Remit and Gifts Income","2022","Year 1","RTV",41.23
+"Kanungu","Remit and Gifts Income","2022","Year 1","Control",17.38
+"Kanungu","Rent Income","2022","Year 1","RTV",14.99
+"Kanungu","Rent Income","2022","Year 1","Control",3.93
+"Kanungu","Perennial Crop Income","2022","Year 1","RTV",190.79
+"Kanungu","Perennial Crop Income","2022","Year 1","Control",58.24
+"Kanungu","Seasonal Crop Income","2022","Year 1","RTV",66.87
+"Kanungu","Seasonal Crop Income","2022","Year 1","Control",79.21
+"Kanungu","Season1 Value","2022","Year 1","RTV",131.16
+"Kanungu","Season1 Value","2022","Year 1","Control",123.3
+"Kanungu","Season2 Value","2022","Year 1","RTV",121.24
+"Kanungu","Season2 Value","2022","Year 1","Control",68.03
+"Kanungu","Perennial Value","2022","Year 1","RTV",252.4
+"Kanungu","Perennial Value","2022","Year 1","Control",149.52
+"Kanungu","Annual Agric Value","2022","Year 1","RTV",307.1
+"Kanungu","Annual Agric Value","2022","Year 1","Control",340.85
+"Kanungu","Livestock Income","2022","Year 1","RTV",25.02
+"Kanungu","Livestock Income","2022","Year 1","Control",27.55
+"Kanungu","Livestock Income/ Production","2022","Year 1","RTV",27.74
+"Kanungu","Livestock Income/ Production","2022","Year 1","Control",30.89
+"Kanungu","Livestock Value","2022","Year 1","RTV",126.83
+"Kanungu","Livestock Value","2022","Year 1","Control",212.66
+"Kanungu","PPI","2022","Year 1","RTV",24.43
+"Kanungu","PPI","2022","Year 1","Control",29.73
+"Rukungiri","Salaried Employment","2022","Year 1","RTV",52.48
+"Rukungiri","Salaried Employment","2022","Year 1","Control",23.905796
+"Rukungiri","Self-Income / Business","2022","Year 1","RTV",24.77
+"Rukungiri","Self-Income / Business","2022","Year 1","Control",82.427847
+"Rukungiri","Casual Labour Income","2022","Year 1","RTV",78.28
+"Rukungiri","Casual Labour Income","2022","Year 1","Control",69.67278
+"Rukungiri","Remit and Gifts Income","2022","Year 1","RTV",32.4
+"Rukungiri","Remit and Gifts Income","2022","Year 1","Control",37.394595
+"Rukungiri","Rent Income","2022","Year 1","RTV",3.91
+"Rukungiri","Rent Income","2022","Year 1","Control",8.579853
+"Rukungiri","Perennial Crop Income","2022","Year 1","RTV",126.95
+"Rukungiri","Perennial Crop Income","2022","Year 1","Control",89.61655
+"Rukungiri","Seasonal Crop Income","2022","Year 1","RTV",132.41
+"Rukungiri","Seasonal Crop Income","2022","Year 1","Control",81.824289
+"Rukungiri","Season1 Value","2022","Year 1","RTV",196.78
+"Rukungiri","Season1 Value","2022","Year 1","Control",173.106264
+"Rukungiri","Season2 Value","2022","Year 1","RTV",166.97
+"Rukungiri","Season2 Value","2022","Year 1","Control",95.105384
+"Rukungiri","Perennial Value","2022","Year 1","RTV",217.61
+"Rukungiri","Perennial Value","2022","Year 1","Control",170.935802
+"Rukungiri","Annual Agric Value","2022","Year 1","RTV",581.35
+"Rukungiri","Annual Agric Value","2022","Year 1","Control",439.14745
+"Rukungiri","Livestock Income","2022","Year 1","RTV",22
+"Rukungiri","Livestock Income","2022","Year 1","Control",28.03561
+"Rukungiri","Livestock Income/ Production","2022","Year 1","RTV",24.81
+"Rukungiri","Livestock Income/ Production","2022","Year 1","Control",30.466624
+"Rukungiri","Livestock Value","2022","Year 1","RTV",238.24
+"Rukungiri","Livestock Value","2022","Year 1","Control",241.17259
+"Rukungiri","PPI","2022","Year 1","RTV",23.3
+"Rukungiri","PPI","2022","Year 1","Control",27.645144
+"Mitooma","Salaried Employment","2022","Year 1","RTV",56.26
+"Mitooma","Salaried Employment","2022","Year 1","Control",50.32835
+"Mitooma","Self-Income / Business","2022","Year 1","RTV",45.24
+"Mitooma","Self-Income / Business","2022","Year 1","Control",63.864964
+"Mitooma","Casual Labour Income","2022","Year 1","RTV",63.94
+"Mitooma","Casual Labour Income","2022","Year 1","Control",101.994654
+"Mitooma","Remit and Gifts Income","2022","Year 1","RTV",51.02
+"Mitooma","Remit and Gifts Income","2022","Year 1","Control",29.736825
+"Mitooma","Rent Income","2022","Year 1","RTV",6.95
+"Mitooma","Rent Income","2022","Year 1","Control",4.348084
+"Mitooma","Perennial Crop Income","2022","Year 1","RTV",122.37
+"Mitooma","Perennial Crop Income","2022","Year 1","Control",78.579464
+"Mitooma","Seasonal Crop Income","2022","Year 1","RTV",67.72
+"Mitooma","Seasonal Crop Income","2022","Year 1","Control",30.053312
+"Mitooma","Season1 Value","2022","Year 1","RTV",149.32
+"Mitooma","Season1 Value","2022","Year 1","Control",90.824291
+"Mitooma","Season2 Value","2022","Year 1","RTV",112.5
+"Mitooma","Season2 Value","2022","Year 1","Control",57.668003
+"Mitooma","Perennial Value","2022","Year 1","RTV",236.81
+"Mitooma","Perennial Value","2022","Year 1","Control",208.959195
+"Mitooma","Annual Agric Value","2022","Year 1","RTV",498.62
+"Mitooma","Annual Agric Value","2022","Year 1","Control",357.45149
+"Mitooma","Livestock Income","2022","Year 1","RTV",21.97
+"Mitooma","Livestock Income","2022","Year 1","Control",10.592714
+"Mitooma","Livestock Income/ Production","2022","Year 1","RTV",23.97
+"Mitooma","Livestock Income/ Production","2022","Year 1","Control",11.841105
+"Mitooma","Livestock Value","2022","Year 1","RTV",183.76
+"Mitooma","Livestock Value","2022","Year 1","Control",93.930304
+"Mitooma","PPI","2022","Year 1","RTV",24.19
+"Mitooma","PPI","2022","Year 1","Control",25.099267
+"Rubanda","Salaried Employment","2022","Year 1","RTV",35.42
+"Rubanda","Salaried Employment","2022","Year 1","Control",33.968321
+"Rubanda","Self-Income / Business","2022","Year 1","RTV",36.39
+"Rubanda","Self-Income / Business","2022","Year 1","Control",20.732767
+"Rubanda","Casual Labour Income","2022","Year 1","RTV",66.68
+"Rubanda","Casual Labour Income","2022","Year 1","Control",89.665025
+"Rubanda","Remit and Gifts Income","2022","Year 1","RTV",53.58
+"Rubanda","Remit and Gifts Income","2022","Year 1","Control",22.178117
+"Rubanda","Rent Income","2022","Year 1","RTV",11.35
+"Rubanda","Rent Income","2022","Year 1","Control",8.838568
+"Rubanda","Perennial Crop Income","2022","Year 1","RTV",62.07
+"Rubanda","Perennial Crop Income","2022","Year 1","Control",8.731767
+"Rubanda","Seasonal Crop Income","2022","Year 1","RTV",167.47
+"Rubanda","Seasonal Crop Income","2022","Year 1","Control",72.337288
+"Rubanda","Season1 Value","2022","Year 1","RTV",228.45
+"Rubanda","Season1 Value","2022","Year 1","Control",153.175139
+"Rubanda","Season2 Value","2022","Year 1","RTV",197.05
+"Rubanda","Season2 Value","2022","Year 1","Control",127.755707
+"Rubanda","Perennial Value","2022","Year 1","RTV",184.57
+"Rubanda","Perennial Value","2022","Year 1","Control",30.763273
+"Rubanda","Annual Agric Value","2022","Year 1","RTV",610.06
+"Rubanda","Annual Agric Value","2022","Year 1","Control",311.694119
+"Rubanda","Livestock Income","2022","Year 1","RTV",29.1
+"Rubanda","Livestock Income","2022","Year 1","Control",4.981239
+"Rubanda","Livestock Income/ Production","2022","Year 1","RTV",31.5
+"Rubanda","Livestock Income/ Production","2022","Year 1","Control",6.16247
+"Rubanda","Livestock Value","2022","Year 1","RTV",225.19
+"Rubanda","Livestock Value","2022","Year 1","Control",92.678482
+"Rubanda","PPI","2022","Year 1","RTV",24.08
+"Rubanda","PPI","2022","Year 1","Control",25.190896
+"Rubirizi","Salaried Employment","2022","Year 1","RTV",38.87
+"Rubirizi","Salaried Employment","2022","Year 1","Control",50.32835
+"Rubirizi","Self-Income / Business","2022","Year 1","RTV",30.74
+"Rubirizi","Self-Income / Business","2022","Year 1","Control",63.864964
+"Rubirizi","Casual Labour Income","2022","Year 1","RTV",59.55
+"Rubirizi","Casual Labour Income","2022","Year 1","Control",101.994654
+"Rubirizi","Remit and Gifts Income","2022","Year 1","RTV",38.24
+"Rubirizi","Remit and Gifts Income","2022","Year 1","Control",29.736825
+"Rubirizi","Rent Income","2022","Year 1","RTV",8.64
+"Rubirizi","Rent Income","2022","Year 1","Control",4.348084
+"Rubirizi","Perennial Crop Income","2022","Year 1","RTV",128.88
+"Rubirizi","Perennial Crop Income","2022","Year 1","Control",78.579464
+"Rubirizi","Seasonal Crop Income","2022","Year 1","RTV",126.79
+"Rubirizi","Seasonal Crop Income","2022","Year 1","Control",30.053312
+"Rubirizi","Season1 Value","2022","Year 1","RTV",164.77
+"Rubirizi","Season1 Value","2022","Year 1","Control",90.824291
+"Rubirizi","Season2 Value","2022","Year 1","RTV",161.04
+"Rubirizi","Season2 Value","2022","Year 1","Control",57.668003
+"Rubirizi","Perennial Value","2022","Year 1","RTV",253.81
+"Rubirizi","Perennial Value","2022","Year 1","Control",208.959195
+"Rubirizi","Annual Agric Value","2022","Year 1","RTV",579.62
+"Rubirizi","Annual Agric Value","2022","Year 1","Control",357.45149
+"Rubirizi","Livestock Income","2022","Year 1","RTV",11.41
+"Rubirizi","Livestock Income","2022","Year 1","Control",10.592714
+"Rubirizi","Livestock Income/ Production","2022","Year 1","RTV",12.54
+"Rubirizi","Livestock Income/ Production","2022","Year 1","Control",11.841105
+"Rubirizi","Livestock Value","2022","Year 1","RTV",101.3
+"Rubirizi","Livestock Value","2022","Year 1","Control",93.930304
+"Rubirizi","PPI","2022","Year 1","RTV",23.36
+"Rubirizi","PPI","2022","Year 1","Control",25.099267
+"Kyenjojo","Salaried Employment","2022","Year 1","RTV",22.33
+"Kyenjojo","Salaried Employment","2022","Year 1","Control",7.0286286
+"Kyenjojo","Self-Income / Business","2022","Year 1","RTV",25.54
+"Kyenjojo","Self-Income / Business","2022","Year 1","Control",19.5655656
+"Kyenjojo","Casual Labour Income","2022","Year 1","RTV",55.2
+"Kyenjojo","Casual Labour Income","2022","Year 1","Control",61.1843844
+"Kyenjojo","Remit and Gifts Income","2022","Year 1","RTV",13.91
+"Kyenjojo","Remit and Gifts Income","2022","Year 1","Control",7.0206206
+"Kyenjojo","Rent Income","2022","Year 1","RTV",10.16
+"Kyenjojo","Rent Income","2022","Year 1","Control",10.1181181
+"Kyenjojo","Perennial Crop Income","2022","Year 1","RTV",60.2
+"Kyenjojo","Perennial Crop Income","2022","Year 1","Control",26.5203203
+"Kyenjojo","Seasonal Crop Income","2022","Year 1","RTV",192.33
+"Kyenjojo","Seasonal Crop Income","2022","Year 1","Control",100.6263263
+"Kyenjojo","Season1 Value","2022","Year 1","RTV",217.24
+"Kyenjojo","Season1 Value","2022","Year 1","Control",89.6127241
+"Kyenjojo","Season2 Value","2022","Year 1","RTV",161.38
+"Kyenjojo","Season2 Value","2022","Year 1","Control",75.5547508
+"Kyenjojo","Perennial Value","2022","Year 1","RTV",109.83
+"Kyenjojo","Perennial Value","2022","Year 1","Control",67.9988789
+"Kyenjojo","Annual Agric Value","2022","Year 1","RTV",488.45
+"Kyenjojo","Annual Agric Value","2022","Year 1","Control",233.1663538
+"Kyenjojo","Livestock Income","2022","Year 1","RTV",35.12
+"Kyenjojo","Livestock Income","2022","Year 1","Control",19.2586186
+"Kyenjojo","Livestock Income/ Production","2022","Year 1","RTV",38.9
+"Kyenjojo","Livestock Income/ Production","2022","Year 1","Control",27.2953153
+"Kyenjojo","Livestock Value","2022","Year 1","RTV",204.27
+"Kyenjojo","Livestock Value","2022","Year 1","Control",89.3775776
+"Kyenjojo","PPI","2022","Year 1","RTV",24.43
+"Kyenjojo","PPI","2022","Year 1","Control",27.3874074
+"Kagadi GAC","Salaried Employment","2022","Year 1","RTV",12.13
+"Kagadi GAC","Salaried Employment","2022","Year 1","Control",7.0286286
+"Kagadi GAC","Self-Income / Business","2022","Year 1","RTV",30.03
+"Kagadi GAC","Self-Income / Business","2022","Year 1","Control",19.5655656
+"Kagadi GAC","Casual Labour Income","2022","Year 1","RTV",34.13
+"Kagadi GAC","Casual Labour Income","2022","Year 1","Control",61.1843844
+"Kagadi GAC","Remit and Gifts Income","2022","Year 1","RTV",12.76
+"Kagadi GAC","Remit and Gifts Income","2022","Year 1","Control",7.0206206
+"Kagadi GAC","Rent Income","2022","Year 1","RTV",11.2
+"Kagadi GAC","Rent Income","2022","Year 1","Control",10.1181181
+"Kagadi GAC","Perennial Crop Income","2022","Year 1","RTV",61.07
+"Kagadi GAC","Perennial Crop Income","2022","Year 1","Control",26.5203203
+"Kagadi GAC","Seasonal Crop Income","2022","Year 1","RTV",268.09
+"Kagadi GAC","Seasonal Crop Income","2022","Year 1","Control",100.6263263
+"Kagadi GAC","Season1 Value","2022","Year 1","RTV",232.32
+"Kagadi GAC","Season1 Value","2022","Year 1","Control",89.6127241
+"Kagadi GAC","Season2 Value","2022","Year 1","RTV",195.44
+"Kagadi GAC","Season2 Value","2022","Year 1","Control",75.5547508
+"Kagadi GAC","Perennial Value","2022","Year 1","RTV",142.03
+"Kagadi GAC","Perennial Value","2022","Year 1","Control",67.9988789
+"Kagadi GAC","Annual Agric Value","2022","Year 1","RTV",569.78
+"Kagadi GAC","Annual Agric Value","2022","Year 1","Control",233.1663538
+"Kagadi GAC","Livestock Income","2022","Year 1","RTV",28.52
+"Kagadi GAC","Livestock Income","2022","Year 1","Control",19.2586186
+"Kagadi GAC","Livestock Income/ Production","2022","Year 1","RTV",32.67
+"Kagadi GAC","Livestock Income/ Production","2022","Year 1","Control",27.2953153
+"Kagadi GAC","Livestock Value","2022","Year 1","RTV",203.2
+"Kagadi GAC","Livestock Value","2022","Year 1","Control",89.3775776
+"Kagadi GAC","PPI","2022","Year 1","RTV",24.82
+"Kagadi GAC","PPI","2022","Year 1","Control",27.3874074
+"Kagadi NonGAC","Salaried Employment","2022","Year 1","RTV",19.22
+"Kagadi NonGAC","Salaried Employment","2022","Year 1","Control",7.0286286
+"Kagadi NonGAC","Self-Income / Business","2022","Year 1","RTV",19.89
+"Kagadi NonGAC","Self-Income / Business","2022","Year 1","Control",19.5655656
+"Kagadi NonGAC","Casual Labour Income","2022","Year 1","RTV",52.58
+"Kagadi NonGAC","Casual Labour Income","2022","Year 1","Control",61.1843844
+"Kagadi NonGAC","Remit and Gifts Income","2022","Year 1","RTV",15.54
+"Kagadi NonGAC","Remit and Gifts Income","2022","Year 1","Control",7.0206206
+"Kagadi NonGAC","Rent Income","2022","Year 1","RTV",11.79
+"Kagadi NonGAC","Rent Income","2022","Year 1","Control",10.1181181
+"Kagadi NonGAC","Perennial Crop Income","2022","Year 1","RTV",68.35
+"Kagadi NonGAC","Perennial Crop Income","2022","Year 1","Control",26.5203203
+"Kagadi NonGAC","Seasonal Crop Income","2022","Year 1","RTV",204.23
+"Kagadi NonGAC","Seasonal Crop Income","2022","Year 1","Control",100.6263263
+"Kagadi NonGAC","Season1 Value","2022","Year 1","RTV",197.56
+"Kagadi NonGAC","Season1 Value","2022","Year 1","Control",89.6127241
+"Kagadi NonGAC","Season2 Value","2022","Year 1","RTV",161.8
+"Kagadi NonGAC","Season2 Value","2022","Year 1","Control",75.5547508
+"Kagadi NonGAC","Perennial Value","2022","Year 1","RTV",115.32
+"Kagadi NonGAC","Perennial Value","2022","Year 1","Control",67.9988789
+"Kagadi NonGAC","Annual Agric Value","2022","Year 1","RTV",474.68
+"Kagadi NonGAC","Annual Agric Value","2022","Year 1","Control",233.1663538
+"Kagadi NonGAC","Livestock Income","2022","Year 1","RTV",24.22
+"Kagadi NonGAC","Livestock Income","2022","Year 1","Control",19.2586186
+"Kagadi NonGAC","Livestock Income/ Production","2022","Year 1","RTV",27.62
+"Kagadi NonGAC","Livestock Income/ Production","2022","Year 1","Control",27.2953153
+"Kagadi NonGAC","Livestock Value","2022","Year 1","RTV",125.3
+"Kagadi NonGAC","Livestock Value","2022","Year 1","Control",89.3775776
+"Kagadi NonGAC","PPI","2022","Year 1","RTV",25.7
+"Kagadi NonGAC","PPI","2022","Year 1","Control",27.3874074
+"Kaliro","Salaried Employment","2022","Year 1","RTV",23.99
+"Kaliro","Salaried Employment","2022","Year 1","Control",24.6129086
+"Kaliro","Self-Income / Business","2022","Year 1","RTV",50.34
+"Kaliro","Self-Income / Business","2022","Year 1","Control",36.54808813
+"Kaliro","Casual Labour Income","2022","Year 1","RTV",73.69
+"Kaliro","Casual Labour Income","2022","Year 1","Control",47.9027693
+"Kaliro","Remit and Gifts Income","2022","Year 1","RTV",20.07
+"Kaliro","Remit and Gifts Income","2022","Year 1","Control",18.85592985
+"Kaliro","Rent Income","2022","Year 1","RTV",9.77
+"Kaliro","Rent Income","2022","Year 1","Control",7.91497863
+"Kaliro","Perennial Crop Income","2022","Year 1","RTV",8.59
+"Kaliro","Perennial Crop Income","2022","Year 1","Control",0.67761807
+"Kaliro","Seasonal Crop Income","2022","Year 1","RTV",95.93
+"Kaliro","Seasonal Crop Income","2022","Year 1","Control",62.3560131
+"Kaliro","Season1 Value","2022","Year 1","RTV",162.98
+"Kaliro","Season1 Value","2022","Year 1","Control",105.34795216
+"Kaliro","Season2 Value","2022","Year 1","RTV",120.79
+"Kaliro","Season2 Value","2022","Year 1","Control",50.61302791
+"Kaliro","Perennial Value","2022","Year 1","RTV",21.67
+"Kaliro","Perennial Value","2022","Year 1","Control",3.15306066
+"Kaliro","Annual Agric Value","2022","Year 1","RTV",283.77
+"Kaliro","Annual Agric Value","2022","Year 1","Control",159.11404073
+"Kaliro","Livestock Income","2022","Year 1","RTV",36.33
+"Kaliro","Livestock Income","2022","Year 1","Control",16.87663022
+"Kaliro","Livestock Income/ Production","2022","Year 1","RTV",43.4
+"Kaliro","Livestock Income/ Production","2022","Year 1","Control",19.7505411
+"Kaliro","Livestock Value","2022","Year 1","RTV",329.08
+"Kaliro","Livestock Value","2022","Year 1","Control",201.7650863
+"Kaliro","PPI","2022","Year 1","RTV",25.59
+"Kaliro","PPI","2022","Year 1","Control",30.50698152
+"Kanungu","Salaried Employment","2018","Year 2","RTV",30.71
+"Kanungu","Salaried Employment","2018","Year 2","Control",18.5201595037661
+"Kanungu","Self-Income / Business","2018","Year 2","RTV",49.33
+"Kanungu","Self-Income / Business","2018","Year 2","Control",23.1564761482794
+"Kanungu","Casual Labour Income","2018","Year 2","RTV",123.43
+"Kanungu","Casual Labour Income","2018","Year 2","Control",109.947939743022
+"Kanungu","Remit and Gifts Income","2018","Year 2","RTV",15.53
+"Kanungu","Remit and Gifts Income","2018","Year 2","Control",14.6411165263624
+"Kanungu","Rent Income","2018","Year 2","RTV",5.94
+"Kanungu","Rent Income","2018","Year 2","Control",8.05937084625609
+"Kanungu","Perennial Crop Income","2018","Year 2","RTV",76.31
+"Kanungu","Perennial Crop Income","2018","Year 2","Control",61.2816422980357
+"Kanungu","Seasonal Crop Income","2018","Year 2","RTV",83.67
+"Kanungu","Seasonal Crop Income","2018","Year 2","Control",58.0029537734456
+"Kanungu","Season1 Value","2018","Year 2","RTV",126.94
+"Kanungu","Season1 Value","2018","Year 2","Control",61.6609274848619
+"Kanungu","Season2 Value","2018","Year 2","RTV",116.91
+"Kanungu","Season2 Value","2018","Year 2","Control",80.6434057007828
+"Kanungu","Perennial Value","2018","Year 2","RTV",148.75
+"Kanungu","Perennial Value","2018","Year 2","Control",166.58733089647
+"Kanungu","Annual Agric Value","2018","Year 2","RTV",392.6
+"Kanungu","Annual Agric Value","2018","Year 2","Control",308.891664082115
+"Kanungu","Livestock Income","2018","Year 2","RTV",31.58
+"Kanungu","Livestock Income","2018","Year 2","Control",28.8015064244572
+"Kanungu","Livestock Income/ Production","2018","Year 2","RTV",37.65
+"Kanungu","Livestock Income/ Production","2018","Year 2","Control",31.0308669325063
+"Kanungu","Livestock Value","2018","Year 2","RTV",193.41
+"Kanungu","Livestock Value","2018","Year 2","Control",127.555752473785
+"Kanungu","PPI","2018","Year 2","RTV",24.17
+"Kanungu","PPI","2018","Year 2","Control",29.64
+"Kanungu","Salaried Employment","2019","Year 2","RTV",18.23
+"Kanungu","Salaried Employment","2019","Year 2","Control",9.62399316473001
+"Kanungu","Self-Income / Business","2019","Year 2","RTV",43.34
+"Kanungu","Self-Income / Business","2019","Year 2","Control",23.365003417635
+"Kanungu","Casual Labour Income","2019","Year 2","RTV",114.31
+"Kanungu","Casual Labour Income","2019","Year 2","Control",122.262200956938
+"Kanungu","Remit and Gifts Income","2019","Year 2","RTV",9.86
+"Kanungu","Remit and Gifts Income","2019","Year 2","Control",17.8755980861244
+"Kanungu","Rent Income","2019","Year 2","RTV",9.24
+"Kanungu","Rent Income","2019","Year 2","Control",2.12918660287081
+"Kanungu","Perennial Crop Income","2019","Year 2","RTV",108.73
+"Kanungu","Perennial Crop Income","2019","Year 2","Control",86.7786397812714
+"Kanungu","Seasonal Crop Income","2019","Year 2","RTV",224.97
+"Kanungu","Seasonal Crop Income","2019","Year 2","Control",76.2917532467532
+"Kanungu","Season1 Value","2019","Year 2","RTV",247.18
+"Kanungu","Season1 Value","2019","Year 2","Control",103.765345181135
+"Kanungu","Season2 Value","2019","Year 2","RTV",189.87
+"Kanungu","Season2 Value","2019","Year 2","Control",68.5982467532468
+"Kanungu","Perennial Value","2019","Year 2","RTV",170.75
+"Kanungu","Perennial Value","2019","Year 2","Control",182.726384142174
+"Kanungu","Annual Agric Value","2019","Year 2","RTV",607.8
+"Kanungu","Annual Agric Value","2019","Year 2","Control",355.089976076555
+"Kanungu","Livestock Income","2019","Year 2","RTV",29.55
+"Kanungu","Livestock Income","2019","Year 2","Control",32.2891326042379
+"Kanungu","Livestock Income/ Production","2019","Year 2","RTV",33.57
+"Kanungu","Livestock Income/ Production","2019","Year 2","Control",37.3335618591934
+"Kanungu","Livestock Value","2019","Year 2","RTV",265.07
+"Kanungu","Livestock Value","2019","Year 2","Control",190.199908407382
+"Kanungu","PPI","2019","Year 2","RTV",20.9
+"Kanungu","PPI","2019","Year 2","Control",29.96
+"Rukungiri","Salaried Employment","2019","Year 2","RTV",32.64
+"Rukungiri","Salaried Employment","2019","Year 2","Control",9.62399316473001
+"Rukungiri","Self-Income / Business","2019","Year 2","RTV",61.15
+"Rukungiri","Self-Income / Business","2019","Year 2","Control",23.365003417635
+"Rukungiri","Casual Labour Income","2019","Year 2","RTV",142.53
+"Rukungiri","Casual Labour Income","2019","Year 2","Control",122.262200956938
+"Rukungiri","Remit and Gifts Income","2019","Year 2","RTV",13.9
+"Rukungiri","Remit and Gifts Income","2019","Year 2","Control",17.8755980861244
+"Rukungiri","Rent Income","2019","Year 2","RTV",8.05
+"Rukungiri","Rent Income","2019","Year 2","Control",2.12918660287081
+"Rukungiri","Perennial Crop Income","2019","Year 2","RTV",165.7
+"Rukungiri","Perennial Crop Income","2019","Year 2","Control",86.7786397812714
+"Rukungiri","Seasonal Crop Income","2019","Year 2","RTV",191.15
+"Rukungiri","Seasonal Crop Income","2019","Year 2","Control",76.2917532467532
+"Rukungiri","Season1 Value","2019","Year 2","RTV",219.09
+"Rukungiri","Season1 Value","2019","Year 2","Control",103.765345181135
+"Rukungiri","Season2 Value","2019","Year 2","RTV",205.36
+"Rukungiri","Season2 Value","2019","Year 2","Control",68.5982467532468
+"Rukungiri","Perennial Value","2019","Year 2","RTV",300.5
+"Rukungiri","Perennial Value","2019","Year 2","Control",182.726384142174
+"Rukungiri","Annual Agric Value","2019","Year 2","RTV",724.95
+"Rukungiri","Annual Agric Value","2019","Year 2","Control",355.089976076555
+"Rukungiri","Livestock Income","2019","Year 2","RTV",24.17
+"Rukungiri","Livestock Income","2019","Year 2","Control",32.2891326042379
+"Rukungiri","Livestock Income/ Production","2019","Year 2","RTV",26.41
+"Rukungiri","Livestock Income/ Production","2019","Year 2","Control",37.3335618591934
+"Rukungiri","Livestock Value","2019","Year 2","RTV",451.18
+"Rukungiri","Livestock Value","2019","Year 2","Control",190.199908407382
+"Rukungiri","PPI","2019","Year 2","RTV",21.83
+"Rukungiri","PPI","2019","Year 2","Control",29.96
+"Kanungu","Salaried Employment","2020","Year 2","RTV",60.09
+"Kanungu","Salaried Employment","2020","Year 2","Control",36.27
+"Kanungu","Self-Income / Business","2020","Year 2","RTV",96.22
+"Kanungu","Self-Income / Business","2020","Year 2","Control",47.06
+"Kanungu","Casual Labour Income","2020","Year 2","RTV",90.41
+"Kanungu","Casual Labour Income","2020","Year 2","Control",114.78
+"Kanungu","Remit and Gifts Income","2020","Year 2","RTV",28.7
+"Kanungu","Remit and Gifts Income","2020","Year 2","Control",17.38
+"Kanungu","Rent Income","2020","Year 2","RTV",11.8
+"Kanungu","Rent Income","2020","Year 2","Control",3.93
+"Kanungu","Perennial Crop Income","2020","Year 2","RTV",145.84
+"Kanungu","Perennial Crop Income","2020","Year 2","Control",58.24
+"Kanungu","Seasonal Crop Income","2020","Year 2","RTV",190.68
+"Kanungu","Seasonal Crop Income","2020","Year 2","Control",79.21
+"Kanungu","Season1 Value","2020","Year 2","RTV",199.72
+"Kanungu","Season1 Value","2020","Year 2","Control",123.3
+"Kanungu","Season2 Value","2020","Year 2","RTV",184.69
+"Kanungu","Season2 Value","2020","Year 2","Control",68.03
+"Kanungu","Perennial Value","2020","Year 2","RTV",263.1
+"Kanungu","Perennial Value","2020","Year 2","Control",149.52
+"Kanungu","Annual Agric Value","2020","Year 2","RTV",647.51
+"Kanungu","Annual Agric Value","2020","Year 2","Control",340.85
+"Kanungu","Livestock Income","2020","Year 2","RTV",32.83
+"Kanungu","Livestock Income","2020","Year 2","Control",27.55
+"Kanungu","Livestock Income/ Production","2020","Year 2","RTV",36.91
+"Kanungu","Livestock Income/ Production","2020","Year 2","Control",30.89
+"Kanungu","Livestock Value","2020","Year 2","RTV",230.59
+"Kanungu","Livestock Value","2020","Year 2","Control",212.66
+"Kanungu","PPI","2020","Year 2","RTV",21.68
+"Kanungu","PPI","2020","Year 2","Control",29.73
+"Rukungiri","Salaried Employment","2020","Year 2","RTV",37.39
+"Rukungiri","Salaried Employment","2020","Year 2","Control",36.27
+"Rukungiri","Self-Income / Business","2020","Year 2","RTV",73.87
+"Rukungiri","Self-Income / Business","2020","Year 2","Control",47.06
+"Rukungiri","Casual Labour Income","2020","Year 2","RTV",116.87
+"Rukungiri","Casual Labour Income","2020","Year 2","Control",114.78
+"Rukungiri","Remit and Gifts Income","2020","Year 2","RTV",30.15
+"Rukungiri","Remit and Gifts Income","2020","Year 2","Control",17.38
+"Rukungiri","Rent Income","2020","Year 2","RTV",5.87
+"Rukungiri","Rent Income","2020","Year 2","Control",3.93
+"Rukungiri","Perennial Crop Income","2020","Year 2","RTV",108.49
+"Rukungiri","Perennial Crop Income","2020","Year 2","Control",58.24
+"Rukungiri","Seasonal Crop Income","2020","Year 2","RTV",159.07
+"Rukungiri","Seasonal Crop Income","2020","Year 2","Control",79.21
+"Rukungiri","Season1 Value","2020","Year 2","RTV",180.11
+"Rukungiri","Season1 Value","2020","Year 2","Control",123.3
+"Rukungiri","Season2 Value","2020","Year 2","RTV",171.14
+"Rukungiri","Season2 Value","2020","Year 2","Control",68.03
+"Rukungiri","Perennial Value","2020","Year 2","RTV",223.63
+"Rukungiri","Perennial Value","2020","Year 2","Control",149.52
+"Rukungiri","Annual Agric Value","2020","Year 2","RTV",574.88
+"Rukungiri","Annual Agric Value","2020","Year 2","Control",340.85
+"Rukungiri","Livestock Income","2020","Year 2","RTV",21.45
+"Rukungiri","Livestock Income","2020","Year 2","Control",27.55
+"Rukungiri","Livestock Income/ Production","2020","Year 2","RTV",25.39
+"Rukungiri","Livestock Income/ Production","2020","Year 2","Control",30.89
+"Rukungiri","Livestock Value","2020","Year 2","RTV",221.56
+"Rukungiri","Livestock Value","2020","Year 2","Control",212.66
+"Rukungiri","PPI","2020","Year 2","RTV",21.81
+"Rukungiri","PPI","2020","Year 2","Control",29.73
+"Mitooma","Salaried Employment","2020","Year 2","RTV",40.37
+"Mitooma","Salaried Employment","2020","Year 2","Control",46.58
+"Mitooma","Self-Income / Business","2020","Year 2","RTV",98.97
+"Mitooma","Self-Income / Business","2020","Year 2","Control",73.93
+"Mitooma","Casual Labour Income","2020","Year 2","RTV",90.12
+"Mitooma","Casual Labour Income","2020","Year 2","Control",104.25
+"Mitooma","Remit and Gifts Income","2020","Year 2","RTV",42.01
+"Mitooma","Remit and Gifts Income","2020","Year 2","Control",34.84
+"Mitooma","Rent Income","2020","Year 2","RTV",4.68
+"Mitooma","Rent Income","2020","Year 2","Control",3.18
+"Mitooma","Perennial Crop Income","2020","Year 2","RTV",197.67
+"Mitooma","Perennial Crop Income","2020","Year 2","Control",74.68
+"Mitooma","Seasonal Crop Income","2020","Year 2","RTV",58.61
+"Mitooma","Seasonal Crop Income","2020","Year 2","Control",28.11
+"Mitooma","Season1 Value","2020","Year 2","RTV",99.13
+"Mitooma","Season1 Value","2020","Year 2","Control",60.3
+"Mitooma","Season2 Value","2020","Year 2","RTV",87.88
+"Mitooma","Season2 Value","2020","Year 2","Control",46.26
+"Mitooma","Perennial Value","2020","Year 2","RTV",400.99
+"Mitooma","Perennial Value","2020","Year 2","Control",226.06
+"Mitooma","Annual Agric Value","2020","Year 2","RTV",588
+"Mitooma","Annual Agric Value","2020","Year 2","Control",332.61
+"Mitooma","Livestock Income","2020","Year 2","RTV",25.9
+"Mitooma","Livestock Income","2020","Year 2","Control",14.32
+"Mitooma","Livestock Income/ Production","2020","Year 2","RTV",27.95
+"Mitooma","Livestock Income/ Production","2020","Year 2","Control",15.68
+"Mitooma","Livestock Value","2020","Year 2","RTV",215.58
+"Mitooma","Livestock Value","2020","Year 2","Control",108.41
+"Mitooma","PPI","2020","Year 2","RTV",21.43
+"Mitooma","PPI","2020","Year 2","Control",26.14
+"Kagadi","Salaried Employment","2020","Year 2","RTV",17.92
+"Kagadi","Salaried Employment","2020","Year 2","Control",46.58
+"Kagadi","Self-Income / Business","2020","Year 2","RTV",104.55
+"Kagadi","Self-Income / Business","2020","Year 2","Control",73.93
+"Kagadi","Casual Labour Income","2020","Year 2","RTV",122.75
+"Kagadi","Casual Labour Income","2020","Year 2","Control",104.25
+"Kagadi","Remit and Gifts Income","2020","Year 2","RTV",14.93
+"Kagadi","Remit and Gifts Income","2020","Year 2","Control",34.84
+"Kagadi","Rent Income","2020","Year 2","RTV",3.37
+"Kagadi","Rent Income","2020","Year 2","Control",3.18
+"Kagadi","Perennial Crop Income","2020","Year 2","RTV",69.64
+"Kagadi","Perennial Crop Income","2020","Year 2","Control",74.68
+"Kagadi","Seasonal Crop Income","2020","Year 2","RTV",250.7
+"Kagadi","Seasonal Crop Income","2020","Year 2","Control",28.11
+"Kagadi","Season1 Value","2020","Year 2","RTV",244.46
+"Kagadi","Season1 Value","2020","Year 2","Control",60.3
+"Kagadi","Season2 Value","2020","Year 2","RTV",182.92
+"Kagadi","Season2 Value","2020","Year 2","Control",46.26
+"Kagadi","Perennial Value","2020","Year 2","RTV",120.27
+"Kagadi","Perennial Value","2020","Year 2","Control",226.06
+"Kagadi","Annual Agric Value","2020","Year 2","RTV",547.65
+"Kagadi","Annual Agric Value","2020","Year 2","Control",332.61
+"Kagadi","Livestock Income","2020","Year 2","RTV",37.69
+"Kagadi","Livestock Income","2020","Year 2","Control",14.32
+"Kagadi","Livestock Income/ Production","2020","Year 2","RTV",41.31
+"Kagadi","Livestock Income/ Production","2020","Year 2","Control",15.68
+"Kagadi","Livestock Value","2020","Year 2","RTV",132.08
+"Kagadi","Livestock Value","2020","Year 2","Control",108.41
+"Kagadi","PPI","2020","Year 2","RTV",22.12
+"Kagadi","PPI","2020","Year 2","Control",26.14
+"Kanungu","Salaried Employment","2021","Year 2","RTV",56.86
+"Kanungu","Salaried Employment","2021","Year 2","Control",23.905796
+"Kanungu","Self-Income / Business","2021","Year 2","RTV",82.43
+"Kanungu","Self-Income / Business","2021","Year 2","Control",82.427847
+"Kanungu","Casual Labour Income","2021","Year 2","RTV",69.67
+"Kanungu","Casual Labour Income","2021","Year 2","Control",69.67278
+"Kanungu","Remit and Gifts Income","2021","Year 2","RTV",37.39
+"Kanungu","Remit and Gifts Income","2021","Year 2","Control",37.394595
+"Kanungu","Rent Income","2021","Year 2","RTV",8.58
+"Kanungu","Rent Income","2021","Year 2","Control",8.579853
+"Kanungu","Perennial Crop Income","2021","Year 2","RTV",202.31
+"Kanungu","Perennial Crop Income","2021","Year 2","Control",89.61655
+"Kanungu","Seasonal Crop Income","2021","Year 2","RTV",149.66
+"Kanungu","Seasonal Crop Income","2021","Year 2","Control",81.824289
+"Kanungu","Season1 Value","2021","Year 2","RTV",222.68
+"Kanungu","Season1 Value","2021","Year 2","Control",173.106264
+"Kanungu","Season2 Value","2021","Year 2","RTV",174.45
+"Kanungu","Season2 Value","2021","Year 2","Control",95.105384
+"Kanungu","Perennial Value","2021","Year 2","RTV",406.03
+"Kanungu","Perennial Value","2021","Year 2","Control",170.935802
+"Kanungu","Annual Agric Value","2021","Year 2","RTV",803.16
+"Kanungu","Annual Agric Value","2021","Year 2","Control",439.14745
+"Kanungu","Livestock Income","2021","Year 2","RTV",29.3
+"Kanungu","Livestock Income","2021","Year 2","Control",28.03561
+"Kanungu","Livestock Income/ Production","2021","Year 2","RTV",34.02
+"Kanungu","Livestock Income/ Production","2021","Year 2","Control",30.466624
+"Kanungu","Livestock Value","2021","Year 2","RTV",264.13
+"Kanungu","Livestock Value","2021","Year 2","Control",241.17259
+"Kanungu","PPI","2021","Year 2","RTV",20.6
+"Kanungu","PPI","2021","Year 2","Control",27.645144
+"Rukungiri","Salaried Employment","2021","Year 2","RTV",42.85
+"Rukungiri","Salaried Employment","2021","Year 2","Control",23.905796
+"Rukungiri","Self-Income / Business","2021","Year 2","RTV",83.79
+"Rukungiri","Self-Income / Business","2021","Year 2","Control",82.427847
+"Rukungiri","Casual Labour Income","2021","Year 2","RTV",84.12
+"Rukungiri","Casual Labour Income","2021","Year 2","Control",69.67278
+"Rukungiri","Remit and Gifts Income","2021","Year 2","RTV",41.87
+"Rukungiri","Remit and Gifts Income","2021","Year 2","Control",37.394595
+"Rukungiri","Rent Income","2021","Year 2","RTV",7.77
+"Rukungiri","Rent Income","2021","Year 2","Control",8.579853
+"Rukungiri","Perennial Crop Income","2021","Year 2","RTV",188.4
+"Rukungiri","Perennial Crop Income","2021","Year 2","Control",89.61655
+"Rukungiri","Seasonal Crop Income","2021","Year 2","RTV",126.95
+"Rukungiri","Seasonal Crop Income","2021","Year 2","Control",81.824289
+"Rukungiri","Season1 Value","2021","Year 2","RTV",181.34
+"Rukungiri","Season1 Value","2021","Year 2","Control",173.106264
+"Rukungiri","Season2 Value","2021","Year 2","RTV",149.49
+"Rukungiri","Season2 Value","2021","Year 2","Control",95.105384
+"Rukungiri","Perennial Value","2021","Year 2","RTV",384.19
+"Rukungiri","Perennial Value","2021","Year 2","Control",170.935802
+"Rukungiri","Annual Agric Value","2021","Year 2","RTV",715.02
+"Rukungiri","Annual Agric Value","2021","Year 2","Control",439.14745
+"Rukungiri","Livestock Income","2021","Year 2","RTV",21.77
+"Rukungiri","Livestock Income","2021","Year 2","Control",28.03561
+"Rukungiri","Livestock Income/ Production","2021","Year 2","RTV",23.59
+"Rukungiri","Livestock Income/ Production","2021","Year 2","Control",30.466624
+"Rukungiri","Livestock Value","2021","Year 2","RTV",223.85
+"Rukungiri","Livestock Value","2021","Year 2","Control",241.17259
+"Rukungiri","PPI","2021","Year 2","RTV",19.25
+"Rukungiri","PPI","2021","Year 2","Control",27.645144
+"Mitooma","Salaried Employment","2021","Year 2","RTV",44.44
+"Mitooma","Salaried Employment","2021","Year 2","Control",50.32835
+"Mitooma","Self-Income / Business","2021","Year 2","RTV",113.17
+"Mitooma","Self-Income / Business","2021","Year 2","Control",63.864964
+"Mitooma","Casual Labour Income","2021","Year 2","RTV",81.72
+"Mitooma","Casual Labour Income","2021","Year 2","Control",101.994654
+"Mitooma","Remit and Gifts Income","2021","Year 2","RTV",35.13
+"Mitooma","Remit and Gifts Income","2021","Year 2","Control",29.736825
+"Mitooma","Rent Income","2021","Year 2","RTV",5.46
+"Mitooma","Rent Income","2021","Year 2","Control",4.348084
+"Mitooma","Perennial Crop Income","2021","Year 2","RTV",172.76
+"Mitooma","Perennial Crop Income","2021","Year 2","Control",78.579464
+"Mitooma","Seasonal Crop Income","2021","Year 2","RTV",82.98
+"Mitooma","Seasonal Crop Income","2021","Year 2","Control",30.053312
+"Mitooma","Season1 Value","2021","Year 2","RTV",169.32
+"Mitooma","Season1 Value","2021","Year 2","Control",90.824291
+"Mitooma","Season2 Value","2021","Year 2","RTV",114.5
+"Mitooma","Season2 Value","2021","Year 2","Control",57.668003
+"Mitooma","Perennial Value","2021","Year 2","RTV",364.67
+"Mitooma","Perennial Value","2021","Year 2","Control",208.959195
+"Mitooma","Annual Agric Value","2021","Year 2","RTV",648.49
+"Mitooma","Annual Agric Value","2021","Year 2","Control",357.45149
+"Mitooma","Livestock Income","2021","Year 2","RTV",19.82
+"Mitooma","Livestock Income","2021","Year 2","Control",10.592714
+"Mitooma","Livestock Income/ Production","2021","Year 2","RTV",22.23
+"Mitooma","Livestock Income/ Production","2021","Year 2","Control",11.841105
+"Mitooma","Livestock Value","2021","Year 2","RTV",219.75
+"Mitooma","Livestock Value","2021","Year 2","Control",93.930304
+"Mitooma","PPI","2021","Year 2","RTV",20.89
+"Mitooma","PPI","2021","Year 2","Control",25.099267
+"Rubanda","Salaried Employment","2021","Year 2","RTV",49.01
+"Rubanda","Salaried Employment","2021","Year 2","Control",33.968321
+"Rubanda","Self-Income / Business","2021","Year 2","RTV",61.49
+"Rubanda","Self-Income / Business","2021","Year 2","Control",20.732767
+"Rubanda","Casual Labour Income","2021","Year 2","RTV",52.68
+"Rubanda","Casual Labour Income","2021","Year 2","Control",89.665025
+"Rubanda","Remit and Gifts Income","2021","Year 2","RTV",33.9
+"Rubanda","Remit and Gifts Income","2021","Year 2","Control",22.178117
+"Rubanda","Rent Income","2021","Year 2","RTV",7.15
+"Rubanda","Rent Income","2021","Year 2","Control",8.838568
+"Rubanda","Perennial Crop Income","2021","Year 2","RTV",25.74
+"Rubanda","Perennial Crop Income","2021","Year 2","Control",8.731767
+"Rubanda","Seasonal Crop Income","2021","Year 2","RTV",254.82
+"Rubanda","Seasonal Crop Income","2021","Year 2","Control",72.337288
+"Rubanda","Season1 Value","2021","Year 2","RTV",295.72
+"Rubanda","Season1 Value","2021","Year 2","Control",153.175139
+"Rubanda","Season2 Value","2021","Year 2","RTV",264.45
+"Rubanda","Season2 Value","2021","Year 2","Control",127.755707
+"Rubanda","Perennial Value","2021","Year 2","RTV",70.18
+"Rubanda","Perennial Value","2021","Year 2","Control",30.763273
+"Rubanda","Annual Agric Value","2021","Year 2","RTV",630.35
+"Rubanda","Annual Agric Value","2021","Year 2","Control",311.694119
+"Rubanda","Livestock Income","2021","Year 2","RTV",51.72
+"Rubanda","Livestock Income","2021","Year 2","Control",4.981239
+"Rubanda","Livestock Income/ Production","2021","Year 2","RTV",57.03
+"Rubanda","Livestock Income/ Production","2021","Year 2","Control",6.16247
+"Rubanda","Livestock Value","2021","Year 2","RTV",306.18
+"Rubanda","Livestock Value","2021","Year 2","Control",92.678482
+"Rubanda","PPI","2021","Year 2","RTV",22.51
+"Rubanda","PPI","2021","Year 2","Control",25.190896
+"Kanungu","Salaried Employment","2022","Year 2","RTV",50.59
+"Kanungu","Salaried Employment","2022","Year 2","Control",25.27
+"Kanungu","Self-Income / Business","2022","Year 2","RTV",70.43
+"Kanungu","Self-Income / Business","2022","Year 2","Control",52.54
+"Kanungu","Casual Labour Income","2022","Year 2","RTV",47.85
+"Kanungu","Casual Labour Income","2022","Year 2","Control",108.19
+"Kanungu","Remit and Gifts Income","2022","Year 2","RTV",47.12
+"Kanungu","Remit and Gifts Income","2022","Year 2","Control",29.05
+"Kanungu","Rent Income","2022","Year 2","RTV",13.03
+"Kanungu","Rent Income","2022","Year 2","Control",3.63
+"Kanungu","Perennial Crop Income","2022","Year 2","RTV",209.87
+"Kanungu","Perennial Crop Income","2022","Year 2","Control",95.52
+"Kanungu","Seasonal Crop Income","2022","Year 2","RTV",147.48
+"Kanungu","Seasonal Crop Income","2022","Year 2","Control",93.47
+"Kanungu","Season1 Value","2022","Year 2","RTV",223.36
+"Kanungu","Season1 Value","2022","Year 2","Control",189.35
+"Kanungu","Season2 Value","2022","Year 2","RTV",198.03
+"Kanungu","Season2 Value","2022","Year 2","Control",105.45
+"Kanungu","Perennial Value","2022","Year 2","RTV",339.17
+"Kanungu","Perennial Value","2022","Year 2","Control",183.72
+"Kanungu","Annual Agric Value","2022","Year 2","RTV",760.55
+"Kanungu","Annual Agric Value","2022","Year 2","Control",478.51
+"Kanungu","Livestock Income","2022","Year 2","RTV",30.85
+"Kanungu","Livestock Income","2022","Year 2","Control",13.81
+"Kanungu","Livestock Income/ Production","2022","Year 2","RTV",38.64
+"Kanungu","Livestock Income/ Production","2022","Year 2","Control",15.74
+"Kanungu","Livestock Value","2022","Year 2","RTV",249.7
+"Kanungu","Livestock Value","2022","Year 2","Control",236.56
+"Kanungu","PPI","2022","Year 2","RTV",20.08
+"Kanungu","PPI","2022","Year 2","Control",26.68
+"Rukungiri","Salaried Employment","2022","Year 2","RTV",44.45
+"Rukungiri","Salaried Employment","2022","Year 2","Control",25.27
+"Rukungiri","Self-Income / Business","2022","Year 2","RTV",70.99
+"Rukungiri","Self-Income / Business","2022","Year 2","Control",52.54
+"Rukungiri","Casual Labour Income","2022","Year 2","RTV",62.21
+"Rukungiri","Casual Labour Income","2022","Year 2","Control",108.19
+"Rukungiri","Remit and Gifts Income","2022","Year 2","RTV",39.09
+"Rukungiri","Remit and Gifts Income","2022","Year 2","Control",29.05
+"Rukungiri","Rent Income","2022","Year 2","RTV",8.6
+"Rukungiri","Rent Income","2022","Year 2","Control",3.63
+"Rukungiri","Perennial Crop Income","2022","Year 2","RTV",216
+"Rukungiri","Perennial Crop Income","2022","Year 2","Control",95.52
+"Rukungiri","Seasonal Crop Income","2022","Year 2","RTV",186.55
+"Rukungiri","Seasonal Crop Income","2022","Year 2","Control",93.47
+"Rukungiri","Season1 Value","2022","Year 2","RTV",217.13
+"Rukungiri","Season1 Value","2022","Year 2","Control",189.35
+"Rukungiri","Season2 Value","2022","Year 2","RTV",183.38
+"Rukungiri","Season2 Value","2022","Year 2","Control",105.45
+"Rukungiri","Perennial Value","2022","Year 2","RTV",387.5
+"Rukungiri","Perennial Value","2022","Year 2","Control",183.72
+"Rukungiri","Annual Agric Value","2022","Year 2","RTV",788.01
+"Rukungiri","Annual Agric Value","2022","Year 2","Control",478.51
+"Rukungiri","Livestock Income","2022","Year 2","RTV",22.37
+"Rukungiri","Livestock Income","2022","Year 2","Control",13.81
+"Rukungiri","Livestock Income/ Production","2022","Year 2","RTV",29.77
+"Rukungiri","Livestock Income/ Production","2022","Year 2","Control",15.74
+"Rukungiri","Livestock Value","2022","Year 2","RTV",288.83
+"Rukungiri","Livestock Value","2022","Year 2","Control",236.56
+"Rukungiri","PPI","2022","Year 2","RTV",20.22
+"Rukungiri","PPI","2022","Year 2","Control",26.68
+"Mitooma","Salaried Employment","2022","Year 2","RTV",56.72
+"Mitooma","Salaried Employment","2022","Year 2","Control",41.49482009
+"Mitooma","Self-Income / Business","2022","Year 2","RTV",78.95
+"Mitooma","Self-Income / Business","2022","Year 2","Control",66.48550606
+"Mitooma","Casual Labour Income","2022","Year 2","RTV",54.93
+"Mitooma","Casual Labour Income","2022","Year 2","Control",103.28703552
+"Mitooma","Remit and Gifts Income","2022","Year 2","RTV",69.16
+"Mitooma","Remit and Gifts Income","2022","Year 2","Control",35.20441256
+"Mitooma","Rent Income","2022","Year 2","RTV",13.85
+"Mitooma","Rent Income","2022","Year 2","Control",4.66028302
+"Mitooma","Perennial Crop Income","2022","Year 2","RTV",221.88
+"Mitooma","Perennial Crop Income","2022","Year 2","Control",86.6151835
+"Mitooma","Seasonal Crop Income","2022","Year 2","RTV",88.67
+"Mitooma","Seasonal Crop Income","2022","Year 2","Control",40.89228406
+"Mitooma","Season1 Value","2022","Year 2","RTV",175.45
+"Mitooma","Season1 Value","2022","Year 2","Control",95.4352103
+"Mitooma","Season2 Value","2022","Year 2","RTV",130.58
+"Mitooma","Season2 Value","2022","Year 2","Control",76.72566914
+"Mitooma","Perennial Value","2022","Year 2","RTV",357.99
+"Mitooma","Perennial Value","2022","Year 2","Control",211.67878035
+"Mitooma","Annual Agric Value","2022","Year 2","RTV",664.02
+"Mitooma","Annual Agric Value","2022","Year 2","Control",383.83965979
+"Mitooma","Livestock Income","2022","Year 2","RTV",52.38
+"Mitooma","Livestock Income","2022","Year 2","Control",17.8577411
+"Mitooma","Livestock Income/ Production","2022","Year 2","RTV",60.89
+"Mitooma","Livestock Income/ Production","2022","Year 2","Control",22.04814014
+"Mitooma","Livestock Value","2022","Year 2","RTV",293.48
+"Mitooma","Livestock Value","2022","Year 2","Control",114.02660218
+"Mitooma","PPI","2022","Year 2","RTV",21.81
+"Mitooma","PPI","2022","Year 2","Control",24.1576969697
+"Rubanda","Salaried Employment","2022","Year 2","RTV",42.83
+"Rubanda","Salaried Employment","2022","Year 2","Control",34.49
+"Rubanda","Self-Income / Business","2022","Year 2","RTV",56.66
+"Rubanda","Self-Income / Business","2022","Year 2","Control",31.3
+"Rubanda","Casual Labour Income","2022","Year 2","RTV",57.57
+"Rubanda","Casual Labour Income","2022","Year 2","Control",99.05
+"Rubanda","Remit and Gifts Income","2022","Year 2","RTV",37.82
+"Rubanda","Remit and Gifts Income","2022","Year 2","Control",18.18
+"Rubanda","Rent Income","2022","Year 2","RTV",8.06
+"Rubanda","Rent Income","2022","Year 2","Control",2.72
+"Rubanda","Perennial Crop Income","2022","Year 2","RTV",83.05
+"Rubanda","Perennial Crop Income","2022","Year 2","Control",11.73
+"Rubanda","Seasonal Crop Income","2022","Year 2","RTV",243.12
+"Rubanda","Seasonal Crop Income","2022","Year 2","Control",109.15
+"Rubanda","Season1 Value","2022","Year 2","RTV",300.97
+"Rubanda","Season1 Value","2022","Year 2","Control",160.71
+"Rubanda","Season2 Value","2022","Year 2","RTV",279.43
+"Rubanda","Season2 Value","2022","Year 2","Control",148.39
+"Rubanda","Perennial Value","2022","Year 2","RTV",212.78
+"Rubanda","Perennial Value","2022","Year 2","Control",35.16
+"Rubanda","Annual Agric Value","2022","Year 2","RTV",793.19
+"Rubanda","Annual Agric Value","2022","Year 2","Control",344.26
+"Rubanda","Livestock Income","2022","Year 2","RTV",27.86
+"Rubanda","Livestock Income","2022","Year 2","Control",9.11
+"Rubanda","Livestock Income/ Production","2022","Year 2","RTV",34.57
+"Rubanda","Livestock Income/ Production","2022","Year 2","Control",9.86
+"Rubanda","Livestock Value","2022","Year 2","RTV",332.09
+"Rubanda","Livestock Value","2022","Year 2","Control",111.37
+"Rubanda","PPI","2022","Year 2","RTV",20.29
+"Rubanda","PPI","2022","Year 2","Control",24.4
+"Rubirizi","Salaried Employment","2022","Year 2","RTV",42.39
+"Rubirizi","Salaried Employment","2022","Year 2","Control",41.49482009
+"Rubirizi","Self-Income / Business","2022","Year 2","RTV",51.12
+"Rubirizi","Self-Income / Business","2022","Year 2","Control",66.48550606
+"Rubirizi","Casual Labour Income","2022","Year 2","RTV",46.66
+"Rubirizi","Casual Labour Income","2022","Year 2","Control",103.28703552
+"Rubirizi","Remit and Gifts Income","2022","Year 2","RTV",42.81
+"Rubirizi","Remit and Gifts Income","2022","Year 2","Control",35.20441256
+"Rubirizi","Rent Income","2022","Year 2","RTV",7.87
+"Rubirizi","Rent Income","2022","Year 2","Control",4.66028302
+"Rubirizi","Perennial Crop Income","2022","Year 2","RTV",174.94
+"Rubirizi","Perennial Crop Income","2022","Year 2","Control",86.6151835
+"Rubirizi","Seasonal Crop Income","2022","Year 2","RTV",214.57
+"Rubirizi","Seasonal Crop Income","2022","Year 2","Control",40.89228406
+"Rubirizi","Season1 Value","2022","Year 2","RTV",222.62
+"Rubirizi","Season1 Value","2022","Year 2","Control",95.4352103
+"Rubirizi","Season2 Value","2022","Year 2","RTV",200.09
+"Rubirizi","Season2 Value","2022","Year 2","Control",76.72566914
+"Rubirizi","Perennial Value","2022","Year 2","RTV",399.44
+"Rubirizi","Perennial Value","2022","Year 2","Control",211.67878035
+"Rubirizi","Annual Agric Value","2022","Year 2","RTV",822.14
+"Rubirizi","Annual Agric Value","2022","Year 2","Control",383.83965979
+"Rubirizi","Livestock Income","2022","Year 2","RTV",29.82
+"Rubirizi","Livestock Income","2022","Year 2","Control",17.8577411
+"Rubirizi","Livestock Income/ Production","2022","Year 2","RTV",33.24
+"Rubirizi","Livestock Income/ Production","2022","Year 2","Control",22.04814014
+"Rubirizi","Livestock Value","2022","Year 2","RTV",139.18
+"Rubirizi","Livestock Value","2022","Year 2","Control",114.02660218
+"Rubirizi","PPI","2022","Year 2","RTV",21.09
+"Rubirizi","PPI","2022","Year 2","Control",24.1576969697
+"Kyenjojo","Salaried Employment","2022","Year 2","RTV",23.02
+"Kyenjojo","Salaried Employment","2022","Year 2","Control",9.0120996
+"Kyenjojo","Self-Income / Business","2022","Year 2","RTV",54.52
+"Kyenjojo","Self-Income / Business","2022","Year 2","Control",20.6828612
+"Kyenjojo","Casual Labour Income","2022","Year 2","RTV",46.12
+"Kyenjojo","Casual Labour Income","2022","Year 2","Control",64.8092346
+"Kyenjojo","Remit and Gifts Income","2022","Year 2","RTV",18.71
+"Kyenjojo","Remit and Gifts Income","2022","Year 2","Control",9.0130267
+"Kyenjojo","Rent Income","2022","Year 2","RTV",17.18
+"Kyenjojo","Rent Income","2022","Year 2","Control",11.1492281
+"Kyenjojo","Perennial Crop Income","2022","Year 2","RTV",104.48
+"Kyenjojo","Perennial Crop Income","2022","Year 2","Control",26.0752863
+"Kyenjojo","Seasonal Crop Income","2022","Year 2","RTV",272.54
+"Kyenjojo","Seasonal Crop Income","2022","Year 2","Control",102.832692
+"Kyenjojo","Season1 Value","2022","Year 2","RTV",286.23
+"Kyenjojo","Season1 Value","2022","Year 2","Control",99.8677113
+"Kyenjojo","Season2 Value","2022","Year 2","RTV",250.08
+"Kyenjojo","Season2 Value","2022","Year 2","Control",88.6445923
+"Kyenjojo","Perennial Value","2022","Year 2","RTV",169.75
+"Kyenjojo","Perennial Value","2022","Year 2","Control",76.2609529
+"Kyenjojo","Annual Agric Value","2022","Year 2","RTV",706.06
+"Kyenjojo","Annual Agric Value","2022","Year 2","Control",264.7732565
+"Kyenjojo","Livestock Income","2022","Year 2","RTV",58.45
+"Kyenjojo","Livestock Income","2022","Year 2","Control",24.9852116
+"Kyenjojo","Livestock Income/ Production","2022","Year 2","RTV",74.11
+"Kyenjojo","Livestock Income/ Production","2022","Year 2","Control",34.3517686
+"Kyenjojo","Livestock Value","2022","Year 2","RTV",291.26
+"Kyenjojo","Livestock Value","2022","Year 2","Control",96.9978211
+"Kyenjojo","PPI","2022","Year 2","RTV",21.62
+"Kyenjojo","PPI","2022","Year 2","Control",26.5986278
+"Kagadi GAC","Salaried Employment","2022","Year 2","RTV",18.63
+"Kagadi GAC","Salaried Employment","2022","Year 2","Control",9.0120996
+"Kagadi GAC","Self-Income / Business","2022","Year 2","RTV",45.42
+"Kagadi GAC","Self-Income / Business","2022","Year 2","Control",20.6828612
+"Kagadi GAC","Casual Labour Income","2022","Year 2","RTV",30.24
+"Kagadi GAC","Casual Labour Income","2022","Year 2","Control",64.8092346
+"Kagadi GAC","Remit and Gifts Income","2022","Year 2","RTV",17.5
+"Kagadi GAC","Remit and Gifts Income","2022","Year 2","Control",9.0130267
+"Kagadi GAC","Rent Income","2022","Year 2","RTV",17.27
+"Kagadi GAC","Rent Income","2022","Year 2","Control",11.1492281
+"Kagadi GAC","Perennial Crop Income","2022","Year 2","RTV",120.7
+"Kagadi GAC","Perennial Crop Income","2022","Year 2","Control",26.0752863
+"Kagadi GAC","Seasonal Crop Income","2022","Year 2","RTV",330.76
+"Kagadi GAC","Seasonal Crop Income","2022","Year 2","Control",102.832692
+"Kagadi GAC","Season1 Value","2022","Year 2","RTV",334.91
+"Kagadi GAC","Season1 Value","2022","Year 2","Control",99.8677113
+"Kagadi GAC","Season2 Value","2022","Year 2","RTV",269.39
+"Kagadi GAC","Season2 Value","2022","Year 2","Control",88.6445923
+"Kagadi GAC","Perennial Value","2022","Year 2","RTV",182.11
+"Kagadi GAC","Perennial Value","2022","Year 2","Control",76.2609529
+"Kagadi GAC","Annual Agric Value","2022","Year 2","RTV",786.4
+"Kagadi GAC","Annual Agric Value","2022","Year 2","Control",264.7732565
+"Kagadi GAC","Livestock Income","2022","Year 2","RTV",39.61
+"Kagadi GAC","Livestock Income","2022","Year 2","Control",24.9852116
+"Kagadi GAC","Livestock Income/ Production","2022","Year 2","RTV",60.12
+"Kagadi GAC","Livestock Income/ Production","2022","Year 2","Control",34.3517686
+"Kagadi GAC","Livestock Value","2022","Year 2","RTV",299.19
+"Kagadi GAC","Livestock Value","2022","Year 2","Control",96.9978211
+"Kagadi GAC","PPI","2022","Year 2","RTV",20.14
+"Kagadi GAC","PPI","2022","Year 2","Control",26.5986278
+"Kagadi NonGAC","Salaried Employment","2022","Year 2","RTV",22.55
+"Kagadi NonGAC","Salaried Employment","2022","Year 2","Control",9.0120996
+"Kagadi NonGAC","Self-Income / Business","2022","Year 2","RTV",35.78
+"Kagadi NonGAC","Self-Income / Business","2022","Year 2","Control",20.6828612
+"Kagadi NonGAC","Casual Labour Income","2022","Year 2","RTV",40.16
+"Kagadi NonGAC","Casual Labour Income","2022","Year 2","Control",64.8092346
+"Kagadi NonGAC","Remit and Gifts Income","2022","Year 2","RTV",20.06
+"Kagadi NonGAC","Remit and Gifts Income","2022","Year 2","Control",9.0130267
+"Kagadi NonGAC","Rent Income","2022","Year 2","RTV",13.32
+"Kagadi NonGAC","Rent Income","2022","Year 2","Control",11.1492281
+"Kagadi NonGAC","Perennial Crop Income","2022","Year 2","RTV",126.55
+"Kagadi NonGAC","Perennial Crop Income","2022","Year 2","Control",26.0752863
+"Kagadi NonGAC","Seasonal Crop Income","2022","Year 2","RTV",341.69
+"Kagadi NonGAC","Seasonal Crop Income","2022","Year 2","Control",102.832692
+"Kagadi NonGAC","Season1 Value","2022","Year 2","RTV",296.2
+"Kagadi NonGAC","Season1 Value","2022","Year 2","Control",99.8677113
+"Kagadi NonGAC","Season2 Value","2022","Year 2","RTV",262.66
+"Kagadi NonGAC","Season2 Value","2022","Year 2","Control",88.6445923
+"Kagadi NonGAC","Perennial Value","2022","Year 2","RTV",209.15
+"Kagadi NonGAC","Perennial Value","2022","Year 2","Control",76.2609529
+"Kagadi NonGAC","Annual Agric Value","2022","Year 2","RTV",768
+"Kagadi NonGAC","Annual Agric Value","2022","Year 2","Control",264.7732565
+"Kagadi NonGAC","Livestock Income","2022","Year 2","RTV",31.05
+"Kagadi NonGAC","Livestock Income","2022","Year 2","Control",24.9852116
+"Kagadi NonGAC","Livestock Income/ Production","2022","Year 2","RTV",33.98
+"Kagadi NonGAC","Livestock Income/ Production","2022","Year 2","Control",34.3517686
+"Kagadi NonGAC","Livestock Value","2022","Year 2","RTV",202.71
+"Kagadi NonGAC","Livestock Value","2022","Year 2","Control",96.9978211
+"Kagadi NonGAC","PPI","2022","Year 2","RTV",22.38
+"Kagadi NonGAC","PPI","2022","Year 2","Control",26.5986278
+"Kaliro","Salaried Employment","2022","Year 2","RTV",24.26
+"Kaliro","Salaried Employment","2022","Year 2","Control",15.88652996
+"Kaliro","Self-Income / Business","2022","Year 2","RTV",65.17
+"Kaliro","Self-Income / Business","2022","Year 2","Control",44.11122382
+"Kaliro","Casual Labour Income","2022","Year 2","RTV",64.91
+"Kaliro","Casual Labour Income","2022","Year 2","Control",50.63183827
+"Kaliro","Remit and Gifts Income","2022","Year 2","RTV",37.38
+"Kaliro","Remit and Gifts Income","2022","Year 2","Control",21.79002174
+"Kaliro","Rent Income","2022","Year 2","RTV",7.82
+"Kaliro","Rent Income","2022","Year 2","Control",7.1752047
+"Kaliro","Perennial Crop Income","2022","Year 2","RTV",50.14
+"Kaliro","Perennial Crop Income","2022","Year 2","Control",5.19560177
+"Kaliro","Seasonal Crop Income","2022","Year 2","RTV",182.66
+"Kaliro","Seasonal Crop Income","2022","Year 2","Control",77.57479983
+"Kaliro","Season1 Value","2022","Year 2","RTV",238.04
+"Kaliro","Season1 Value","2022","Year 2","Control",109.75859086
+"Kaliro","Season2 Value","2022","Year 2","RTV",180.18
+"Kaliro","Season2 Value","2022","Year 2","Control",73.2808311
+"Kaliro","Perennial Value","2022","Year 2","RTV",88.26
+"Kaliro","Perennial Value","2022","Year 2","Control",26.91274183
+"Kaliro","Annual Agric Value","2022","Year 2","RTV",506.48
+"Kaliro","Annual Agric Value","2022","Year 2","Control",183.03942196
+"Kaliro","Livestock Income","2022","Year 2","RTV",74.34
+"Kaliro","Livestock Income","2022","Year 2","Control",31.9164191
+"Kaliro","Livestock Income/ Production","2022","Year 2","RTV",85.01
+"Kaliro","Livestock Income/ Production","2022","Year 2","Control",36.83160641
+"Kaliro","Livestock Value","2022","Year 2","RTV",406.1
+"Kaliro","Livestock Value","2022","Year 2","Control",223.79863778
+"Kaliro","PPI","2022","Year 2","RTV",22.07
+"Kaliro","PPI","2022","Year 2","Control",28.52975871
+"Kanungu","Salaried Employment","2018","Year 3","RTV",36.24
+"Kanungu","Salaried Employment","2018","Year 3","Control",9.62399316473001
+"Kanungu","Self-Income / Business","2018","Year 3","RTV",59.81
+"Kanungu","Self-Income / Business","2018","Year 3","Control",23.365003417635
+"Kanungu","Casual Labour Income","2018","Year 3","RTV",141.09
+"Kanungu","Casual Labour Income","2018","Year 3","Control",122.262200956938
+"Kanungu","Remit and Gifts Income","2018","Year 3","RTV",6.14
+"Kanungu","Remit and Gifts Income","2018","Year 3","Control",17.8755980861244
+"Kanungu","Rent Income","2018","Year 3","RTV",8.94
+"Kanungu","Rent Income","2018","Year 3","Control",2.12918660287081
+"Kanungu","Perennial Crop Income","2018","Year 3","RTV",113.95
+"Kanungu","Perennial Crop Income","2018","Year 3","Control",86.7786397812714
+"Kanungu","Seasonal Crop Income","2018","Year 3","RTV",164.9
+"Kanungu","Seasonal Crop Income","2018","Year 3","Control",76.2917532467532
+"Kanungu","Season1 Value","2018","Year 3","RTV",182.59
+"Kanungu","Season1 Value","2018","Year 3","Control",103.765345181135
+"Kanungu","Season2 Value","2018","Year 3","RTV",146.69
+"Kanungu","Season2 Value","2018","Year 3","Control",68.5982467532468
+"Kanungu","Perennial Value","2018","Year 3","RTV",196.03
+"Kanungu","Perennial Value","2018","Year 3","Control",182.726384142174
+"Kanungu","Annual Agric Value","2018","Year 3","RTV",525.32
+"Kanungu","Annual Agric Value","2018","Year 3","Control",355.089976076555
+"Kanungu","Livestock Income","2018","Year 3","RTV",42.44
+"Kanungu","Livestock Income","2018","Year 3","Control",32.2891326042379
+"Kanungu","Livestock Income/ Production","2018","Year 3","RTV",48.2
+"Kanungu","Livestock Income/ Production","2018","Year 3","Control",37.3335618591934
+"Kanungu","Livestock Value","2018","Year 3","RTV",279.95
+"Kanungu","Livestock Value","2018","Year 3","Control",190.199908407382
+"Kanungu","PPI","2018","Year 3","RTV",25.47
+"Kanungu","PPI","2018","Year 3","Control",29.96
+"Kanungu","Salaried Employment","2019","Year 3","RTV",25.56
+"Kanungu","Salaried Employment","2019","Year 3","Control",36.27
+"Kanungu","Self-Income / Business","2019","Year 3","RTV",94.28
+"Kanungu","Self-Income / Business","2019","Year 3","Control",47.06
+"Kanungu","Casual Labour Income","2019","Year 3","RTV",89.35
+"Kanungu","Casual Labour Income","2019","Year 3","Control",114.78
+"Kanungu","Remit and Gifts Income","2019","Year 3","RTV",26.41
+"Kanungu","Remit and Gifts Income","2019","Year 3","Control",17.38
+"Kanungu","Rent Income","2019","Year 3","RTV",10.73
+"Kanungu","Rent Income","2019","Year 3","Control",3.93
+"Kanungu","Perennial Crop Income","2019","Year 3","RTV",158.7
+"Kanungu","Perennial Crop Income","2019","Year 3","Control",58.24
+"Kanungu","Seasonal Crop Income","2019","Year 3","RTV",196.19
+"Kanungu","Seasonal Crop Income","2019","Year 3","Control",79.21
+"Kanungu","Season1 Value","2019","Year 3","RTV",231.3
+"Kanungu","Season1 Value","2019","Year 3","Control",123.3
+"Kanungu","Season2 Value","2019","Year 3","RTV",147.86
+"Kanungu","Season2 Value","2019","Year 3","Control",68.03
+"Kanungu","Perennial Value","2019","Year 3","RTV",240.72
+"Kanungu","Perennial Value","2019","Year 3","Control",149.52
+"Kanungu","Annual Agric Value","2019","Year 3","RTV",619.88
+"Kanungu","Annual Agric Value","2019","Year 3","Control",340.85
+"Kanungu","Livestock Income","2019","Year 3","RTV",31.45
+"Kanungu","Livestock Income","2019","Year 3","Control",27.55
+"Kanungu","Livestock Income/ Production","2019","Year 3","RTV",36.89
+"Kanungu","Livestock Income/ Production","2019","Year 3","Control",30.89
+"Kanungu","Livestock Value","2019","Year 3","RTV",271.84
+"Kanungu","Livestock Value","2019","Year 3","Control",212.66
+"Kanungu","PPI","2019","Year 3","RTV",19.09
+"Kanungu","PPI","2019","Year 3","Control",29.73
+"Rukungiri","Salaried Employment","2019","Year 3","RTV",55.44
+"Rukungiri","Salaried Employment","2019","Year 3","Control",36.27
+"Rukungiri","Self-Income / Business","2019","Year 3","RTV",76.56
+"Rukungiri","Self-Income / Business","2019","Year 3","Control",47.06
+"Rukungiri","Casual Labour Income","2019","Year 3","RTV",88.14
+"Rukungiri","Casual Labour Income","2019","Year 3","Control",114.78
+"Rukungiri","Remit and Gifts Income","2019","Year 3","RTV",29.24
+"Rukungiri","Remit and Gifts Income","2019","Year 3","Control",17.38
+"Rukungiri","Rent Income","2019","Year 3","RTV",8.72
+"Rukungiri","Rent Income","2019","Year 3","Control",3.93
+"Rukungiri","Perennial Crop Income","2019","Year 3","RTV",177.93
+"Rukungiri","Perennial Crop Income","2019","Year 3","Control",58.24
+"Rukungiri","Seasonal Crop Income","2019","Year 3","RTV",225.48
+"Rukungiri","Seasonal Crop Income","2019","Year 3","Control",79.21
+"Rukungiri","Season1 Value","2019","Year 3","RTV",232.55
+"Rukungiri","Season1 Value","2019","Year 3","Control",123.3
+"Rukungiri","Season2 Value","2019","Year 3","RTV",208.63
+"Rukungiri","Season2 Value","2019","Year 3","Control",68.03
+"Rukungiri","Perennial Value","2019","Year 3","RTV",332.53
+"Rukungiri","Perennial Value","2019","Year 3","Control",149.52
+"Rukungiri","Annual Agric Value","2019","Year 3","RTV",773.7
+"Rukungiri","Annual Agric Value","2019","Year 3","Control",340.85
+"Rukungiri","Livestock Income","2019","Year 3","RTV",28.99
+"Rukungiri","Livestock Income","2019","Year 3","Control",27.55
+"Rukungiri","Livestock Income/ Production","2019","Year 3","RTV",34.3
+"Rukungiri","Livestock Income/ Production","2019","Year 3","Control",30.89
+"Rukungiri","Livestock Value","2019","Year 3","RTV",491.49
+"Rukungiri","Livestock Value","2019","Year 3","Control",212.66
+"Rukungiri","PPI","2019","Year 3","RTV",19.51
+"Rukungiri","PPI","2019","Year 3","Control",29.73
+"Kanungu","Salaried Employment","2020","Year 3","RTV",82.48
+"Kanungu","Salaried Employment","2020","Year 3","Control",23.905796
+"Kanungu","Self-Income / Business","2020","Year 3","RTV",108.69
+"Kanungu","Self-Income / Business","2020","Year 3","Control",82.427847
+"Kanungu","Casual Labour Income","2020","Year 3","RTV",66.74
+"Kanungu","Casual Labour Income","2020","Year 3","Control",69.67278
+"Kanungu","Remit and Gifts Income","2020","Year 3","RTV",34.12
+"Kanungu","Remit and Gifts Income","2020","Year 3","Control",37.394595
+"Kanungu","Rent Income","2020","Year 3","RTV",14.08
+"Kanungu","Rent Income","2020","Year 3","Control",8.579853
+"Kanungu","Perennial Crop Income","2020","Year 3","RTV",210.85
+"Kanungu","Perennial Crop Income","2020","Year 3","Control",89.61655
+"Kanungu","Seasonal Crop Income","2020","Year 3","RTV",216.15
+"Kanungu","Seasonal Crop Income","2020","Year 3","Control",81.824289
+"Kanungu","Season1 Value","2020","Year 3","RTV",292.87
+"Kanungu","Season1 Value","2020","Year 3","Control",173.106264
+"Kanungu","Season2 Value","2020","Year 3","RTV",244.16
+"Kanungu","Season2 Value","2020","Year 3","Control",95.105384
+"Kanungu","Perennial Value","2020","Year 3","RTV",295.08
+"Kanungu","Perennial Value","2020","Year 3","Control",170.935802
+"Kanungu","Annual Agric Value","2020","Year 3","RTV",832.11
+"Kanungu","Annual Agric Value","2020","Year 3","Control",439.14745
+"Kanungu","Livestock Income","2020","Year 3","RTV",31.16
+"Kanungu","Livestock Income","2020","Year 3","Control",28.03561
+"Kanungu","Livestock Income/ Production","2020","Year 3","RTV",34.75
+"Kanungu","Livestock Income/ Production","2020","Year 3","Control",30.466624
+"Kanungu","Livestock Value","2020","Year 3","RTV",262.73
+"Kanungu","Livestock Value","2020","Year 3","Control",241.17259
+"Kanungu","PPI","2020","Year 3","RTV",20.59
+"Kanungu","PPI","2020","Year 3","Control",27.645144
+"Rukungiri","Salaried Employment","2020","Year 3","RTV",56.39
+"Rukungiri","Salaried Employment","2020","Year 3","Control",23.905796
+"Rukungiri","Self-Income / Business","2020","Year 3","RTV",70.15
+"Rukungiri","Self-Income / Business","2020","Year 3","Control",82.427847
+"Rukungiri","Casual Labour Income","2020","Year 3","RTV",109.76
+"Rukungiri","Casual Labour Income","2020","Year 3","Control",69.67278
+"Rukungiri","Remit and Gifts Income","2020","Year 3","RTV",45.83
+"Rukungiri","Remit and Gifts Income","2020","Year 3","Control",37.394595
+"Rukungiri","Rent Income","2020","Year 3","RTV",10.42
+"Rukungiri","Rent Income","2020","Year 3","Control",8.579853
+"Rukungiri","Perennial Crop Income","2020","Year 3","RTV",214.84
+"Rukungiri","Perennial Crop Income","2020","Year 3","Control",89.61655
+"Rukungiri","Seasonal Crop Income","2020","Year 3","RTV",206.94
+"Rukungiri","Seasonal Crop Income","2020","Year 3","Control",81.824289
+"Rukungiri","Season1 Value","2020","Year 3","RTV",236.05
+"Rukungiri","Season1 Value","2020","Year 3","Control",173.106264
+"Rukungiri","Season2 Value","2020","Year 3","RTV",265.1
+"Rukungiri","Season2 Value","2020","Year 3","Control",95.105384
+"Rukungiri","Perennial Value","2020","Year 3","RTV",385.93
+"Rukungiri","Perennial Value","2020","Year 3","Control",170.935802
+"Rukungiri","Annual Agric Value","2020","Year 3","RTV",887.09
+"Rukungiri","Annual Agric Value","2020","Year 3","Control",439.14745
+"Rukungiri","Livestock Income","2020","Year 3","RTV",25.52
+"Rukungiri","Livestock Income","2020","Year 3","Control",28.03561
+"Rukungiri","Livestock Income/ Production","2020","Year 3","RTV",27.34
+"Rukungiri","Livestock Income/ Production","2020","Year 3","Control",30.466624
+"Rukungiri","Livestock Value","2020","Year 3","RTV",228.12
+"Rukungiri","Livestock Value","2020","Year 3","Control",241.17259
+"Rukungiri","PPI","2020","Year 3","RTV",20.26
+"Rukungiri","PPI","2020","Year 3","Control",27.645144
+"Mitooma","Salaried Employment","2020","Year 3","RTV",49.31
+"Mitooma","Salaried Employment","2020","Year 3","Control",50.32835
+"Mitooma","Self-Income / Business","2020","Year 3","RTV",122.34
+"Mitooma","Self-Income / Business","2020","Year 3","Control",63.864964
+"Mitooma","Casual Labour Income","2020","Year 3","RTV",80.05
+"Mitooma","Casual Labour Income","2020","Year 3","Control",101.994654
+"Mitooma","Remit and Gifts Income","2020","Year 3","RTV",47.28
+"Mitooma","Remit and Gifts Income","2020","Year 3","Control",29.736825
+"Mitooma","Rent Income","2020","Year 3","RTV",5.56
+"Mitooma","Rent Income","2020","Year 3","Control",4.348084
+"Mitooma","Perennial Crop Income","2020","Year 3","RTV",261.96
+"Mitooma","Perennial Crop Income","2020","Year 3","Control",78.579464
+"Mitooma","Seasonal Crop Income","2020","Year 3","RTV",73.41
+"Mitooma","Seasonal Crop Income","2020","Year 3","Control",30.053312
+"Mitooma","Season1 Value","2020","Year 3","RTV",169.69
+"Mitooma","Season1 Value","2020","Year 3","Control",90.824291
+"Mitooma","Season2 Value","2020","Year 3","RTV",169.71
+"Mitooma","Season2 Value","2020","Year 3","Control",57.668003
+"Mitooma","Perennial Value","2020","Year 3","RTV",445.95
+"Mitooma","Perennial Value","2020","Year 3","Control",208.959195
+"Mitooma","Annual Agric Value","2020","Year 3","RTV",785.35
+"Mitooma","Annual Agric Value","2020","Year 3","Control",357.45149
+"Mitooma","Livestock Income","2020","Year 3","RTV",27.74
+"Mitooma","Livestock Income","2020","Year 3","Control",10.592714
+"Mitooma","Livestock Income/ Production","2020","Year 3","RTV",30.26
+"Mitooma","Livestock Income/ Production","2020","Year 3","Control",11.841105
+"Mitooma","Livestock Value","2020","Year 3","RTV",233.13
+"Mitooma","Livestock Value","2020","Year 3","Control",93.930304
+"Mitooma","PPI","2020","Year 3","RTV",19.7
+"Mitooma","PPI","2020","Year 3","Control",25.099267
+"Kagadi","Salaried Employment","2020","Year 3","RTV",16.65
+"Kagadi","Salaried Employment","2020","Year 3","Control",50.32835
+"Kagadi","Self-Income / Business","2020","Year 3","RTV",123.14
+"Kagadi","Self-Income / Business","2020","Year 3","Control",63.864964
+"Kagadi","Casual Labour Income","2020","Year 3","RTV",92.28
+"Kagadi","Casual Labour Income","2020","Year 3","Control",101.994654
+"Kagadi","Remit and Gifts Income","2020","Year 3","RTV",10.04
+"Kagadi","Remit and Gifts Income","2020","Year 3","Control",29.736825
+"Kagadi","Rent Income","2020","Year 3","RTV",13.88
+"Kagadi","Rent Income","2020","Year 3","Control",4.348084
+"Kagadi","Perennial Crop Income","2020","Year 3","RTV",123.89
+"Kagadi","Perennial Crop Income","2020","Year 3","Control",78.579464
+"Kagadi","Seasonal Crop Income","2020","Year 3","RTV",321.17
+"Kagadi","Seasonal Crop Income","2020","Year 3","Control",30.053312
+"Kagadi","Season1 Value","2020","Year 3","RTV",358.79
+"Kagadi","Season1 Value","2020","Year 3","Control",90.824291
+"Kagadi","Season2 Value","2020","Year 3","RTV",262.31
+"Kagadi","Season2 Value","2020","Year 3","Control",57.668003
+"Kagadi","Perennial Value","2020","Year 3","RTV",212.45
+"Kagadi","Perennial Value","2020","Year 3","Control",208.959195
+"Kagadi","Annual Agric Value","2020","Year 3","RTV",833.55
+"Kagadi","Annual Agric Value","2020","Year 3","Control",357.45149
+"Kagadi","Livestock Income","2020","Year 3","RTV",41.09
+"Kagadi","Livestock Income","2020","Year 3","Control",10.592714
+"Kagadi","Livestock Income/ Production","2020","Year 3","RTV",48.89
+"Kagadi","Livestock Income/ Production","2020","Year 3","Control",11.841105
+"Kagadi","Livestock Value","2020","Year 3","RTV",174.92
+"Kagadi","Livestock Value","2020","Year 3","Control",93.930304
+"Kagadi","PPI","2020","Year 3","RTV",19.96
+"Kagadi","PPI","2020","Year 3","Control",25.099267
+"Kanungu","Salaried Employment","2021","Year 3","RTV",60.68858
+"Kanungu","Salaried Employment","2021","Year 3","Control",25.27
+"Kanungu","Self-Income / Business","2021","Year 3","RTV",91.24542
+"Kanungu","Self-Income / Business","2021","Year 3","Control",52.54
+"Kanungu","Casual Labour Income","2021","Year 3","RTV",58.31522
+"Kanungu","Casual Labour Income","2021","Year 3","Control",108.19
+"Kanungu","Remit and Gifts Income","2021","Year 3","RTV",39.66624
+"Kanungu","Remit and Gifts Income","2021","Year 3","Control",29.05
+"Kanungu","Rent Income","2021","Year 3","RTV",9.11992
+"Kanungu","Rent Income","2021","Year 3","Control",3.63
+"Kanungu","Perennial Crop Income","2021","Year 3","RTV",315.04706
+"Kanungu","Perennial Crop Income","2021","Year 3","Control",95.52
+"Kanungu","Seasonal Crop Income","2021","Year 3","RTV",289.81602
+"Kanungu","Seasonal Crop Income","2021","Year 3","Control",93.47
+"Kanungu","Season1 Value","2021","Year 3","RTV",282.97905
+"Kanungu","Season1 Value","2021","Year 3","Control",189.35
+"Kanungu","Season2 Value","2021","Year 3","RTV",249.3295
+"Kanungu","Season2 Value","2021","Year 3","Control",105.45
+"Kanungu","Perennial Value","2021","Year 3","RTV",427.60526
+"Kanungu","Perennial Value","2021","Year 3","Control",183.72
+"Kanungu","Annual Agric Value","2021","Year 3","RTV",959.91381
+"Kanungu","Annual Agric Value","2021","Year 3","Control",478.51
+"Kanungu","Livestock Income","2021","Year 3","RTV",21.75211
+"Kanungu","Livestock Income","2021","Year 3","Control",13.81
+"Kanungu","Livestock Income/ Production","2021","Year 3","RTV",37.29563
+"Kanungu","Livestock Income/ Production","2021","Year 3","Control",15.74
+"Kanungu","Livestock Value","2021","Year 3","RTV",251.69258
+"Kanungu","Livestock Value","2021","Year 3","Control",236.56
+"Kanungu","PPI","2021","Year 3","RTV",17.35779
+"Kanungu","PPI","2021","Year 3","Control",26.68
+"Rukungiri","Salaried Employment","2021","Year 3","RTV",48.06858746
+"Rukungiri","Salaried Employment","2021","Year 3","Control",25.27
+"Rukungiri","Self-Income / Business","2021","Year 3","RTV",88.11624596
+"Rukungiri","Self-Income / Business","2021","Year 3","Control",52.54
+"Rukungiri","Casual Labour Income","2021","Year 3","RTV",71.67601564
+"Rukungiri","Casual Labour Income","2021","Year 3","Control",108.19
+"Rukungiri","Remit and Gifts Income","2021","Year 3","RTV",44.32389937
+"Rukungiri","Remit and Gifts Income","2021","Year 3","Control",29.05
+"Rukungiri","Rent Income","2021","Year 3","RTV",9.45202278
+"Rukungiri","Rent Income","2021","Year 3","Control",3.63
+"Rukungiri","Perennial Crop Income","2021","Year 3","RTV",305.62204657
+"Rukungiri","Perennial Crop Income","2021","Year 3","Control",95.52
+"Rukungiri","Seasonal Crop Income","2021","Year 3","RTV",197.08377953
+"Rukungiri","Seasonal Crop Income","2021","Year 3","Control",93.47
+"Rukungiri","Season1 Value","2021","Year 3","RTV",226.75050994
+"Rukungiri","Season1 Value","2021","Year 3","Control",189.35
+"Rukungiri","Season2 Value","2021","Year 3","RTV",223.96912715
+"Rukungiri","Season2 Value","2021","Year 3","Control",105.45
+"Rukungiri","Perennial Value","2021","Year 3","RTV",410.58511814
+"Rukungiri","Perennial Value","2021","Year 3","Control",183.72
+"Rukungiri","Annual Agric Value","2021","Year 3","RTV",861.30475523
+"Rukungiri","Annual Agric Value","2021","Year 3","Control",478.51
+"Rukungiri","Livestock Income","2021","Year 3","RTV",31.3749575
+"Rukungiri","Livestock Income","2021","Year 3","Control",13.81
+"Rukungiri","Livestock Income/ Production","2021","Year 3","RTV",42.38305286
+"Rukungiri","Livestock Income/ Production","2021","Year 3","Control",15.74
+"Rukungiri","Livestock Value","2021","Year 3","RTV",214.1759094
+"Rukungiri","Livestock Value","2021","Year 3","Control",236.56
+"Rukungiri","PPI","2021","Year 3","RTV",16.30778302
+"Rukungiri","PPI","2021","Year 3","Control",26.68
+"Mitooma","Salaried Employment","2021","Year 3","RTV",46.69450792
+"Mitooma","Salaried Employment","2021","Year 3","Control",41.49482009
+"Mitooma","Self-Income / Business","2021","Year 3","RTV",123.7713865
+"Mitooma","Self-Income / Business","2021","Year 3","Control",66.48550606
+"Mitooma","Casual Labour Income","2021","Year 3","RTV",50.96682689
+"Mitooma","Casual Labour Income","2021","Year 3","Control",103.28703552
+"Mitooma","Remit and Gifts Income","2021","Year 3","RTV",39.09726053
+"Mitooma","Remit and Gifts Income","2021","Year 3","Control",35.20441256
+"Mitooma","Rent Income","2021","Year 3","RTV",8.82777822
+"Mitooma","Rent Income","2021","Year 3","Control",4.66028302
+"Mitooma","Perennial Crop Income","2021","Year 3","RTV",271.4363985
+"Mitooma","Perennial Crop Income","2021","Year 3","Control",86.6151835
+"Mitooma","Seasonal Crop Income","2021","Year 3","RTV",210.0145274
+"Mitooma","Seasonal Crop Income","2021","Year 3","Control",40.89228406
+"Mitooma","Season1 Value","2021","Year 3","RTV",233.081412
+"Mitooma","Season1 Value","2021","Year 3","Control",95.4352103
+"Mitooma","Season2 Value","2021","Year 3","RTV",191.4116237
+"Mitooma","Season2 Value","2021","Year 3","Control",76.72566914
+"Mitooma","Perennial Value","2021","Year 3","RTV",397.9806687
+"Mitooma","Perennial Value","2021","Year 3","Control",211.67878035
+"Mitooma","Annual Agric Value","2021","Year 3","RTV",822.4737045
+"Mitooma","Annual Agric Value","2021","Year 3","Control",383.83965979
+"Mitooma","Livestock Income","2021","Year 3","RTV",26.59207312
+"Mitooma","Livestock Income","2021","Year 3","Control",17.8577411
+"Mitooma","Livestock Income/ Production","2021","Year 3","RTV",37.31694377
+"Mitooma","Livestock Income/ Production","2021","Year 3","Control",22.04814014
+"Mitooma","Livestock Value","2021","Year 3","RTV",209.718173
+"Mitooma","Livestock Value","2021","Year 3","Control",114.02660218
+"Mitooma","PPI","2021","Year 3","RTV",17.9728863
+"Mitooma","PPI","2021","Year 3","Control",24.1576969697
+"Rubanda","Salaried Employment","2021","Year 3","RTV",56.148007
+"Rubanda","Salaried Employment","2021","Year 3","Control",34.49
+"Rubanda","Self-Income / Business","2021","Year 3","RTV",74.247681
+"Rubanda","Self-Income / Business","2021","Year 3","Control",31.3
+"Rubanda","Casual Labour Income","2021","Year 3","RTV",47.062965
+"Rubanda","Casual Labour Income","2021","Year 3","Control",99.05
+"Rubanda","Remit and Gifts Income","2021","Year 3","RTV",36.059261
+"Rubanda","Remit and Gifts Income","2021","Year 3","Control",18.18
+"Rubanda","Rent Income","2021","Year 3","RTV",8.544501
+"Rubanda","Rent Income","2021","Year 3","Control",2.72
+"Rubanda","Perennial Crop Income","2021","Year 3","RTV",67.687374
+"Rubanda","Perennial Crop Income","2021","Year 3","Control",11.73
+"Rubanda","Seasonal Crop Income","2021","Year 3","RTV",369.310701
+"Rubanda","Seasonal Crop Income","2021","Year 3","Control",109.15
+"Rubanda","Season1 Value","2021","Year 3","RTV",354.293758
+"Rubanda","Season1 Value","2021","Year 3","Control",160.71
+"Rubanda","Season2 Value","2021","Year 3","RTV",297.180571
+"Rubanda","Season2 Value","2021","Year 3","Control",148.39
+"Rubanda","Perennial Value","2021","Year 3","RTV",133.73336
+"Rubanda","Perennial Value","2021","Year 3","Control",35.16
+"Rubanda","Annual Agric Value","2021","Year 3","RTV",785.20769
+"Rubanda","Annual Agric Value","2021","Year 3","Control",344.26
+"Rubanda","Livestock Income","2021","Year 3","RTV",68.200997
+"Rubanda","Livestock Income","2021","Year 3","Control",9.11
+"Rubanda","Livestock Income/ Production","2021","Year 3","RTV",83.413987
+"Rubanda","Livestock Income/ Production","2021","Year 3","Control",9.86
+"Rubanda","Livestock Value","2021","Year 3","RTV",342.296747
+"Rubanda","Livestock Value","2021","Year 3","Control",111.37
+"Rubanda","PPI","2021","Year 3","RTV",18.594166
+"Rubanda","PPI","2021","Year 3","Control",24.4
+"Kanungu","Salaried Employment","2018","Year 4","RTV",70.04
+"Kanungu","Salaried Employment","2018","Year 4","Control",36.27
+"Kanungu","Self-Income / Business","2018","Year 4","RTV",80.97
+"Kanungu","Self-Income / Business","2018","Year 4","Control",47.06
+"Kanungu","Casual Labour Income","2018","Year 4","RTV",102.55
+"Kanungu","Casual Labour Income","2018","Year 4","Control",114.78
+"Kanungu","Remit and Gifts Income","2018","Year 4","RTV",22.78
+"Kanungu","Remit and Gifts Income","2018","Year 4","Control",17.38
+"Kanungu","Rent Income","2018","Year 4","RTV",10.03
+"Kanungu","Rent Income","2018","Year 4","Control",3.93
+"Kanungu","Perennial Crop Income","2018","Year 4","RTV",143.62
+"Kanungu","Perennial Crop Income","2018","Year 4","Control",58.24
+"Kanungu","Seasonal Crop Income","2018","Year 4","RTV",186.32
+"Kanungu","Seasonal Crop Income","2018","Year 4","Control",79.21
+"Kanungu","Season1 Value","2018","Year 4","RTV",195.46
+"Kanungu","Season1 Value","2018","Year 4","Control",123.3
+"Kanungu","Season2 Value","2018","Year 4","RTV",158.08
+"Kanungu","Season2 Value","2018","Year 4","Control",68.03
+"Kanungu","Perennial Value","2018","Year 4","RTV",224.41
+"Kanungu","Perennial Value","2018","Year 4","Control",149.52
+"Kanungu","Annual Agric Value","2018","Year 4","RTV",577.95
+"Kanungu","Annual Agric Value","2018","Year 4","Control",340.85
+"Kanungu","Livestock Income","2018","Year 4","RTV",43.17
+"Kanungu","Livestock Income","2018","Year 4","Control",27.55
+"Kanungu","Livestock Income/ Production","2018","Year 4","RTV",51.03
+"Kanungu","Livestock Income/ Production","2018","Year 4","Control",30.89
+"Kanungu","Livestock Value","2018","Year 4","RTV",302.07
+"Kanungu","Livestock Value","2018","Year 4","Control",212.66
+"Kanungu","PPI","2018","Year 4","RTV",21.37
+"Kanungu","PPI","2018","Year 4","Control",29.73
+"Kanungu","Salaried Employment","2019","Year 4","RTV",34.09
+"Kanungu","Salaried Employment","2019","Year 4","Control",23.905796
+"Kanungu","Self-Income / Business","2019","Year 4","RTV",100.99
+"Kanungu","Self-Income / Business","2019","Year 4","Control",82.427847
+"Kanungu","Casual Labour Income","2019","Year 4","RTV",74.07
+"Kanungu","Casual Labour Income","2019","Year 4","Control",69.67278
+"Kanungu","Remit and Gifts Income","2019","Year 4","RTV",33.04
+"Kanungu","Remit and Gifts Income","2019","Year 4","Control",37.394595
+"Kanungu","Rent Income","2019","Year 4","RTV",6.42
+"Kanungu","Rent Income","2019","Year 4","Control",8.579853
+"Kanungu","Perennial Crop Income","2019","Year 4","RTV",187.54
+"Kanungu","Perennial Crop Income","2019","Year 4","Control",89.61655
+"Kanungu","Seasonal Crop Income","2019","Year 4","RTV",237.96
+"Kanungu","Seasonal Crop Income","2019","Year 4","Control",81.824289
+"Kanungu","Season1 Value","2019","Year 4","RTV",297.82
+"Kanungu","Season1 Value","2019","Year 4","Control",173.106264
+"Kanungu","Season2 Value","2019","Year 4","RTV",223.39
+"Kanungu","Season2 Value","2019","Year 4","Control",95.105384
+"Kanungu","Perennial Value","2019","Year 4","RTV",271.92
+"Kanungu","Perennial Value","2019","Year 4","Control",170.935802
+"Kanungu","Annual Agric Value","2019","Year 4","RTV",793.13
+"Kanungu","Annual Agric Value","2019","Year 4","Control",439.14745
+"Kanungu","Livestock Income","2019","Year 4","RTV",29.29
+"Kanungu","Livestock Income","2019","Year 4","Control",28.03561
+"Kanungu","Livestock Income/ Production","2019","Year 4","RTV",32.53
+"Kanungu","Livestock Income/ Production","2019","Year 4","Control",30.466624
+"Kanungu","Livestock Value","2019","Year 4","RTV",288.74
+"Kanungu","Livestock Value","2019","Year 4","Control",241.17259
+"Kanungu","PPI","2019","Year 4","RTV",18.35
+"Kanungu","PPI","2019","Year 4","Control",27.645144
+"Rukungiri","Salaried Employment","2019","Year 4","RTV",55.81
+"Rukungiri","Salaried Employment","2019","Year 4","Control",23.905796
+"Rukungiri","Self-Income / Business","2019","Year 4","RTV",90.62
+"Rukungiri","Self-Income / Business","2019","Year 4","Control",82.427847
+"Rukungiri","Casual Labour Income","2019","Year 4","RTV",84.82
+"Rukungiri","Casual Labour Income","2019","Year 4","Control",69.67278
+"Rukungiri","Remit and Gifts Income","2019","Year 4","RTV",28.09
+"Rukungiri","Remit and Gifts Income","2019","Year 4","Control",37.394595
+"Rukungiri","Rent Income","2019","Year 4","RTV",6.74
+"Rukungiri","Rent Income","2019","Year 4","Control",8.579853
+"Rukungiri","Perennial Crop Income","2019","Year 4","RTV",214.16
+"Rukungiri","Perennial Crop Income","2019","Year 4","Control",89.61655
+"Rukungiri","Seasonal Crop Income","2019","Year 4","RTV",249.89
+"Rukungiri","Seasonal Crop Income","2019","Year 4","Control",81.824289
+"Rukungiri","Season1 Value","2019","Year 4","RTV",291.23
+"Rukungiri","Season1 Value","2019","Year 4","Control",173.106264
+"Rukungiri","Season2 Value","2019","Year 4","RTV",229.46
+"Rukungiri","Season2 Value","2019","Year 4","Control",95.105384
+"Rukungiri","Perennial Value","2019","Year 4","RTV",396.39
+"Rukungiri","Perennial Value","2019","Year 4","Control",170.935802
+"Rukungiri","Annual Agric Value","2019","Year 4","RTV",917.08
+"Rukungiri","Annual Agric Value","2019","Year 4","Control",439.14745
+"Rukungiri","Livestock Income","2019","Year 4","RTV",37.31
+"Rukungiri","Livestock Income","2019","Year 4","Control",28.03561
+"Rukungiri","Livestock Income/ Production","2019","Year 4","RTV",43.78
+"Rukungiri","Livestock Income/ Production","2019","Year 4","Control",30.466624
+"Rukungiri","Livestock Value","2019","Year 4","RTV",507.54
+"Rukungiri","Livestock Value","2019","Year 4","Control",241.17259
+"Rukungiri","PPI","2019","Year 4","RTV",19.26
+"Rukungiri","PPI","2019","Year 4","Control",27.645144
+"Kanungu","Salaried Employment","2020","Year 4","RTV",83.870589
+"Kanungu","Salaried Employment","2020","Year 4","Control",25.27
+"Kanungu","Self-Income / Business","2020","Year 4","RTV",93.853583
+"Kanungu","Self-Income / Business","2020","Year 4","Control",52.54
+"Kanungu","Casual Labour Income","2020","Year 4","RTV",83.902027
+"Kanungu","Casual Labour Income","2020","Year 4","Control",108.19
+"Kanungu","Remit and Gifts Income","2020","Year 4","RTV",35.257249
+"Kanungu","Remit and Gifts Income","2020","Year 4","Control",29.05
+"Kanungu","Rent Income","2020","Year 4","RTV",9.497
+"Kanungu","Rent Income","2020","Year 4","Control",3.63
+"Kanungu","Perennial Crop Income","2020","Year 4","RTV",275.952679
+"Kanungu","Perennial Crop Income","2020","Year 4","Control",95.52
+"Kanungu","Seasonal Crop Income","2020","Year 4","RTV",247.976082
+"Kanungu","Seasonal Crop Income","2020","Year 4","Control",93.47
+"Kanungu","Season1 Value","2020","Year 4","RTV",314.946181
+"Kanungu","Season1 Value","2020","Year 4","Control",189.35
+"Kanungu","Season2 Value","2020","Year 4","RTV",251.171091
+"Kanungu","Season2 Value","2020","Year 4","Control",105.45
+"Kanungu","Perennial Value","2020","Year 4","RTV",396.943295
+"Kanungu","Perennial Value","2020","Year 4","Control",183.72
+"Kanungu","Annual Agric Value","2020","Year 4","RTV",963.060566
+"Kanungu","Annual Agric Value","2020","Year 4","Control",478.51
+"Kanungu","Livestock Income","2020","Year 4","RTV",37.184803
+"Kanungu","Livestock Income","2020","Year 4","Control",13.81
+"Kanungu","Livestock Income/ Production","2020","Year 4","RTV",49.267292
+"Kanungu","Livestock Income/ Production","2020","Year 4","Control",15.74
+"Kanungu","Livestock Value","2020","Year 4","RTV",255.59802
+"Kanungu","Livestock Value","2020","Year 4","Control",236.56
+"Kanungu","PPI","2020","Year 4","RTV",18.78316
+"Kanungu","PPI","2020","Year 4","Control",26.68
+"Rukungiri","Salaried Employment","2020","Year 4","RTV",53.770554
+"Rukungiri","Salaried Employment","2020","Year 4","Control",25.27
+"Rukungiri","Self-Income / Business","2020","Year 4","RTV",72.995233
+"Rukungiri","Self-Income / Business","2020","Year 4","Control",52.54
+"Rukungiri","Casual Labour Income","2020","Year 4","RTV",78.280098
+"Rukungiri","Casual Labour Income","2020","Year 4","Control",108.19
+"Rukungiri","Remit and Gifts Income","2020","Year 4","RTV",49.95653
+"Rukungiri","Remit and Gifts Income","2020","Year 4","Control",29.05
+"Rukungiri","Rent Income","2020","Year 4","RTV",11.016611
+"Rukungiri","Rent Income","2020","Year 4","Control",3.63
+"Rukungiri","Perennial Crop Income","2020","Year 4","RTV",270.115878
+"Rukungiri","Perennial Crop Income","2020","Year 4","Control",95.52
+"Rukungiri","Seasonal Crop Income","2020","Year 4","RTV",283.833386
+"Rukungiri","Seasonal Crop Income","2020","Year 4","Control",93.47
+"Rukungiri","Season1 Value","2020","Year 4","RTV",301.168998
+"Rukungiri","Season1 Value","2020","Year 4","Control",189.35
+"Rukungiri","Season2 Value","2020","Year 4","RTV",275.068019
+"Rukungiri","Season2 Value","2020","Year 4","Control",105.45
+"Rukungiri","Perennial Value","2020","Year 4","RTV",416.027216
+"Rukungiri","Perennial Value","2020","Year 4","Control",183.72
+"Rukungiri","Annual Agric Value","2020","Year 4","RTV",992.264233
+"Rukungiri","Annual Agric Value","2020","Year 4","Control",478.51
+"Rukungiri","Livestock Income","2020","Year 4","RTV",32.595267
+"Rukungiri","Livestock Income","2020","Year 4","Control",13.81
+"Rukungiri","Livestock Income/ Production","2020","Year 4","RTV",51.978832
+"Rukungiri","Livestock Income/ Production","2020","Year 4","Control",15.74
+"Rukungiri","Livestock Value","2020","Year 4","RTV",224.403494
+"Rukungiri","Livestock Value","2020","Year 4","Control",236.56
+"Rukungiri","PPI","2020","Year 4","RTV",17.413831
+"Rukungiri","PPI","2020","Year 4","Control",26.68
+"Mitooma","Salaried Employment","2020","Year 4","RTV",57.124324
+"Mitooma","Salaried Employment","2020","Year 4","Control",41.49482009
+"Mitooma","Self-Income / Business","2020","Year 4","RTV",100.042523
+"Mitooma","Self-Income / Business","2020","Year 4","Control",66.48550606
+"Mitooma","Casual Labour Income","2020","Year 4","RTV",62.480721
+"Mitooma","Casual Labour Income","2020","Year 4","Control",103.28703552
+"Mitooma","Remit and Gifts Income","2020","Year 4","RTV",24.225946
+"Mitooma","Remit and Gifts Income","2020","Year 4","Control",35.20441256
+"Mitooma","Rent Income","2020","Year 4","RTV",6.095856
+"Mitooma","Rent Income","2020","Year 4","Control",4.66028302
+"Mitooma","Perennial Crop Income","2020","Year 4","RTV",336.042018
+"Mitooma","Perennial Crop Income","2020","Year 4","Control",86.6151835
+"Mitooma","Seasonal Crop Income","2020","Year 4","RTV",95.547135
+"Mitooma","Seasonal Crop Income","2020","Year 4","Control",40.89228406
+"Mitooma","Season1 Value","2020","Year 4","RTV",264.459099
+"Mitooma","Season1 Value","2020","Year 4","Control",95.4352103
+"Mitooma","Season2 Value","2020","Year 4","RTV",258.864036
+"Mitooma","Season2 Value","2020","Year 4","Control",76.72566914
+"Mitooma","Perennial Value","2020","Year 4","RTV",441.827063
+"Mitooma","Perennial Value","2020","Year 4","Control",211.67878035
+"Mitooma","Annual Agric Value","2020","Year 4","RTV",965.150198
+"Mitooma","Annual Agric Value","2020","Year 4","Control",383.83965979
+"Mitooma","Livestock Income","2020","Year 4","RTV",37.667207
+"Mitooma","Livestock Income","2020","Year 4","Control",17.8577411
+"Mitooma","Livestock Income/ Production","2020","Year 4","RTV",53.640219
+"Mitooma","Livestock Income/ Production","2020","Year 4","Control",22.04814014
+"Mitooma","Livestock Value","2020","Year 4","RTV",227.367568
+"Mitooma","Livestock Value","2020","Year 4","Control",114.02660218
+"Mitooma","PPI","2020","Year 4","RTV",17.7152
+"Mitooma","PPI","2020","Year 4","Control",24.1576969697
+"Kagadi","Salaried Employment","2020","Year 4","RTV",16.10412256
+"Kagadi","Salaried Employment","2020","Year 4","Control",41.49482009
+"Kagadi","Self-Income / Business","2020","Year 4","RTV",117.1129655
+"Kagadi","Self-Income / Business","2020","Year 4","Control",66.48550606
+"Kagadi","Casual Labour Income","2020","Year 4","RTV",71.8495454
+"Kagadi","Casual Labour Income","2020","Year 4","Control",103.28703552
+"Kagadi","Remit and Gifts Income","2020","Year 4","RTV",15.45273384
+"Kagadi","Remit and Gifts Income","2020","Year 4","Control",35.20441256
+"Kagadi","Rent Income","2020","Year 4","RTV",15.51874455
+"Kagadi","Rent Income","2020","Year 4","Control",4.66028302
+"Kagadi","Perennial Crop Income","2020","Year 4","RTV",166.19242745
+"Kagadi","Perennial Crop Income","2020","Year 4","Control",86.6151835
+"Kagadi","Seasonal Crop Income","2020","Year 4","RTV",414.65241624
+"Kagadi","Seasonal Crop Income","2020","Year 4","Control",40.89228406
+"Kagadi","Season1 Value","2020","Year 4","RTV",376.32911944
+"Kagadi","Season1 Value","2020","Year 4","Control",95.4352103
+"Kagadi","Season2 Value","2020","Year 4","RTV",312.21755511
+"Kagadi","Season2 Value","2020","Year 4","Control",76.72566914
+"Kagadi","Perennial Value","2020","Year 4","RTV",263.95889899
+"Kagadi","Perennial Value","2020","Year 4","Control",211.67878035
+"Kagadi","Annual Agric Value","2020","Year 4","RTV",952.50557355
+"Kagadi","Annual Agric Value","2020","Year 4","Control",383.83965979
+"Kagadi","Livestock Income","2020","Year 4","RTV",22.70145722
+"Kagadi","Livestock Income","2020","Year 4","Control",17.8577411
+"Kagadi","Livestock Income/ Production","2020","Year 4","RTV",32.98916428
+"Kagadi","Livestock Income/ Production","2020","Year 4","Control",22.04814014
+"Kagadi","Livestock Value","2020","Year 4","RTV",117.83161041
+"Kagadi","Livestock Value","2020","Year 4","Control",114.02660218
+"Kagadi","PPI","2020","Year 4","RTV",18.77557604
+"Kagadi","PPI","2020","Year 4","Control",24.1576969697
+"Kanungu","Salaried Employment","2018","Year 5","RTV",71.2
+"Kanungu","Salaried Employment","2018","Year 5","Control",23.905796
+"Kanungu","Self-Income / Business","2018","Year 5","RTV",93.11
+"Kanungu","Self-Income / Business","2018","Year 5","Control",82.427847
+"Kanungu","Casual Labour Income","2018","Year 5","RTV",88.62
+"Kanungu","Casual Labour Income","2018","Year 5","Control",69.67278
+"Kanungu","Remit and Gifts Income","2018","Year 5","RTV",25.78
+"Kanungu","Remit and Gifts Income","2018","Year 5","Control",37.394595
+"Kanungu","Rent Income","2018","Year 5","RTV",10.62
+"Kanungu","Rent Income","2018","Year 5","Control",8.579853
+"Kanungu","Perennial Crop Income","2018","Year 5","RTV",212.96
+"Kanungu","Perennial Crop Income","2018","Year 5","Control",89.61655
+"Kanungu","Seasonal Crop Income","2018","Year 5","RTV",231.83
+"Kanungu","Seasonal Crop Income","2018","Year 5","Control",81.824289
+"Kanungu","Season1 Value","2018","Year 5","RTV",251.09
+"Kanungu","Season1 Value","2018","Year 5","Control",173.106264
+"Kanungu","Season2 Value","2018","Year 5","RTV",203.44
+"Kanungu","Season2 Value","2018","Year 5","Control",95.105384
+"Kanungu","Perennial Value","2018","Year 5","RTV",332.1
+"Kanungu","Perennial Value","2018","Year 5","Control",170.935802
+"Kanungu","Annual Agric Value","2018","Year 5","RTV",786.63
+"Kanungu","Annual Agric Value","2018","Year 5","Control",439.14745
+"Kanungu","Livestock Income","2018","Year 5","RTV",42.05
+"Kanungu","Livestock Income","2018","Year 5","Control",28.03561
+"Kanungu","Livestock Income/ Production","2018","Year 5","RTV",50.28
+"Kanungu","Livestock Income/ Production","2018","Year 5","Control",30.466624
+"Kanungu","Livestock Value","2018","Year 5","RTV",338.67
+"Kanungu","Livestock Value","2018","Year 5","Control",241.17259
+"Kanungu","PPI","2018","Year 5","RTV",19.8
+"Kanungu","PPI","2018","Year 5","Control",27.645144
+"Kanungu","Salaried Employment","2019","Year 5","RTV",32.12
+"Kanungu","Salaried Employment","2019","Year 5","Control",25.27
+"Kanungu","Self-Income / Business","2019","Year 5","RTV",106.98
+"Kanungu","Self-Income / Business","2019","Year 5","Control",52.54
+"Kanungu","Casual Labour Income","2019","Year 5","RTV",71.89
+"Kanungu","Casual Labour Income","2019","Year 5","Control",108.19
+"Kanungu","Remit and Gifts Income","2019","Year 5","RTV",44.29
+"Kanungu","Remit and Gifts Income","2019","Year 5","Control",29.05
+"Kanungu","Rent Income","2019","Year 5","RTV",5.82
+"Kanungu","Rent Income","2019","Year 5","Control",3.63
+"Kanungu","Perennial Crop Income","2019","Year 5","RTV",234.12
+"Kanungu","Perennial Crop Income","2019","Year 5","Control",95.52
+"Kanungu","Seasonal Crop Income","2019","Year 5","RTV",275.36
+"Kanungu","Seasonal Crop Income","2019","Year 5","Control",93.47
+"Kanungu","Season1 Value","2019","Year 5","RTV",359.03
+"Kanungu","Season1 Value","2019","Year 5","Control",189.35
+"Kanungu","Season2 Value","2019","Year 5","RTV",250
+"Kanungu","Season2 Value","2019","Year 5","Control",105.45
+"Kanungu","Perennial Value","2019","Year 5","RTV",342.01
+"Kanungu","Perennial Value","2019","Year 5","Control",183.72
+"Kanungu","Annual Agric Value","2019","Year 5","RTV",951.03
+"Kanungu","Annual Agric Value","2019","Year 5","Control",478.51
+"Kanungu","Livestock Income","2019","Year 5","RTV",43.56
+"Kanungu","Livestock Income","2019","Year 5","Control",13.81
+"Kanungu","Livestock Income/ Production","2019","Year 5","RTV",51.03
+"Kanungu","Livestock Income/ Production","2019","Year 5","Control",15.74
+"Kanungu","Livestock Value","2019","Year 5","RTV",304.27
+"Kanungu","Livestock Value","2019","Year 5","Control",236.56
+"Kanungu","PPI","2019","Year 5","RTV",17.82
+"Kanungu","PPI","2019","Year 5","Control",26.68
+"Rukungiri","Salaried Employment","2019","Year 5","RTV",58.8
+"Rukungiri","Salaried Employment","2019","Year 5","Control",25.27
+"Rukungiri","Self-Income / Business","2019","Year 5","RTV",100
+"Rukungiri","Self-Income / Business","2019","Year 5","Control",52.54
+"Rukungiri","Casual Labour Income","2019","Year 5","RTV",62.81
+"Rukungiri","Casual Labour Income","2019","Year 5","Control",108.19
+"Rukungiri","Remit and Gifts Income","2019","Year 5","RTV",25.89
+"Rukungiri","Remit and Gifts Income","2019","Year 5","Control",29.05
+"Rukungiri","Rent Income","2019","Year 5","RTV",6.17
+"Rukungiri","Rent Income","2019","Year 5","Control",3.63
+"Rukungiri","Perennial Crop Income","2019","Year 5","RTV",242.18
+"Rukungiri","Perennial Crop Income","2019","Year 5","Control",95.52
+"Rukungiri","Seasonal Crop Income","2019","Year 5","RTV",302.12
+"Rukungiri","Seasonal Crop Income","2019","Year 5","Control",93.47
+"Rukungiri","Season1 Value","2019","Year 5","RTV",354.25
+"Rukungiri","Season1 Value","2019","Year 5","Control",189.35
+"Rukungiri","Season2 Value","2019","Year 5","RTV",240.83
+"Rukungiri","Season2 Value","2019","Year 5","Control",105.45
+"Rukungiri","Perennial Value","2019","Year 5","RTV",415.11
+"Rukungiri","Perennial Value","2019","Year 5","Control",183.72
+"Rukungiri","Annual Agric Value","2019","Year 5","RTV",1010.2
+"Rukungiri","Annual Agric Value","2019","Year 5","Control",478.51
+"Rukungiri","Livestock Income","2019","Year 5","RTV",54.76
+"Rukungiri","Livestock Income","2019","Year 5","Control",13.81
+"Rukungiri","Livestock Income/ Production","2019","Year 5","RTV",62.68
+"Rukungiri","Livestock Income/ Production","2019","Year 5","Control",15.74
+"Rukungiri","Livestock Value","2019","Year 5","RTV",521.81
+"Rukungiri","Livestock Value","2019","Year 5","Control",236.56
+"Rukungiri","PPI","2019","Year 5","RTV",17.52
+"Rukungiri","PPI","2019","Year 5","Control",26.68
+"Kanungu","Salaried Employment","2018","Year 6","RTV",NA
+"Kanungu","Salaried Employment","2018","Year 6","Control",25.27
+"Kanungu","Self-Income / Business","2018","Year 6","RTV",NA
+"Kanungu","Self-Income / Business","2018","Year 6","Control",52.54
+"Kanungu","Casual Labour Income","2018","Year 6","RTV",NA
+"Kanungu","Casual Labour Income","2018","Year 6","Control",108.19
+"Kanungu","Remit and Gifts Income","2018","Year 6","RTV",NA
+"Kanungu","Remit and Gifts Income","2018","Year 6","Control",29.05
+"Kanungu","Rent Income","2018","Year 6","RTV",NA
+"Kanungu","Rent Income","2018","Year 6","Control",3.63
+"Kanungu","Perennial Crop Income","2018","Year 6","RTV",NA
+"Kanungu","Perennial Crop Income","2018","Year 6","Control",95.52
+"Kanungu","Seasonal Crop Income","2018","Year 6","RTV",NA
+"Kanungu","Seasonal Crop Income","2018","Year 6","Control",93.47
+"Kanungu","Season1 Value","2018","Year 6","RTV",NA
+"Kanungu","Season1 Value","2018","Year 6","Control",189.35
+"Kanungu","Season2 Value","2018","Year 6","RTV",NA
+"Kanungu","Season2 Value","2018","Year 6","Control",105.45
+"Kanungu","Perennial Value","2018","Year 6","RTV",NA
+"Kanungu","Perennial Value","2018","Year 6","Control",183.72
+"Kanungu","Annual Agric Value","2018","Year 6","RTV",NA
+"Kanungu","Annual Agric Value","2018","Year 6","Control",478.51
+"Kanungu","Livestock Income","2018","Year 6","RTV",NA
+"Kanungu","Livestock Income","2018","Year 6","Control",13.81
+"Kanungu","Livestock Income/ Production","2018","Year 6","RTV",NA
+"Kanungu","Livestock Income/ Production","2018","Year 6","Control",15.74
+"Kanungu","Livestock Value","2018","Year 6","RTV",NA
+"Kanungu","Livestock Value","2018","Year 6","Control",236.56
+"Kanungu","PPI","2018","Year 6","RTV",NA
+"Kanungu","PPI","2018","Year 6","Control",26.68
