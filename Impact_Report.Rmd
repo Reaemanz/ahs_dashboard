@@ -2072,19 +2072,19 @@ Mitooma_2021_filtered_Year_3 <- Mapping_Mitooma_2021_Year3_to_Mitooma_Year3_Cont
 
 ```{r}
 
-Kanungu_Year_3_Control_18 <- Kanungu_2018_filtered_Year_6 %>%
-  filter(District == "Kanungu", Cohort == "2018", Year == "Year 3", !is.na(Control)) %>%
+Kanungu_Year_4_Control_18 <- Kanungu_2018_filtered_Year_3 %>%
+  filter(District == "Kanungu", Cohort == "2018", Year == "Year 4", !is.na(Control)) %>%
   select(`Income Streams`, Control) %>%
   rename(Control_Kanungu_2018 = Control) %>% view()
 
 # Fill NAs in Control for Kyenjojo, Cohort 2022, Year "Base"
-Mapping_Kanungu_2018_Year3_to_Kanungu_Year3_Control <- Kanungu_2018_filtered_Year_6 %>%
-  left_join(Kanungu_Year_3_Control_18, by = "Income Streams") %>%
+Mapping_Kanungu_2018_Year4_to_Kanungu_Year4_Control <- Mitooma_2021_filtered_Year_3 %>%
+  left_join(Kanungu_Year_4_Control_18, by = "Income Streams") %>%
   mutate(
     Control = ifelse(
       is.na(Control) &
       Cohort == 2018 &
-      Year == "Year 3" &
+      Year == "Year 4" &
       District %in% c("Kanungu"),
       Control_Kanungu_2018,
       Control
@@ -2092,11 +2092,191 @@ Mapping_Kanungu_2018_Year3_to_Kanungu_Year3_Control <- Kanungu_2018_filtered_Yea
   ) %>%
   select(-Control_Kanungu_2018) %>% view()
 
-# Filter out Kanungu 2018 Year 3
-Kanungu_2018_filtered_Year_3 <- Mapping_Kanungu_2018_Year3_to_Kanungu_Year3_Control %>%
-  filter(!(District == "Kanungu" & Cohort == "2018" & Year == "Year 3" & is.na(RTV))) %>% view()
 
 ```
+
+# KANUNGU YEAR 4
+2019
+
+```{r}
+
+Kanungu_Year_5_Control_19 <- Mapping_Rukunjiri_2019_Year3_to_kanungu_Yr4_Controls %>%
+  filter(District == "Kanungu", Cohort == "2018", Year == "Year 5", !is.na(Control)) %>%
+  select(`Income Streams`, Control) %>%
+  rename(Control_Kanungu_2019 = Control) %>% view()
+
+# Fill NAs in Control for Kyenjojo, Cohort 2022, Year "Base"
+Mapping_Kanungu_2019_Year4_to_Kanungu_Year5_Control <- Mapping_Kanungu_2018_Year4_to_Kanungu_Year4_Control %>%
+  left_join(Kanungu_Year_5_Control_19, by = "Income Streams") %>%
+  mutate(
+    Control = ifelse(
+      is.na(Control) &
+      Cohort == 2019 &
+      Year == "Year 4" &
+      District %in% c("Kanungu"),
+      Control_Kanungu_2019,
+      Control
+    )
+  ) %>%
+  select(-Control_Kanungu_2019) %>% view()
+
+
+```
+
+2019 COHORT,KANUNGU CONTROL- YEAR FOUR [KANUNGU]
+# RUKUNJIRI
+
+```{r}
+Rukunjiri_Year_4_Control_18 <- Kanungu_2018_filtered_Year_3 %>%
+  filter(District == "Kanungu", Cohort == "2018", Year == "Year 5", !is.na(Control)) %>%
+  select(`Income Streams`, Control) %>%
+  rename(Control_Rukunjiri_2019 = Control) %>% view()
+
+# Fill NAs in Control for Kisoro & Rukunjiri, Cohort 2019, Year "Base"
+Mapping_Rukunjiri_2019_Year4_to_kanungu_Yr5_Controls <- Mapping_Kanungu_2019_Year4_to_Kanungu_Year5_Control %>%
+  left_join(Rukunjiri_Year_4_Control_18, by = "Income Streams") %>%
+  mutate(
+    Control = ifelse(
+      is.na(Control) &
+      Cohort == 2019 &
+      Year == "Year 4" &
+      District %in% c("Rukungiri"),
+      Control_Rukunjiri_2019,
+      Control
+    )
+  ) %>%
+  select(-Control_Rukunjiri_2019) %>% view()
+
+```
+
+# KANUNGU YEAR 4
+2020
+
+```{r}
+
+Kanungu_Year_4_Control_20 <- Mapping_Rukunjiri_2019_Year3_to_kanungu_Yr4_Controls %>%
+  filter(District == "Kanungu", Cohort == "2018", Year == "Year 6", !is.na(Control)) %>%
+  select(`Income Streams`, Control) %>%
+  rename(Control_Kanungu_2020 = Control) %>% view()
+
+# Fill NAs in Control for Kyenjojo, Cohort 2022, Year "Base"
+Mapping_Kanungu_2020_Year4_to_Kanungu_2018_Year6_Control <- Mapping_Rukunjiri_2019_Year4_to_kanungu_Yr5_Controls %>%
+  left_join(Kanungu_Year_4_Control_20, by = "Income Streams") %>%
+  mutate(
+    Control = ifelse(
+      is.na(Control) &
+      Cohort == 2020 &
+      Year == "Year 4" &
+      District %in% c("Kanungu"),
+      Control_Kanungu_2020,
+      Control
+    )
+  ) %>%
+  select(-Control_Kanungu_2020) %>% view()
+
+
+```
+
+2020 COHORT,KANUNGU CONTROL- YEAR FOUR [KANUNGU]
+# RUKUNJIRI
+
+```{r}
+Rukunjiri_Year_4_Control_20 <- Mapping_Rukunjiri_2019_Year3_to_kanungu_Yr4_Controls %>%
+  filter(District == "Kanungu", Cohort == "2018", Year == "Year 6", !is.na(Control)) %>%
+  select(`Income Streams`, Control) %>%
+  rename(Control_Rukunjiri_2020 = Control) %>% view()
+
+# Fill NAs in Control for Kisoro & Rukunjiri, Cohort 2019, Year "Base"
+Mapping_Rukunjiri_2020_Year4_to_kanungu_Yr4_Controls <- Mapping_Kanungu_2020_Year4_to_Kanungu_2018_Year6_Control %>%
+  left_join(Rukunjiri_Year_4_Control_20, by = "Income Streams") %>%
+  mutate(
+    Control = ifelse(
+      is.na(Control) &
+      Cohort == 2020 &
+      Year == "Year 4" &
+      District %in% c("Rukungiri"),
+      Control_Rukunjiri_2020,
+      Control
+    )
+  ) %>%
+  select(-Control_Rukunjiri_2020) %>% view()
+
+```
+
+# MITOOMA YEAR 4
+2020
+
+```{r}
+
+Mitooma_Year_4_Control <- Mapping_Kagadi_2020_Year3_to_Mitooma_Yr3_Controls %>%
+  filter(District == "Mitooma", Cohort == "2020", Year == "Year 4", !is.na(Control)) %>%
+  select(`Income Streams`, Control) %>%
+  rename(Control_Mitooma_2020 = Control) %>% view()
+
+# Fill NAs in Control for Kyenjojo, Cohort 2022, Year "Base"
+Mapping_Mitooma_2020_Year4_to_Mitooma_Year4_Control <- Mapping_Rukunjiri_2020_Year4_to_kanungu_Yr4_Controls %>%
+  left_join(Mitooma_Year_4_Control, by = "Income Streams") %>%
+  mutate(
+    Control = ifelse(
+      is.na(Control) &
+      Cohort == 2020 &
+      Year == "Year 4" &
+      District %in% c("Mitooma"),
+      Control_Mitooma_2020,
+      Control
+    )
+  ) %>%
+  select(-Control_Mitooma_2020) %>% view()
+
+```
+
+2020 COHORT,KANUNGU CONTROL- YEAR THREE [MITOOMA]
+# KAGADI
+
+```{r}
+Mitooma_Year_4_Control_20 <- Mapping_Rukunjiri_2020_Year3_to_kanungu_Yr4_Controls %>%
+  filter(District == "Mitooma", Cohort == "2020", Year == "Year 4", !is.na(Control)) %>%
+  select(`Income Streams`, Control) %>%
+  rename(Control_Mitooma_2020 = Control) %>% view()
+
+# Fill NAs in Control for Kisoro & Rukunjiri, Cohort 2019, Year "Base"
+Mapping_Kagadi_2020_Year4_to_Mitooma_Yr4_Controls <- Mapping_Mitooma_2020_Year4_to_Mitooma_Year4_Control %>%
+  left_join(Mitooma_Year_4_Control_20, by = "Income Streams") %>%
+  mutate(
+    Control = ifelse(
+      is.na(Control) &
+      Cohort == 2020 &
+      Year == "Year 4" &
+      District %in% c("Kagadi"),
+      Control_Mitooma_2020,
+      Control
+    )
+  ) %>%
+  select(-Control_Mitooma_2020) %>% view()
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 KANUNGU
