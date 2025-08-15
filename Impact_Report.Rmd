@@ -41,7 +41,7 @@ df_long1 <- df_no_year %>%
 df_wide <- df_long1 %>%
   pivot_wider(
     names_from = `Income Streams`,
-    values_from = Amount
+    values_from = Amount,
   )
 
 # Build Year mapping from the first row
@@ -2392,6 +2392,8 @@ pivoted_data_2 <- original_data %>%
   ) %>%  view() 
 
 write.csv(Income_streams, "Income_streams.csv", row.names = FALSE)
+write.csv(pivoted_data_2, "Income_streams_2.csv", row.names = FALSE)
+write.csv(Mapping_Kanungu_2019_Year5_to_Kanungu_Year6_Control, "original_income_streams.csv", row.names = FALSE)
 
 ```
 
